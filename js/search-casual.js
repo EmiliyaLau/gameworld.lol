@@ -11,7 +11,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/breakit/cover/breakit.png?w=320",
     "description": "🎮 Breakit - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can perfect for busy life relaxation, simple and easy to master and play anytime and anywhere and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.87854266,
-    "popularity": 87
+    "popularity": 23
   },
   {
     "title": "Floppy Pipe",
@@ -27,7 +27,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/floppy-pipe/cover/floppy-pipe.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Floppy Pipe! Every detail is carefully polished to ensure you can play anytime and anywhere, relaxing and enjoyable casual experience and perfect for busy life relaxation and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.87059947,
-    "popularity": 73
+    "popularity": 50
   },
   {
     "title": "Frozen Sam",
@@ -39,7 +39,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/frozen-sam-1/cover/frozen-sam-1.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Frozen Sam! Through excellent game design and beautiful graphics, you can relaxing and enjoyable casual experience, perfect for busy life relaxation and play anytime and anywhere and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.86836694,
-    "popularity": 12
+    "popularity": 28
   },
   {
     "title": "Cut the Rope 2",
@@ -53,7 +53,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cut-the-rope-2/cover/cut-the-rope-2.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Cut the Rope 2! Every detail is carefully polished to ensure you can play anytime and anywhere, relaxing and enjoyable casual experience and great choice for brain training and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.86813739,
-    "popularity": 9
+    "popularity": 90
   },
   {
     "title": "Shoe Race",
@@ -66,7 +66,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/shoe-race-1/cover/shoe-race-1.png?w=320",
     "description": "🚀 Experience the stunning sensations of Shoe Race! Every detail is carefully polished to ensure you can play anytime and anywhere, great choice for brain training and perfect for busy life relaxation and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.86477834,
-    "popularity": 27
+    "popularity": 93
   },
   {
     "title": "Cut The Rope",
@@ -81,7 +81,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cut-the-rope/cover/cut-the-rope.png?w=320",
     "description": "🚀 Experience the stunning sensations of Cut The Rope! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of play anytime and anywhere, perfect for busy life relaxation and great choice for brain training. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.85808532,
-    "popularity": 5
+    "popularity": 6
   },
   {
     "title": "Makeover Run",
@@ -94,7 +94,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/makeover-run-1/cover/makeover-run-1.png?w=320",
     "description": "🚀 Experience the stunning sensations of Makeover Run! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect for busy life relaxation, play anytime and anywhere and relaxing and enjoyable casual experience. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.8543753,
-    "popularity": 50
+    "popularity": 25
   },
   {
     "title": "Cut the Rope Experiments",
@@ -108,7 +108,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cut-the-rope-experiments/cover/cut-the-rope-experiments.png?w=320",
     "description": "✨ Explore the amazing world of Cut the Rope Experiments! Through excellent game design and beautiful graphics, you can simple and easy to master, relaxing and enjoyable casual experience and great choice for brain training and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.85178124,
-    "popularity": 31
+    "popularity": 27
   },
   {
     "title": "Ropeman 3D",
@@ -122,7 +122,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/ropeman-3d-1/cover/ropeman-3d-1.png?w=320",
     "description": "✨ Explore the amazing world of Ropeman 3D! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and easy to master, perfect for busy life relaxation and play anytime and anywhere. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.84838339,
-    "popularity": 64
+    "popularity": 69
   },
   {
     "title": "Fish Love",
@@ -136,7 +136,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/fish-love/cover/fish-love.png?w=320",
     "description": "🎮 Fish Love - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can play anytime and anywhere, great choice for brain training and relaxing and enjoyable casual experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.84405559,
-    "popularity": 93
+    "popularity": 21
   },
   {
     "title": "Master of Numbers",
@@ -150,7 +150,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/master-of-numbers/cover/master-of-numbers.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Master of Numbers! Every detail is carefully polished to ensure you can perfect for busy life relaxation, simple and easy to master and play anytime and anywhere and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.83934573,
-    "popularity": 89
+    "popularity": 61
   },
   {
     "title": "Merge Dragons",
@@ -163,7 +163,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/merge-dragons/cover/merge-dragons.png?w=320",
     "description": "🚀 Experience the stunning sensations of Merge Dragons! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and easy to master, play anytime and anywhere and relaxing and enjoyable casual experience. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.83852507,
-    "popularity": 82
+    "popularity": 49
   },
   {
     "title": "Cut the Rope: Magic",
@@ -176,7 +176,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cut-the-rope-magic/cover/cut-the-rope-magic.png?w=320",
     "description": "🚀 Experience the stunning sensations of Cut the Rope: Magic! Every detail is carefully polished to ensure you can great choice for brain training, relaxing and enjoyable casual experience and simple and easy to master and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.8363173,
-    "popularity": 51
+    "popularity": 35
   },
   {
     "title": "Merge Brainrot",
@@ -189,7 +189,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/marge-brainrot/cover/marge-brainrot.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Merge Brainrot! Through excellent game design and beautiful graphics, you can relaxing and enjoyable casual experience, perfect for busy life relaxation and great choice for brain training and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.83265446,
-    "popularity": 17
+    "popularity": 60
   },
   {
     "title": "Magic Finger 3D",
@@ -203,7 +203,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/magic-finger-3d/cover/magic-finger-3d.png?w=320",
     "description": "✨ Explore the amazing world of Magic Finger 3D! Every detail is carefully polished to ensure you can play anytime and anywhere, perfect for busy life relaxation and simple and easy to master and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.83014274,
-    "popularity": 74
+    "popularity": 7
   },
   {
     "title": "I Want to Be King",
@@ -217,7 +217,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/i-want-to-be-king/cover/i-want-to-be-king.png?w=320",
     "description": "⭐ Discover the true charm of gaming in I Want to Be King! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of play anytime and anywhere, perfect for busy life relaxation and simple and easy to master. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.82115437,
-    "popularity": 1
+    "popularity": 16
   },
   {
     "title": "Downhill Car Ride Crash Test",
@@ -230,7 +230,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/downhill-car-ride-crash-test/cover/downhill-car-ride-crash-test.png?w=320",
     "description": "🎮 Downhill Car Ride Crash Test - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can simple and easy to master, perfect for busy life relaxation and relaxing and enjoyable casual experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.82020889,
-    "popularity": 30
+    "popularity": 9
   },
   {
     "title": "Wood Chopping Game",
@@ -243,7 +243,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/wood-chopping-game/cover/wood-chopping-game.png?w=320",
     "description": "✨ Explore the amazing world of Wood Chopping Game! Every detail is carefully polished to ensure you can simple and easy to master, relaxing and enjoyable casual experience and perfect for busy life relaxation and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.81957362,
-    "popularity": 53
+    "popularity": 97
   },
   {
     "title": "High Pizza",
@@ -257,7 +257,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/high-pizza-1/cover/high-pizza-1.png?w=320",
     "description": "⭐ Discover the true charm of gaming in High Pizza! Every detail is carefully polished to ensure you can simple and easy to master, perfect for busy life relaxation and relaxing and enjoyable casual experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.80978381,
-    "popularity": 69
+    "popularity": 63
   },
   {
     "title": "Balloon Smash",
@@ -270,7 +270,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/balloon-smash/cover/balloon-smash.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Balloon Smash! Every detail is carefully polished to ensure you can perfect for busy life relaxation, relaxing and enjoyable casual experience and play anytime and anywhere and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80426007,
-    "popularity": 92
+    "popularity": 96
   },
   {
     "title": "Bunny Goal",
@@ -283,7 +283,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bunny-goal/cover/bunny-goal.png?w=320",
     "description": "🏆 Bunny Goal brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of relaxing and enjoyable casual experience, simple and easy to master and play anytime and anywhere. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.8,
-    "popularity": 76
+    "popularity": 77
   },
   {
     "title": "Cut The Rope: Time Travel",
@@ -296,7 +296,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cut-the-rope-time-travel/cover/cut-the-rope-time-travel.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Cut The Rope: Time Travel! Every detail is carefully polished to ensure you can perfect for busy life relaxation, relaxing and enjoyable casual experience and simple and easy to master and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.79737388,
-    "popularity": 73
+    "popularity": 52
   },
   {
     "title": "Colored Water & Pin",
@@ -310,7 +310,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/colored-water-and-pin/cover/colored-water-and-pin.png?w=320",
     "description": "🏆 Colored Water & Pin brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can play anytime and anywhere, relaxing and enjoyable casual experience and great choice for brain training and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.79676465,
-    "popularity": 5
+    "popularity": 13
   },
   {
     "title": "Sandwich Runner",
@@ -323,7 +323,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sandwich-runner/cover/sandwich-runner.png?w=320",
     "description": "🚀 Experience the stunning sensations of Sandwich Runner! Every detail is carefully polished to ensure you can play anytime and anywhere, perfect for busy life relaxation and relaxing and enjoyable casual experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78936096,
-    "popularity": 33
+    "popularity": 49
   },
   {
     "title": "Perfect Wax 3D",
@@ -336,7 +336,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/perfect-wax-3d-1/cover/perfect-wax-3d-1.png?w=320",
     "description": "✨ Explore the amazing world of Perfect Wax 3D! Through excellent game design and beautiful graphics, you can perfect for busy life relaxation, relaxing and enjoyable casual experience and simple and easy to master and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.78574209,
-    "popularity": 19
+    "popularity": 73
   },
   {
     "title": "Home Pin 2",
@@ -349,7 +349,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/home-pin-2/cover/home-pin-2.png?w=320",
     "description": "🏆 Home Pin 2 brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training, play anytime and anywhere and relaxing and enjoyable casual experience. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.78279348,
-    "popularity": 85
+    "popularity": 37
   },
   {
     "title": "Juicy Run",
@@ -361,7 +361,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/juicy-run-1/cover/juicy-run-1.png?w=320",
     "description": "✨ Explore the amazing world of Juicy Run! This meticulously crafted game will bring you a premium experience of play anytime and anywhere, perfect for busy life relaxation and relaxing and enjoyable casual experience. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77651773,
-    "popularity": 95
+    "popularity": 73
   },
   {
     "title": "Mini Stilts",
@@ -374,7 +374,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mini-stilts/cover/mini-stilts.png?w=320",
     "description": "🎮 Mini Stilts - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can perfect for busy life relaxation, simple and easy to master and relaxing and enjoyable casual experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.77014463,
-    "popularity": 88
+    "popularity": 32
   },
   {
     "title": "Mouth Shift 3D",
@@ -389,7 +389,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mouth-shift-3d-1/cover/mouth-shift-3d-1.png?w=320",
     "description": "🎮 Mouth Shift 3D - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of relaxing and enjoyable casual experience, perfect for busy life relaxation and simple and easy to master. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7558245559928749,
-    "popularity": 51
+    "popularity": 78
   },
   {
     "title": "Last to Leave Circle Obby",
@@ -401,7 +401,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/last-to-leave-circle-obby/cover/last-to-leave-circle-obby.png?w=320",
     "description": "🏆 Last to Leave Circle Obby brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can perfect for busy life relaxation, simple and easy to master and play anytime and anywhere and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.75126937,
-    "popularity": 16
+    "popularity": 3
   },
   {
     "title": "Brainrot Chaser: Brainrot Challenge Game",
@@ -415,7 +415,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/brainrot-chaser-brainrot-challenge-game/cover/brainrot-chaser-brainrot-challenge-game.png?w=320",
     "description": "🎮 Brainrot Chaser: Brainrot Challenge Game - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training, perfect for busy life relaxation and relaxing and enjoyable casual experience. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.74483336,
-    "popularity": 70
+    "popularity": 44
   },
   {
     "title": "Weapon Run Battle",
@@ -428,7 +428,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/weapon-run-battle/cover/weapon-run-battle.png?w=320",
     "description": "✨ Explore the amazing world of Weapon Run Battle! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect for busy life relaxation, play anytime and anywhere and simple and easy to master. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.74477106,
-    "popularity": 53
+    "popularity": 58
   },
   {
     "title": "Extra Hot Chili 3D",
@@ -442,7 +442,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/extra-hot-chili-3d-1/cover/extra-hot-chili-3d-1.png?w=320",
     "description": "🏆 Extra Hot Chili 3D brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can simple and easy to master, play anytime and anywhere and great choice for brain training and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74446806,
-    "popularity": 38
+    "popularity": 32
   },
   {
     "title": "Serial Cheaters",
@@ -455,7 +455,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/serial-cheaters/cover/serial-cheaters.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Serial Cheaters! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of relaxing and enjoyable casual experience, perfect for busy life relaxation and simple and easy to master. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74362039,
-    "popularity": 90
+    "popularity": 87
   },
   {
     "title": "Snow Race 3d Fun Racing",
@@ -469,7 +469,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/snow-race-3d-fun-racing/cover/snow-race-3d-fun-racing.png?w=320",
     "description": "🚀 Experience the stunning sensations of Snow Race 3d Fun Racing! This meticulously crafted game will bring you a premium experience of simple and easy to master, play anytime and anywhere and perfect for busy life relaxation. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.74312923,
-    "popularity": 9
+    "popularity": 28
   },
   {
     "title": "Who says pigs can\"\"t fly",
@@ -482,7 +482,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/who-says-pigs-can-t-fly/cover/who-says-pigs-can-t-fly.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Who says pigs can\"\"t fly! This meticulously crafted game will bring you a premium experience of relaxing and enjoyable casual experience, perfect for busy life relaxation and great choice for brain training. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74226804,
-    "popularity": 72
+    "popularity": 32
   },
   {
     "title": "Mouse Survivor",
@@ -496,7 +496,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mouse-survivor/cover/mouse-survivor.png?w=320",
     "description": "🏆 Mouse Survivor brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of perfect for busy life relaxation, great choice for brain training and simple and easy to master. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.74226804,
-    "popularity": 60
+    "popularity": 93
   },
   {
     "title": "Combine Pickaxes",
@@ -508,7 +508,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/combine-pickaxes/cover/combine-pickaxes.png?w=320",
     "description": "✨ Explore the amazing world of Combine Pickaxes! Through excellent game design and beautiful graphics, you can simple and easy to master, relaxing and enjoyable casual experience and play anytime and anywhere and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73183754,
-    "popularity": 51
+    "popularity": 6
   },
   {
     "title": "Geometrix",
@@ -520,7 +520,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/geometrix/cover/geometrix.png?w=320",
     "description": "🏆 Geometrix brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of play anytime and anywhere, simple and easy to master and relaxing and enjoyable casual experience. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.7311828,
-    "popularity": 97
+    "popularity": 92
   },
   {
     "title": "Run Rich 3D",
@@ -534,7 +534,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/run-rich-3d-1/cover/run-rich-3d-1.png?w=320",
     "description": "🎮 Run Rich 3D - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can play anytime and anywhere, simple and easy to master and relaxing and enjoyable casual experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.72880962,
-    "popularity": 48
+    "popularity": 64
   },
   {
     "title": "Digit Shooter",
@@ -548,7 +548,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/digit-shooter/cover/digit-shooter.png?w=320",
     "description": "🚀 Experience the stunning sensations of Digit Shooter! This meticulously crafted game will bring you a premium experience of simple and easy to master, perfect for busy life relaxation and play anytime and anywhere. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.7227274,
-    "popularity": 13
+    "popularity": 8
   },
   {
     "title": "Super Star Body Race",
@@ -561,7 +561,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/super-star-body-race/cover/super-star-body-race.png?w=320",
     "description": "🏆 Super Star Body Race brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can play anytime and anywhere, perfect for busy life relaxation and relaxing and enjoyable casual experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.71144354,
-    "popularity": 97
+    "popularity": 34
   },
   {
     "title": "Swing On Moo",
@@ -585,7 +585,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/fly-fly-fly/cover/fly-fly-fly.png?w=320",
     "description": "🚀 Experience the stunning sensations of Fly Fly Fly! Every detail is carefully polished to ensure you can simple and easy to master, play anytime and anywhere and perfect for busy life relaxation and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70588235,
-    "popularity": 25
+    "popularity": 23
   },
   {
     "title": "House Deep Clean Sim",
@@ -599,7 +599,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/house-deep-clean-sim/cover/house-deep-clean-sim.png?w=320",
     "description": "🎮 House Deep Clean Sim - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of simple and easy to master, play anytime and anywhere and relaxing and enjoyable casual experience. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70313416,
-    "popularity": 75
+    "popularity": 23
   },
   {
     "title": "Insect Legends",
@@ -611,7 +611,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/insect-legends/cover/insect-legends.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Insect Legends! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect for busy life relaxation, simple and easy to master and relaxing and enjoyable casual experience. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70183496,
-    "popularity": 44
+    "popularity": 83
   },
   {
     "title": "Smile Rush",
@@ -625,7 +625,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/smile-rush-1/cover/smile-rush-1.png?w=320",
     "description": "Start your adventure journey in Smile Rush! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training, play anytime and anywhere and relaxing and enjoyable casual experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69761627,
-    "popularity": 30
+    "popularity": 20
   },
   {
     "title": "Cloak Master Shooter Run",
@@ -638,7 +638,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cloak-master-shooter-run/cover/cloak-master-shooter-run.png?w=320",
     "description": "Cloak Master Shooter Run offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in perfect for busy life relaxation, simple and easy to master and play anytime and anywhere. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69749633,
-    "popularity": 88
+    "popularity": 77
   },
   {
     "title": "Heaven or Hell?! The choice is yours!",
@@ -651,7 +651,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/heaven-or-hell-the-choice-is-yours/cover/heaven-or-hell-the-choice-is-yours.png?w=320",
     "description": "Explore the infinite possibilities hidden in Heaven or Hell?! The choice is yours!! Through carefully designed game mechanics, you can simple and easy to master, play anytime and anywhere and relaxing and enjoyable casual experience and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69305472,
-    "popularity": 13
+    "popularity": 51
   },
   {
     "title": "Tiki",
@@ -663,7 +663,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tiki/cover/tiki.png?w=320",
     "description": "Explore the infinite possibilities hidden in Tiki! Here, you can relaxing and enjoyable casual experience, simple and easy to master and perfect for busy life relaxation and enjoy the endless charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.69135802,
-    "popularity": 80
+    "popularity": 0
   },
   {
     "title": "Plush Eggs Vending Machine",
@@ -677,7 +677,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/plush-eggs-vending-machine/cover/plush-eggs-vending-machine.png?w=320",
     "description": "Ready to experience the endless fun that Plush Eggs Vending Machine brings? Through carefully designed game mechanics, you can relaxing and enjoyable casual experience, perfect for busy life relaxation and simple and easy to master and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6886495,
-    "popularity": 82
+    "popularity": 60
   },
   {
     "title": "Sustainable 4",
@@ -689,7 +689,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sustainable-4/cover/sustainable-4.png?w=320",
     "description": "Welcome to the amazing world of Sustainable 4! Whether you're a beginner or experienced player, you can find your own happiness in perfect for busy life relaxation, relaxing and enjoyable casual experience and play anytime and anywhere. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.68843307,
-    "popularity": 82
+    "popularity": 49
   },
   {
     "title": "Princess Dress Up Run",
@@ -701,7 +701,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/princess-dress-up-run/cover/princess-dress-up-run.png?w=320",
     "description": "Explore the infinite possibilities hidden in Princess Dress Up Run! This game will bring you a unique experience of relaxing and enjoyable casual experience, simple and easy to master and perfect for busy life relaxation. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.68282444,
-    "popularity": 37
+    "popularity": 83
   },
   {
     "title": "Sprunki Games Player 456",
@@ -713,7 +713,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sprunki-games-player-456/cover/sprunki-games-player-456.png?w=320",
     "description": "Sprunki Games Player 456 offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can simple and easy to master, perfect for busy life relaxation and play anytime and anywhere and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.68282444,
-    "popularity": 95
+    "popularity": 61
   },
   {
     "title": "Popping Sushi",
@@ -726,7 +726,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/popping-sushi/cover/popping-sushi.png?w=320",
     "description": "Ready to experience the endless fun that Popping Sushi brings? Here, you can simple and easy to master, perfect for busy life relaxation and play anytime and anywhere and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67828275,
-    "popularity": 79
+    "popularity": 11
   },
   {
     "title": "Monster Box",
@@ -739,7 +739,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/monster-box-1/cover/monster-box-1.png?w=320",
     "description": "Ready to experience the endless fun that Monster Box brings? This game will bring you a unique experience of relaxing and enjoyable casual experience, perfect for busy life relaxation and play anytime and anywhere. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.67828275,
-    "popularity": 68
+    "popularity": 16
   },
   {
     "title": "Tall.io",
@@ -752,7 +752,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tall-io/cover/tall-io.png?w=320",
     "description": "Welcome to the amazing world of Tall.io! Through carefully designed game mechanics, you can play anytime and anywhere, simple and easy to master and relaxing and enjoyable casual experience and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.67615261,
-    "popularity": 26
+    "popularity": 84
   },
   {
     "title": "Hole and Fill Collect Master",
@@ -764,7 +764,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/hole-and-fill-collect-master/cover/hole-and-fill-collect-master.png?w=320",
     "description": "Start your adventure journey in Hole and Fill Collect Master! This game will bring you a unique experience of relaxing and enjoyable casual experience, play anytime and anywhere and simple and easy to master. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.67532468,
-    "popularity": 17
+    "popularity": 89
   },
   {
     "title": "Hide from Tung!",
@@ -776,7 +776,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/hide-from-tung/cover/hide-from-tung.png?w=320",
     "description": "Welcome to the amazing world of Hide from Tung!! Here, you can relaxing and enjoyable casual experience, play anytime and anywhere and perfect for busy life relaxation and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.67532468,
-    "popularity": 91
+    "popularity": 36
   },
   {
     "title": "Flappy Skibidi Toilet",
@@ -790,7 +790,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/flappy-skibidi-toilet/cover/flappy-skibidi-toilet.png?w=320",
     "description": "Flappy Skibidi Toilet offers you an unprecedented gaming experience! Here, you can simple and easy to master, play anytime and anywhere and relaxing and enjoyable casual experience and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.67494494,
-    "popularity": 47
+    "popularity": 84
   },
   {
     "title": "Spider-Noob Obstacle Course",
@@ -802,7 +802,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/spider-noob-obstacle-course/cover/spider-noob-obstacle-course.png?w=320",
     "description": "Spider-Noob Obstacle Course offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can perfect for busy life relaxation, relaxing and enjoyable casual experience and play anytime and anywhere and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67189145,
-    "popularity": 26
+    "popularity": 56
   },
   {
     "title": "Layer Master",
@@ -814,7 +814,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/layer-master/cover/layer-master.png?w=320",
     "description": "Welcome to the amazing world of Layer Master! Through carefully designed game mechanics, you can perfect for busy life relaxation, play anytime and anywhere and simple and easy to master and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.66862483,
-    "popularity": 69
+    "popularity": 92
   },
   {
     "title": "Runner Coaster Race",
@@ -828,7 +828,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/runner-coaster-race/cover/runner-coaster-race.png?w=320",
     "description": "Ready to experience the endless fun that Runner Coaster Race brings? Whether you're a beginner or experienced player, you can find your own happiness in relaxing and enjoyable casual experience, play anytime and anywhere and perfect for busy life relaxation. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66745201,
-    "popularity": 20
+    "popularity": 26
   },
   {
     "title": "Bridal Rush",
@@ -842,7 +842,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bridal-rush-1/cover/bridal-rush-1.png?w=320",
     "description": "Welcome to the amazing world of Bridal Rush! Here, you can play anytime and anywhere, perfect for busy life relaxation and relaxing and enjoyable casual experience and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66424774,
-    "popularity": 25
+    "popularity": 70
   },
   {
     "title": "Mob Control Shoot",
@@ -855,7 +855,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mob-control-shoot/cover/mob-control-shoot.png?w=320",
     "description": "Mob Control Shoot offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can perfect for busy life relaxation, simple and easy to master and relaxing and enjoyable casual experience and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66116588,
-    "popularity": 48
+    "popularity": 61
   },
   {
     "title": "Daily Bento Organizer",
@@ -868,7 +868,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/daily-bento-organizer/cover/daily-bento-organizer.png?w=320",
     "description": "Welcome to the amazing world of Daily Bento Organizer! Whether you're a beginner or experienced player, you can find your own happiness in simple and easy to master, perfect for busy life relaxation and play anytime and anywhere. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66116588,
-    "popularity": 70
+    "popularity": 83
   },
   {
     "title": "Coffee Stack 1",
@@ -882,7 +882,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/coffee-stack-1/cover/coffee-stack-1.png?w=320",
     "description": "Welcome to the amazing world of Coffee Stack 1! Whether you're a beginner or experienced player, you can find your own happiness in perfect for busy life relaxation, simple and easy to master and relaxing and enjoyable casual experience. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65830249,
-    "popularity": 66
+    "popularity": 60
   },
   {
     "title": "Color Runner",
@@ -896,7 +896,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/color-runner/cover/color-runner.png?w=320",
     "description": "Ready to experience the endless fun that Color Runner brings? Through carefully designed game mechanics, you can perfect for busy life relaxation, relaxing and enjoyable casual experience and play anytime and anywhere and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65753425,
-    "popularity": 26
+    "popularity": 75
   },
   {
     "title": "Rolling Adventure",
@@ -909,7 +909,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/yellow-ball-rolling-4/cover/yellow-ball-rolling-4.png?w=320",
     "description": "Ready to experience the endless fun that Rolling Adventure brings? Here, you can simple and easy to master, great choice for brain training and perfect for busy life relaxation and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65753425,
-    "popularity": 35
+    "popularity": 98
   },
   {
     "title": "Chubby Birds",
@@ -923,7 +923,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/chubby-birds/cover/chubby-birds.png?w=320",
     "description": "Ready to experience the endless fun that Chubby Birds brings? This game will bring you a unique experience of relaxing and enjoyable casual experience, perfect for busy life relaxation and simple and easy to master. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.65693929,
-    "popularity": 63
+    "popularity": 47
   },
   {
     "title": "Minecraft Money Stack",
@@ -936,7 +936,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/minecraft-money-stack/cover/minecraft-money-stack.png?w=320",
     "description": "Start your adventure journey in Minecraft Money Stack! Whether you're a beginner or experienced player, you can find your own happiness in relaxing and enjoyable casual experience, simple and easy to master and perfect for busy life relaxation. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65663364,
-    "popularity": 65
+    "popularity": 12
   },
   {
     "title": "Bucket Crusher ASMR",
@@ -949,7 +949,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bucket-crusher-asmr/cover/bucket-crusher-asmr.png?w=320",
     "description": "Welcome to the amazing world of Bucket Crusher ASMR! Through carefully designed game mechanics, you can play anytime and anywhere, relaxing and enjoyable casual experience and simple and easy to master and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65646617,
-    "popularity": 93
+    "popularity": 8
   },
   {
     "title": "Mega Prize Scratch",
@@ -962,7 +962,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mega-prize-scratch/cover/mega-prize-scratch.png?w=320",
     "description": "Start your adventure journey in Mega Prize Scratch! This game will bring you a unique experience of simple and easy to master, relaxing and enjoyable casual experience and perfect for busy life relaxation. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65244075,
-    "popularity": 13
+    "popularity": 38
   },
   {
     "title": "Draw 2 Save Stickman Puzzle",
@@ -975,7 +975,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/draw-2-save-stickman-puzzle/cover/draw-2-save-stickman-puzzle.png?w=320",
     "description": "Explore the infinite possibilities hidden in Draw 2 Save Stickman Puzzle! Here, you can great choice for brain training, simple and easy to master and relaxing and enjoyable casual experience and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65153772,
-    "popularity": 16
+    "popularity": 5
   },
   {
     "title": "Merge Cubes 2048 3D",
@@ -991,7 +991,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/merge-cubes-2048-3d/cover/merge-cubes-2048-3d.png?w=320",
     "description": "Start your adventure journey in Merge Cubes 2048 3D! Through carefully designed game mechanics, you can relaxing and enjoyable casual experience, simple and easy to master and perfect for busy life relaxation and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.64878756,
-    "popularity": 49
+    "popularity": 18
   },
   {
     "title": "Warping Bat",
@@ -1005,7 +1005,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/warping-bat/cover/warping-bat.png?w=320",
     "description": "Warping Bat offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in simple and easy to master, play anytime and anywhere and relaxing and enjoyable casual experience. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.63768116,
-    "popularity": 62
+    "popularity": 72
   },
   {
     "title": "Flappy Bird 2D Game",
@@ -1020,7 +1020,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/flappy-bird-2d-game/cover/flappy-bird-2d-game.png?w=320",
     "description": "Welcome to the amazing world of Flappy Bird 2D Game! Whether you're a beginner or experienced player, you can find your own happiness in relaxing and enjoyable casual experience, perfect for busy life relaxation and simple and easy to master. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.63768116,
-    "popularity": 29
+    "popularity": 52
   },
   {
     "title": "Shape Shifting Military",
@@ -1033,7 +1033,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/shape-shifting-military/cover/shape-shifting-military.png?w=320",
     "description": "Ready to experience the endless fun that Shape Shifting Military brings? Whether you're a beginner or experienced player, you can find your own happiness in play anytime and anywhere, perfect for busy life relaxation and relaxing and enjoyable casual experience. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.63695069,
-    "popularity": 1
+    "popularity": 88
   },
   {
     "title": "Gem Run Gem Stack",
@@ -1047,7 +1047,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/gem-run-gem-stack/cover/gem-run-gem-stack.png?w=320",
     "description": "Ready to experience the endless fun that Gem Run Gem Stack brings? Here, you can relaxing and enjoyable casual experience, play anytime and anywhere and simple and easy to master and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.62889996,
-    "popularity": 1
+    "popularity": 71
   },
   {
     "title": "Flappy Bird Spinning Oia Oia Cat",
@@ -1059,7 +1059,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/flappy-bird-spinning-oia-oia-cat/cover/flappy-bird-spinning-oia-oia-cat.png?w=320",
     "description": "Welcome to the amazing world of Flappy Bird Spinning Oia Oia Cat! Through carefully designed game mechanics, you can simple and easy to master, play anytime and anywhere and relaxing and enjoyable casual experience and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.62889996,
-    "popularity": 50
+    "popularity": 61
   },
   {
     "title": "Truth Runner",
@@ -1073,7 +1073,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/truth-runner-1/cover/truth-runner-1.png?w=320",
     "description": "Start your adventure journey in Truth Runner! This game will bring you a unique experience of simple and easy to master, relaxing and enjoyable casual experience and perfect for busy life relaxation. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6269073,
-    "popularity": 0
+    "popularity": 98
   },
   {
     "title": "Tung Tung Sahur Trap Maze",
@@ -1086,7 +1086,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tung-tung-sahur-trap-maze/cover/tung-tung-sahur-trap-maze.png?w=320",
     "description": "Start your adventure journey in Tung Tung Sahur Trap Maze! Through carefully designed game mechanics, you can great choice for brain training, play anytime and anywhere and simple and easy to master and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6200211,
-    "popularity": 96
+    "popularity": 18
   },
   {
     "title": "Dessert Stack Run",
@@ -1099,7 +1099,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/dessert-stack-run/cover/dessert-stack-run.png?w=320",
     "description": "Start your adventure journey in Dessert Stack Run! This game will bring you a unique experience of perfect for busy life relaxation, relaxing and enjoyable casual experience and simple and easy to master. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61603842,
-    "popularity": 43
+    "popularity": 38
   },
   {
     "title": "Planet Hopper",
@@ -1111,7 +1111,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/planet-hopper-space-launch/cover/planet-hopper-space-launch.png?w=320",
     "description": "Planet Hopper offers you an unprecedented gaming experience! Here, you can relaxing and enjoyable casual experience, perfect for busy life relaxation and simple and easy to master and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61575845,
-    "popularity": 87
+    "popularity": 64
   },
   {
     "title": "Sweet Raspberry",
@@ -1138,7 +1138,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/squid-game-2-tap-sprunki/cover/squid-game-2-tap-sprunki.png?w=320",
     "description": "Ready to experience the endless fun that Squid Game 2 Tap Sprunki brings? Whether you're a beginner or experienced player, you can find your own happiness in play anytime and anywhere, relaxing and enjoyable casual experience and perfect for busy life relaxation. Balanced game difficulty suits players of all levels. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 3
+    "popularity": 84
   },
   {
     "title": "Drops",
@@ -1151,7 +1151,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/drops/cover/drops.png?w=320",
     "description": "Welcome to the amazing world of Drops! This game will bring you a unique experience of simple and easy to master, relaxing and enjoyable casual experience and perfect for busy life relaxation. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61538462,
-    "popularity": 58
+    "popularity": 40
   },
   {
     "title": "Tilted",
@@ -1165,7 +1165,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/titled/cover/titled.png?w=320",
     "description": "Start your adventure journey in Tilted! Here, you can simple and easy to master, perfect for busy life relaxation and play anytime and anywhere and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 73
+    "popularity": 39
   },
   {
     "title": "Spinning Oia Oia Cat Flap Up",
@@ -1179,7 +1179,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/spinning-oia-oia-cat-flap-up/cover/spinning-oia-oia-cat-flap-up.png?w=320",
     "description": "Welcome to the amazing world of Spinning Oia Oia Cat Flap Up! Whether you're a beginner or experienced player, you can find your own happiness in perfect for busy life relaxation, play anytime and anywhere and simple and easy to master. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 47
+    "popularity": 35
   },
   {
     "title": "Sky Flapper",
@@ -1192,7 +1192,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sky-flapper/cover/sky-flapper.png?w=320",
     "description": "Welcome to the amazing world of Sky Flapper! This game will bring you a unique experience of simple and easy to master, perfect for busy life relaxation and relaxing and enjoyable casual experience. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.60789077,
-    "popularity": 46
+    "popularity": 97
   },
   {
     "title": "Super Sucker 3D",
@@ -1206,7 +1206,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/super-sucker-3d/cover/super-sucker-3d.png?w=320",
     "description": "Explore the infinite possibilities hidden in Super Sucker 3D! Through carefully designed game mechanics, you can great choice for brain training, play anytime and anywhere and simple and easy to master and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.60283262,
-    "popularity": 93
+    "popularity": 61
   },
   {
     "title": "Popcorn Stack",
@@ -1218,7 +1218,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/popcorn-stack/cover/popcorn-stack.png?w=320",
     "description": "Ready to experience the endless fun that Popcorn Stack brings? This game will bring you a unique experience of perfect for busy life relaxation, relaxing and enjoyable casual experience and simple and easy to master. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.60283262,
-    "popularity": 91
+    "popularity": 2
   },
   {
     "title": "Foodblogger Simulator",
@@ -1230,7 +1230,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/foodblogger-simulator/cover/foodblogger-simulator.png?w=320",
     "description": "Foodblogger Simulator offers you an unprecedented gaming experience! This game will bring you a unique experience of simple and easy to master, play anytime and anywhere and relaxing and enjoyable casual experience. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.60144286,
-    "popularity": 7
+    "popularity": 14
   },
   {
     "title": "Farm Match",
@@ -1243,7 +1243,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/farm-match/cover/farm-match.png?w=320",
     "description": "Explore the infinite possibilities hidden in Farm Match! Here, you can simple and easy to master, perfect for busy life relaxation and relaxing and enjoyable casual experience and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.60144286,
-    "popularity": 95
+    "popularity": 73
   },
   {
     "title": "Teeth Runner",
@@ -1256,7 +1256,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/teeth-runner-1/cover/teeth-runner-1.png?w=320",
     "description": "Teeth Runner offers you an unprecedented gaming experience! Here, you can perfect for busy life relaxation, relaxing and enjoyable casual experience and simple and easy to master and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.60135414,
-    "popularity": 81
+    "popularity": 64
   },
   {
     "title": "Mosquito Bite 3D",
@@ -1270,7 +1270,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mosquito-bite-3d/cover/mosquito-bite-3d.png?w=320",
     "description": "Ready to experience the endless fun that Mosquito Bite 3D brings? Through carefully designed game mechanics, you can relaxing and enjoyable casual experience, play anytime and anywhere and simple and easy to master and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.60024302,
-    "popularity": 85
+    "popularity": 10
   },
   {
     "title": "TenTrix Blast",
@@ -1286,7 +1286,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tentrix-blast/cover/tentrix-blast.png?w=320",
     "description": "✨ Explore the amazing world of TenTrix Blast! This meticulously crafted game will bring you a premium experience of great choice for brain training. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.84262669,
-    "popularity": 98
+    "popularity": 19
   },
   {
     "title": "Amazing Sheriff",
@@ -1298,7 +1298,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/amazing-sheriff/cover/amazing-sheriff.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Amazing Sheriff! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7855261,
-    "popularity": 53
+    "popularity": 3
   },
   {
     "title": "Heart Box",
@@ -1312,7 +1312,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/heart-box/cover/heart-box.png?w=320",
     "description": "🚀 Experience the stunning sensations of Heart Box! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.76190476,
-    "popularity": 40
+    "popularity": 99
   },
   {
     "title": "Squid Game in Dalgona Panic",
@@ -1324,7 +1324,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/squid-game-in-dalgona-panic/cover/squid-game-in-dalgona-panic.png?w=320",
     "description": "✨ Explore the amazing world of Squid Game in Dalgona Panic! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.73828943,
-    "popularity": 21
+    "popularity": 86
   },
   {
     "title": "Ratomilton Red Light Green Light",
@@ -1337,7 +1337,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/ratomilton-red-light-green-light/cover/ratomilton-red-light-green-light.png?w=320",
     "description": "✨ Explore the amazing world of Ratomilton Red Light Green Light! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73805625,
-    "popularity": 73
+    "popularity": 81
   },
   {
     "title": "TRZ Pop it",
@@ -1351,7 +1351,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/trz-pop-it/cover/trz-pop-it.png?w=320",
     "description": "⭐ Discover the true charm of gaming in TRZ Pop it! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72253479,
-    "popularity": 64
+    "popularity": 5
   },
   {
     "title": "Puzzle Block",
@@ -1366,7 +1366,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/puzzle-block/cover/puzzle-block.png?w=320",
     "description": "Ready to experience the endless fun that Puzzle Block brings? Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6851298815297329,
-    "popularity": 84
+    "popularity": 27
   },
   {
     "title": "Eggdog Among Us",
@@ -1380,7 +1380,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/eggdog-among-us/cover/eggdog-among-us.png?w=320",
     "description": "Explore the infinite possibilities hidden in Eggdog Among Us! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65547149,
-    "popularity": 50
+    "popularity": 20
   },
   {
     "title": "Kiko Adventure",
@@ -1393,7 +1393,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/kiko-adventure/cover/kiko-adventure.png?w=320",
     "description": "Explore the infinite possibilities hidden in Kiko Adventure! This game will bring you a unique experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.64490334,
-    "popularity": 44
+    "popularity": 87
   },
   {
     "title": "Mincraft Cube Puzzle",
@@ -1409,7 +1409,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/minecraft-cube-puzzle/cover/minecraft-cube-puzzle.png?w=320",
     "description": "Explore the infinite possibilities hidden in Mincraft Cube Puzzle! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.63532082,
-    "popularity": 7
+    "popularity": 62
   },
   {
     "title": "The Word Search",
@@ -1424,7 +1424,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/the-word-search/cover/the-word-search.png?w=320",
     "description": "Ready to experience the endless fun that The Word Search brings? Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Balanced game difficulty suits players of all levels. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61488378,
-    "popularity": 17
+    "popularity": 11
   },
   {
     "title": "Sliding Slide",
@@ -1438,7 +1438,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sliding-slide/cover/sliding-slide.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Sliding Slide! Through excellent game design and beautiful graphics, you can perfect for busy life relaxation, simple and easy to master and great choice for brain training and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.8710192,
-    "popularity": 14
+    "popularity": 87
   },
   {
     "title": "Portal",
@@ -1451,7 +1451,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/portal/cover/portal.png?w=320",
     "description": "🚀 Experience the stunning sensations of Portal! Through excellent game design and beautiful graphics, you can great choice for brain training, relaxing and enjoyable casual experience and play anytime and anywhere and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.86535326,
-    "popularity": 13
+    "popularity": 42
   },
   {
     "title": "Size Up: Giant Fighter Game",
@@ -1463,7 +1463,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/size-up/cover/size-up.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Size Up: Giant Fighter Game! This meticulously crafted game will bring you a premium experience of perfect for busy life relaxation, play anytime and anywhere and simple and easy to master. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.84221446,
-    "popularity": 70
+    "popularity": 24
   },
   {
     "title": "Ghost Walker",
@@ -1477,7 +1477,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/ghost-walker/cover/ghost-walker.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Ghost Walker! Every detail is carefully polished to ensure you can perfect for busy life relaxation, relaxing and enjoyable casual experience and play anytime and anywhere and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.813709,
-    "popularity": 62
+    "popularity": 26
   },
   {
     "title": "Robot Attacks",
@@ -1491,7 +1491,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/robot-attacks/cover/robot-attacks.png?w=320",
     "description": "✨ Explore the amazing world of Robot Attacks! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of play anytime and anywhere, perfect for busy life relaxation and simple and easy to master. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.81347308,
-    "popularity": 63
+    "popularity": 27
   },
   {
     "title": "FlappyBall",
@@ -1507,7 +1507,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/flappyball/cover/flappyball.png?w=320",
     "description": "🚀 Experience the stunning sensations of FlappyBall! This meticulously crafted game will bring you a premium experience of perfect for busy life relaxation, relaxing and enjoyable casual experience and simple and easy to master. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.78652195,
-    "popularity": 94
+    "popularity": 16
   },
   {
     "title": "Toilet Paper Please",
@@ -1520,7 +1520,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/toilet-paper-please/cover/toilet-paper-please.png?w=320",
     "description": "✨ Explore the amazing world of Toilet Paper Please! This meticulously crafted game will bring you a premium experience of relaxing and enjoyable casual experience, simple and easy to master and perfect for busy life relaxation. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78380833,
-    "popularity": 29
+    "popularity": 83
   },
   {
     "title": "Triangle Way",
@@ -1534,7 +1534,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/triangle-way/cover/triangle-way.png?w=320",
     "description": "🚀 Experience the stunning sensations of Triangle Way! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect for busy life relaxation, simple and easy to master and relaxing and enjoyable casual experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.77876106,
-    "popularity": 18
+    "popularity": 51
   },
   {
     "title": "Johnny Jump Challenge",
@@ -1547,7 +1547,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/johnny-jump-challenge/cover/johnny-jump-challenge.png?w=320",
     "description": "🏆 Johnny Jump Challenge brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can perfect for busy life relaxation, play anytime and anywhere and relaxing and enjoyable casual experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.76876974,
-    "popularity": 90
+    "popularity": 73
   },
   {
     "title": "Don’t touch the red",
@@ -1561,7 +1561,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/dont-touch-the-red/cover/dont-touch-the-red.png?w=320",
     "description": "✨ Explore the amazing world of Don’t touch the red! Every detail is carefully polished to ensure you can perfect for busy life relaxation, simple and easy to master and play anytime and anywhere and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7514566,
-    "popularity": 3
+    "popularity": 95
   },
   {
     "title": "Pawky",
@@ -1574,7 +1574,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/pawky/cover/pawky.png?w=320",
     "description": "🎮 Pawky - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training, simple and easy to master and play anytime and anywhere and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.74893626,
-    "popularity": 46
+    "popularity": 30
   },
   {
     "title": "Nest Quest",
@@ -1588,7 +1588,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/nest-quest/cover/nest-quest.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Nest Quest! Every detail is carefully polished to ensure you can simple and easy to master, play anytime and anywhere and perfect for busy life relaxation and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.74226804,
-    "popularity": 10
+    "popularity": 44
   },
   {
     "title": "Hungry Sheep",
@@ -1602,7 +1602,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/hungry-sheep/cover/hungry-sheep.png?w=320",
     "description": "🏆 Hungry Sheep brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of play anytime and anywhere, relaxing and enjoyable casual experience and simple and easy to master. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7311828,
-    "popularity": 91
+    "popularity": 36
   },
   {
     "title": "Fruit Fetch",
@@ -1615,7 +1615,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/fruit-fetch/cover/fruit-fetch.png?w=320",
     "description": "🎮 Fruit Fetch - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can play anytime and anywhere, perfect for busy life relaxation and simple and easy to master and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7311828,
-    "popularity": 36
+    "popularity": 28
   },
   {
     "title": "Dot Snap Battle",
@@ -1628,7 +1628,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/dot-snap-battle/cover/dot-snap-battle.png?w=320",
     "description": "🏆 Dot Snap Battle brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of play anytime and anywhere, relaxing and enjoyable casual experience and perfect for busy life relaxation. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7221440683913867,
-    "popularity": 23
+    "popularity": 19
   },
   {
     "title": "Alien Cube - Runner",
@@ -1643,7 +1643,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/alien-cube-runner/cover/alien-cube-runner.png?w=320",
     "description": "✨ Explore the amazing world of Alien Cube - Runner! Every detail is carefully polished to ensure you can relaxing and enjoyable casual experience, play anytime and anywhere and perfect for busy life relaxation and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.71358231,
-    "popularity": 80
+    "popularity": 13
   },
   {
     "title": "Tennis Dash",
@@ -1655,7 +1655,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tennis-dash/cover/tennis-dash.png?w=320",
     "description": "🎮 Tennis Dash - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of perfect for busy life relaxation, relaxing and enjoyable casual experience and play anytime and anywhere. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.70588235,
-    "popularity": 15
+    "popularity": 73
   },
   {
     "title": "Sun and Moon",
@@ -1667,7 +1667,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sun-and-moon/cover/sun-and-moon.png?w=320",
     "description": "Welcome to the amazing world of Sun and Moon! This game will bring you a unique experience of play anytime and anywhere, perfect for busy life relaxation and relaxing and enjoyable casual experience. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6918965,
-    "popularity": 34
+    "popularity": 89
   },
   {
     "title": "Falling Black Ball",
@@ -1679,7 +1679,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/falling-black-ball/cover/falling-black-ball.png?w=320",
     "description": "Ready to experience the endless fun that Falling Black Ball brings? Whether you're a beginner or experienced player, you can find your own happiness in perfect for busy life relaxation, simple and easy to master and play anytime and anywhere. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6918965,
-    "popularity": 95
+    "popularity": 79
   },
   {
     "title": "Scream Sprunki",
@@ -1692,7 +1692,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/scream-sprunki/cover/scream-sprunki.png?w=320",
     "description": "Start your adventure journey in Scream Sprunki! Through carefully designed game mechanics, you can simple and easy to master, perfect for busy life relaxation and play anytime and anywhere and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.69115776,
-    "popularity": 50
+    "popularity": 28
   },
   {
     "title": "Jump or Die",
@@ -1704,7 +1704,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/jump-or-die/cover/jump-or-die.png?w=320",
     "description": "Explore the infinite possibilities hidden in Jump or Die! This game will bring you a unique experience of relaxing and enjoyable casual experience, play anytime and anywhere and simple and easy to master. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.68231659,
-    "popularity": 19
+    "popularity": 86
   },
   {
     "title": "Spiral Paint - Arcade Shooter",
@@ -1719,7 +1719,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/spiral-paint-arcade-shooter/cover/spiral-paint-arcade-shooter.png?w=320",
     "description": "Start your adventure journey in Spiral Paint - Arcade Shooter! Here, you can relaxing and enjoyable casual experience, perfect for busy life relaxation and play anytime and anywhere and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67828275,
-    "popularity": 13
+    "popularity": 78
   },
   {
     "title": "Squid Head Kick",
@@ -1732,7 +1732,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/squid-head-kick/cover/squid-head-kick.png?w=320",
     "description": "Start your adventure journey in Squid Head Kick! Through carefully designed game mechanics, you can relaxing and enjoyable casual experience, simple and easy to master and perfect for busy life relaxation and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67532468,
-    "popularity": 96
+    "popularity": 60
   },
   {
     "title": "Blue Fighting Friends",
@@ -1746,7 +1746,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/blue-fighting-friends/cover/blue-fighting-friends.png?w=320",
     "description": "Start your adventure journey in Blue Fighting Friends! This game will bring you a unique experience of play anytime and anywhere, simple and easy to master and relaxing and enjoyable casual experience. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6753246753246753,
-    "popularity": 98
+    "popularity": 26
   },
   {
     "title": "Idle Higher Ball",
@@ -1760,7 +1760,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/idle-higher-ball-1/cover/idle-higher-ball-1.png?w=320",
     "description": "Welcome to the amazing world of Idle Higher Ball! Whether you're a beginner or experienced player, you can find your own happiness in perfect for busy life relaxation, play anytime and anywhere and simple and easy to master. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.66745201,
-    "popularity": 24
+    "popularity": 99
   },
   {
     "title": "PopUp",
@@ -1774,7 +1774,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/popup/cover/popup.png?w=320",
     "description": "Welcome to the amazing world of PopUp! Whether you're a beginner or experienced player, you can find your own happiness in relaxing and enjoyable casual experience, perfect for busy life relaxation and play anytime and anywhere. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6612515295631466,
-    "popularity": 95
+    "popularity": 78
   },
   {
     "title": "Box Challenge",
@@ -1787,7 +1787,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/box-challenge/cover/box-challenge.png?w=320",
     "description": "Ready to experience the endless fun that Box Challenge brings? This game will bring you a unique experience of perfect for busy life relaxation, play anytime and anywhere and simple and easy to master. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65753425,
-    "popularity": 78
+    "popularity": 64
   },
   {
     "title": "Ping Pong Arcade",
@@ -1801,7 +1801,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/ping-pong-arcade/cover/ping-pong-arcade.png?w=320",
     "description": "Ready to experience the endless fun that Ping Pong Arcade brings? Through carefully designed game mechanics, you can relaxing and enjoyable casual experience, simple and easy to master and perfect for busy life relaxation and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65646617,
-    "popularity": 43
+    "popularity": 96
   },
   {
     "title": "Stack Block - Up",
@@ -1816,7 +1816,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/stack-block-up/cover/stack-block-up.png?w=320",
     "description": "Stack Block - Up offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can relaxing and enjoyable casual experience, perfect for busy life relaxation and simple and easy to master and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65611615,
-    "popularity": 50
+    "popularity": 83
   },
   {
     "title": "Stacky Maze",
@@ -1830,7 +1830,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/stacky-maze/cover/stacky-maze.png?w=320",
     "description": "Ready to experience the endless fun that Stacky Maze brings? This game will bring you a unique experience of play anytime and anywhere, great choice for brain training and simple and easy to master. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63536173,
-    "popularity": 94
+    "popularity": 98
   },
   {
     "title": "Tower Wars Arena",
@@ -1843,7 +1843,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tower-wars-arena/cover/tower-wars-arena.png?w=320",
     "description": "Start your adventure journey in Tower Wars Arena! Here, you can perfect for busy life relaxation, play anytime and anywhere and relaxing and enjoyable casual experience and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61575845,
-    "popularity": 83
+    "popularity": 32
   },
   {
     "title": "Tao Tao",
@@ -1858,7 +1858,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tao-tao/cover/tao-tao.png?w=320",
     "description": "Ready to experience the endless fun that Tao Tao brings? This game will bring you a unique experience of relaxing and enjoyable casual experience, play anytime and anywhere and great choice for brain training. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 60
+    "popularity": 51
   },
   {
     "title": "Don\"\"t Drop",
@@ -1872,7 +1872,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/dont-drop/cover/dont-drop.png?w=320",
     "description": "Ready to experience the endless fun that Don\"\"t Drop brings? Here, you can perfect for busy life relaxation, relaxing and enjoyable casual experience and play anytime and anywhere and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 88
+    "popularity": 2
   },
   {
     "title": "Plinker",
@@ -1886,7 +1886,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/plinker/cover/plinker.png?w=320",
     "description": "Plinker offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in perfect for busy life relaxation, play anytime and anywhere and relaxing and enjoyable casual experience. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 1
+    "popularity": 2
   },
   {
     "title": "HexaShift",
@@ -1899,7 +1899,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/hexashift/cover/hexashift.png?w=320",
     "description": "Ready to experience the endless fun that HexaShift brings? Whether you're a beginner or experienced player, you can find your own happiness in simple and easy to master, relaxing and enjoyable casual experience and play anytime and anywhere. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 57
+    "popularity": 66
   },
   {
     "title": "Table Tennis for 2 Remake",
@@ -1911,7 +1911,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/table-tennis-for-2-remake/cover/table-tennis-for-2-remake.png?w=320",
     "description": "Table Tennis for 2 Remake offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can perfect for busy life relaxation, relaxing and enjoyable casual experience and simple and easy to master and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61538462,
-    "popularity": 10
+    "popularity": 89
   },
   {
     "title": "Swing Hero",
@@ -1924,7 +1924,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/swing-hero/cover/swing-hero.png?w=320",
     "description": "Welcome to the amazing world of Swing Hero! Here, you can simple and easy to master, relaxing and enjoyable casual experience and perfect for busy life relaxation and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61538462,
-    "popularity": 38
+    "popularity": 72
   },
   {
     "title": "Galaxy Runner",
@@ -1937,7 +1937,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/galaxy-runner/cover/galaxy-runner.png?w=320",
     "description": "Galaxy Runner offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in relaxing and enjoyable casual experience, perfect for busy life relaxation and simple and easy to master. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.60144286,
-    "popularity": 94
+    "popularity": 71
   },
   {
     "title": "Sweet Drop",
@@ -1952,7 +1952,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sweet-drop/cover/sweet-drop.png?w=320",
     "description": "Ready to experience the endless fun that Sweet Drop brings? Through carefully designed game mechanics, you can relaxing and enjoyable casual experience, play anytime and anywhere and perfect for busy life relaxation and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.60144286,
-    "popularity": 19
+    "popularity": 58
   },
   {
     "title": "Sustainable 3",
@@ -1964,7 +1964,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sustainable-3/cover/sustainable-3.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Sustainable 3! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74226804,
-    "popularity": 53
+    "popularity": 13
   },
   {
     "title": "Sustainable 5",
@@ -1976,7 +1976,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sustainable-5/cover/sustainable-5.png?w=320",
     "description": "Sustainable 5 offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66745201,
-    "popularity": 60
+    "popularity": 48
   },
   {
     "title": "Canjump",
@@ -1990,7 +1990,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/canjump/cover/canjump.png?w=320",
     "description": "🚀 Experience the stunning sensations of Canjump! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.89608456,
-    "popularity": 8
+    "popularity": 57
   },
   {
     "title": "Red Impostor vs. Crew",
@@ -2003,7 +2003,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/red-impostor-vs-crew/cover/red-impostor-vs-crew.png?w=320",
     "description": "🎮 Red Impostor vs. Crew - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.8780788,
-    "popularity": 21
+    "popularity": 76
   },
   {
     "title": "Monster School Challenges",
@@ -2017,7 +2017,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/monster-school-challenges/cover/monster-school-challenges.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Monster School Challenges! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.86723479,
-    "popularity": 47
+    "popularity": 71
   },
   {
     "title": "Skibidi Blocks",
@@ -2030,7 +2030,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/skibidi-blocks/cover/skibidi-blocks.png?w=320",
     "description": "🎮 Skibidi Blocks - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.85199117,
-    "popularity": 65
+    "popularity": 77
   },
   {
     "title": "The Eggsecutioner",
@@ -2044,7 +2044,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/the-eggsecutioner/cover/the-eggsecutioner.png?w=320",
     "description": "⭐ Discover the true charm of gaming in The Eggsecutioner! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.84608893,
-    "popularity": 29
+    "popularity": 51
   },
   {
     "title": "Smart Looter",
@@ -2056,7 +2056,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/smart-looter/cover/smart-looter.png?w=320",
     "description": "✨ Explore the amazing world of Smart Looter! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.84417955,
-    "popularity": 55
+    "popularity": 41
   },
   {
     "title": "BlindBat",
@@ -2070,7 +2070,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/blindbat/cover/blindbat.png?w=320",
     "description": "🚀 Experience the stunning sensations of BlindBat! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.84369839,
-    "popularity": 0
+    "popularity": 89
   },
   {
     "title": "Speakerman-Skibidi Dop Yes Yes",
@@ -2083,7 +2083,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/speakerman-skibidi-dop-yes-yes/cover/speakerman-skibidi-dop-yes-yes.png?w=320",
     "description": "🏆 Speakerman-Skibidi Dop Yes Yes brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.83734946,
-    "popularity": 70
+    "popularity": 10
   },
   {
     "title": "Boss Level - Pumpkin Madness",
@@ -2098,7 +2098,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/boss-level-pumpkin-madness/cover/boss-level-pumpkin-madness.png?w=320",
     "description": "🎮 Boss Level - Pumpkin Madness - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.83022947,
-    "popularity": 35
+    "popularity": 38
   },
   {
     "title": "The Elevator Clicker",
@@ -2112,7 +2112,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/the-elevator-clicker/cover/the-elevator-clicker.png?w=320",
     "description": "⭐ Discover the true charm of gaming in The Elevator Clicker! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.82398249,
-    "popularity": 10
+    "popularity": 80
   },
   {
     "title": "Murder",
@@ -2124,7 +2124,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/murder-flash/cover/murder-flash.png?w=320",
     "description": "🏆 Murder brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.82314904,
-    "popularity": 21
+    "popularity": 91
   },
   {
     "title": "Death Run",
@@ -2136,7 +2136,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/death-run/cover/death-run.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Death Run! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.82015622,
-    "popularity": 63
+    "popularity": 81
   },
   {
     "title": "Angry Gran",
@@ -2148,7 +2148,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/angry-gran/cover/angry-gran.png?w=320",
     "description": "🚀 Experience the stunning sensations of Angry Gran! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.81542498,
-    "popularity": 26
+    "popularity": 15
   },
   {
     "title": "Murder Mafia",
@@ -2161,7 +2161,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/murder-mafia/cover/murder-mafia.png?w=320",
     "description": "🚀 Experience the stunning sensations of Murder Mafia! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.80161424,
-    "popularity": 11
+    "popularity": 18
   },
   {
     "title": "Black Hole Attack",
@@ -2176,7 +2176,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/black-hole-attack/cover/black-hole-attack.png?w=320",
     "description": "🏆 Black Hole Attack brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.79454769,
-    "popularity": 28
+    "popularity": 22
   },
   {
     "title": "Super Watermelon",
@@ -2189,7 +2189,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/super-watermelon/cover/super-watermelon.png?w=320",
     "description": "🏆 Super Watermelon brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.79328685,
-    "popularity": 37
+    "popularity": 69
   },
   {
     "title": "Go Chicken Go",
@@ -2203,7 +2203,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/go-chicken-go/cover/go-chicken-go.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Go Chicken Go! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.79144254,
-    "popularity": 58
+    "popularity": 64
   },
   {
     "title": "Stickman Huggy 2",
@@ -2215,7 +2215,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/stickman-huggy-2/cover/stickman-huggy-2.png?w=320",
     "description": "🎮 Stickman Huggy 2 - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.79104175,
-    "popularity": 97
+    "popularity": 96
   },
   {
     "title": "Boss Level Shootout",
@@ -2229,7 +2229,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/boss-level-shootout/cover/boss-level-shootout.png?w=320",
     "description": "✨ Explore the amazing world of Boss Level Shootout! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.78999423,
-    "popularity": 34
+    "popularity": 25
   },
   {
     "title": "The Green Mission Inside a Cave",
@@ -2242,7 +2242,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/the-green-mission-inside-a-cave/cover/the-green-mission-inside-a-cave.png?w=320",
     "description": "🚀 Experience the stunning sensations of The Green Mission Inside a Cave! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.78774045,
-    "popularity": 28
+    "popularity": 49
   },
   {
     "title": "Roblox Flip",
@@ -2254,7 +2254,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/roblox-flip/cover/roblox-flip.png?w=320",
     "description": "✨ Explore the amazing world of Roblox Flip! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.7844935,
-    "popularity": 57
+    "popularity": 64
   },
   {
     "title": "Popit vs Spinner",
@@ -2267,7 +2267,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/popit-vs-spinner/cover/popit-vs-spinner.png?w=320",
     "description": "🚀 Experience the stunning sensations of Popit vs Spinner! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.77642354,
-    "popularity": 1
+    "popularity": 43
   },
   {
     "title": "Fall Heroes Guys",
@@ -2279,7 +2279,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/fall-heroes-guys/cover/fall-heroes-guys.png?w=320",
     "description": "🚀 Experience the stunning sensations of Fall Heroes Guys! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.75317507,
-    "popularity": 16
+    "popularity": 60
   },
   {
     "title": "SquidGame.io",
@@ -2292,7 +2292,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/squidgame-io/cover/squidgame-io.png?w=320",
     "description": "🎮 SquidGame.io - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can enjoy gaming fun with friends and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.75234617,
-    "popularity": 35
+    "popularity": 75
   },
   {
     "title": "Skibidi Toilet Shooter",
@@ -2304,7 +2304,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/skibidi-toilet-shooter/cover/skibidi-toilet-shooter.png?w=320",
     "description": "🎮 Skibidi Toilet Shooter - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.75130609,
-    "popularity": 92
+    "popularity": 52
   },
   {
     "title": "Squid Hero Impostor",
@@ -2319,7 +2319,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/squid-hero-impostor/cover/squid-hero-impostor.png?w=320",
     "description": "✨ Explore the amazing world of Squid Hero Impostor! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7494284657042706,
-    "popularity": 84
+    "popularity": 52
   },
   {
     "title": "Bunny Graduation Double",
@@ -2333,7 +2333,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bunny-graduation-double/cover/bunny-graduation-double.png?w=320",
     "description": "🎮 Bunny Graduation Double - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7451071762739848,
-    "popularity": 34
+    "popularity": 9
   },
   {
     "title": "Stickman Huggy",
@@ -2345,7 +2345,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/stickman-huggy/cover/stickman-huggy.png?w=320",
     "description": "✨ Explore the amazing world of Stickman Huggy! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74432242,
-    "popularity": 31
+    "popularity": 18
   },
   {
     "title": "Organizer Master",
@@ -2359,7 +2359,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/organizer-master/cover/organizer-master.png?w=320",
     "description": "🎮 Organizer Master - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.74162256,
-    "popularity": 43
+    "popularity": 5
   },
   {
     "title": "Little Bouncing Guys",
@@ -2371,7 +2371,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/little-bouncing-guys/cover/little-bouncing-guys.png?w=320",
     "description": "🏆 Little Bouncing Guys brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73387788,
-    "popularity": 28
+    "popularity": 83
   },
   {
     "title": "Jump Step",
@@ -2387,7 +2387,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/jump-step/cover/jump-step.png?w=320",
     "description": "🎮 Jump Step - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.73387788,
-    "popularity": 96
+    "popularity": 52
   },
   {
     "title": "Hungry Plant",
@@ -2400,7 +2400,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/hungry-plant/cover/hungry-plant.png?w=320",
     "description": "🎮 Hungry Plant - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7311828,
-    "popularity": 19
+    "popularity": 69
   },
   {
     "title": "Flappy FootChinko",
@@ -2412,7 +2412,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/flappy-footchinko/cover/flappy-footchinko.png?w=320",
     "description": "✨ Explore the amazing world of Flappy FootChinko! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72884913,
-    "popularity": 38
+    "popularity": 54
   },
   {
     "title": "MAGA run",
@@ -2425,7 +2425,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/maga-run/cover/maga-run.png?w=320",
     "description": "🏆 MAGA run brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.727661499392436,
-    "popularity": 77
+    "popularity": 49
   },
   {
     "title": "Skateboard Wheelie",
@@ -2438,7 +2438,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/skateboard-wheelie/cover/skateboard-wheelie.png?w=320",
     "description": "🏆 Skateboard Wheelie brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72076507,
-    "popularity": 84
+    "popularity": 5
   },
   {
     "title": "Starship",
@@ -2450,7 +2450,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/starship/cover/starship.png?w=320",
     "description": "✨ Explore the amazing world of Starship! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.71992925,
-    "popularity": 40
+    "popularity": 33
   },
   {
     "title": "Cowboy VS Martians",
@@ -2462,7 +2462,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cowboy-vs-martians/cover/cowboy-vs-martians.png?w=320",
     "description": "🚀 Experience the stunning sensations of Cowboy VS Martians! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.70950252,
-    "popularity": 65
+    "popularity": 56
   },
   {
     "title": "Tap the Frog Doodle",
@@ -2476,7 +2476,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tap-the-frog-doodle/cover/tap-the-frog-doodle.png?w=320",
     "description": "🎮 Tap the Frog Doodle - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.70836483,
-    "popularity": 62
+    "popularity": 33
   },
   {
     "title": "Plugin",
@@ -2489,7 +2489,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/plugin/cover/plugin.png?w=320",
     "description": "🎮 Plugin - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7067451315305394,
-    "popularity": 41
+    "popularity": 28
   },
   {
     "title": "Pixel Us Red and Blue 2",
@@ -2506,7 +2506,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/pixel-us-red-and-blue-2/cover/pixel-us-red-and-blue-2.png?w=320",
     "description": "✨ Explore the amazing world of Pixel Us Red and Blue 2! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.70137079,
-    "popularity": 29
+    "popularity": 78
   },
   {
     "title": "Party Stickman 4 Player",
@@ -2518,7 +2518,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/party-stickman-4-player/cover/party-stickman-4-player.png?w=320",
     "description": "Start your adventure journey in Party Stickman 4 Player! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.68868964,
-    "popularity": 9
+    "popularity": 31
   },
   {
     "title": "Skibidi Elastic Head",
@@ -2530,7 +2530,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/skibidi-elastic-head/cover/skibidi-elastic-head.png?w=320",
     "description": "Skibidi Elastic Head offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.67821332,
-    "popularity": 2
+    "popularity": 14
   },
   {
     "title": "Mad Climbing",
@@ -2543,7 +2543,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mad-climbing/cover/mad-climbing.png?w=320",
     "description": "Start your adventure journey in Mad Climbing! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.67532468,
-    "popularity": 49
+    "popularity": 57
   },
   {
     "title": "Tangram",
@@ -2557,7 +2557,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tangram/cover/tangram.png?w=320",
     "description": "Tangram offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.66862483,
-    "popularity": 92
+    "popularity": 8
   },
   {
     "title": "Help Me Tricky Puzzle",
@@ -2571,7 +2571,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/help-me-tricky-puzzle/cover/help-me-tricky-puzzle.png?w=320",
     "description": "Welcome to the amazing world of Help Me Tricky Puzzle! Here, you can great choice for brain training and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6657319,
-    "popularity": 3
+    "popularity": 99
   },
   {
     "title": "Emoji with Friends",
@@ -2586,7 +2586,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/emoji-with-friends/cover/emoji-with-friends.png?w=320",
     "description": "Welcome to the amazing world of Emoji with Friends! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training and enjoy gaming fun with friends. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65753425,
-    "popularity": 10
+    "popularity": 13
   },
   {
     "title": "Fall on the Hall",
@@ -2599,7 +2599,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/fall-on-the-hall/cover/fall-on-the-hall.png?w=320",
     "description": "Explore the infinite possibilities hidden in Fall on the Hall! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6523359090056413,
-    "popularity": 56
+    "popularity": 98
   },
   {
     "title": "Robot Awake",
@@ -2612,7 +2612,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/robot-awake/cover/robot-awake.png?w=320",
     "description": "Welcome to the amazing world of Robot Awake! This game will bring you a unique experience of great choice for brain training. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6456214,
-    "popularity": 44
+    "popularity": 51
   },
   {
     "title": "Sandwich Master",
@@ -2625,7 +2625,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sandwich-master/cover/sandwich-master.png?w=320",
     "description": "Ready to experience the endless fun that Sandwich Master brings? Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.63911516,
-    "popularity": 46
+    "popularity": 87
   },
   {
     "title": "Penguin.io",
@@ -2637,7 +2637,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/penguin-io/cover/penguin-io.png?w=320",
     "description": "Welcome to the amazing world of Penguin.io! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.62554387,
-    "popularity": 26
+    "popularity": 12
   },
   {
     "title": "Flappy WOW",
@@ -2651,7 +2651,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/flappy-wow/cover/flappy-wow.png?w=320",
     "description": "Ready to experience the endless fun that Flappy WOW brings? Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6206981660029233,
-    "popularity": 67
+    "popularity": 37
   },
   {
     "title": "Skibidi Jump Adventure",
@@ -2663,7 +2663,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/skibidi-jump-adventure/cover/skibidi-jump-adventure.png?w=320",
     "description": "Explore the infinite possibilities hidden in Skibidi Jump Adventure! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 41
+    "popularity": 97
   },
   {
     "title": "Floppy Skibidi",
@@ -2676,7 +2676,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/floppy-skibidi/cover/floppy-skibidi.png?w=320",
     "description": "Ready to experience the endless fun that Floppy Skibidi brings? This game will bring you a unique experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 69
+    "popularity": 16
   },
   {
     "title": "Jump Bottle",
@@ -2689,7 +2689,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/jump-bottle/cover/jump-bottle.png?w=320",
     "description": "Jump Bottle offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6148925,
-    "popularity": 6
+    "popularity": 27
   },
   {
     "title": "Iron Mom",
@@ -2701,7 +2701,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/iron-mom/cover/iron-mom.png?w=320",
     "description": "Iron Mom offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6054820270939663,
-    "popularity": 67
+    "popularity": 55
   },
   {
     "title": "Bananamania",
@@ -2715,7 +2715,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bananamania/cover/bananamania.png?w=320",
     "description": "Ready to experience the endless fun that Bananamania brings? Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.60079727,
-    "popularity": 23
+    "popularity": 40
   },
   {
     "title": "Block Puzzle Chuzzle Classic",
@@ -2731,7 +2731,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/block-puzzle-chuzzle-classic/cover/block-puzzle-chuzzle-classic.png?w=320",
     "description": "✨ Explore the amazing world of Block Puzzle Chuzzle Classic! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.77913194,
-    "popularity": 72
+    "popularity": 3
   },
   {
     "title": "Rock Garden Deluxe",
@@ -2745,7 +2745,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/rock-garden-deluxe/cover/rock-garden-deluxe.png?w=320",
     "description": "✨ Explore the amazing world of Rock Garden Deluxe! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73091028,
-    "popularity": 99
+    "popularity": 47
   },
   {
     "title": "Chocolate Tetris Game",
@@ -2761,7 +2761,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/chocolate-tetris-game/cover/chocolate-tetris-game.png?w=320",
     "description": "✨ Explore the amazing world of Chocolate Tetris Game! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.70624329,
-    "popularity": 93
+    "popularity": 83
   },
   {
     "title": "Snail Clicker",
@@ -2774,7 +2774,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/snail-clicker/cover/snail-clicker.png?w=320",
     "description": "🏆 Snail Clicker brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.87140131,
-    "popularity": 61
+    "popularity": 3
   },
   {
     "title": "MineClicker",
@@ -2788,7 +2788,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mineclicker/cover/mineclicker.png?w=320",
     "description": "🚀 Experience the stunning sensations of MineClicker! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.86510543,
-    "popularity": 43
+    "popularity": 96
   },
   {
     "title": "Case Opener - Case Clicker Simulator",
@@ -2802,7 +2802,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/case-opener-case-clicking-simulator/cover/case-opener-case-clicking-simulator.png?w=320",
     "description": "✨ Explore the amazing world of Case Opener - Case Clicker Simulator! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.85046923,
-    "popularity": 63
+    "popularity": 94
   },
   {
     "title": "Satisfying Ball Clicker",
@@ -2816,7 +2816,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/satisfying-ball-clicker/cover/satisfying-ball-clicker.png?w=320",
     "description": "🎮 Satisfying Ball Clicker - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.84259994,
-    "popularity": 42
+    "popularity": 21
   },
   {
     "title": "Icy Purple Head 2",
@@ -2828,7 +2828,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/icy-purple-head/cover/icy-purple-head.png?w=320",
     "description": "🚀 Experience the stunning sensations of Icy Purple Head 2! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.83614394,
-    "popularity": 43
+    "popularity": 26
   },
   {
     "title": "Mixed World Weekend",
@@ -2841,7 +2841,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mixed-world-weekend/cover/mixed-world-weekend.png?w=320",
     "description": "🚀 Experience the stunning sensations of Mixed World Weekend! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.81922787,
-    "popularity": 0
+    "popularity": 72
   },
   {
     "title": "Spinning Cat Clicker",
@@ -2856,7 +2856,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/spinning-cat-clicker/cover/spinning-cat-clicker.png?w=320",
     "description": "🚀 Experience the stunning sensations of Spinning Cat Clicker! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.81240237,
-    "popularity": 16
+    "popularity": 64
   },
   {
     "title": "MineTap Merge Clicker",
@@ -2871,7 +2871,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/minetap-merge-clicker/cover/minetap-merge-clicker.png?w=320",
     "description": "🎮 MineTap Merge Clicker - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.79676465,
-    "popularity": 92
+    "popularity": 19
   },
   {
     "title": "Knee Surgery Clicker",
@@ -2885,7 +2885,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/knee-surgery-clicker/cover/knee-surgery-clicker.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Knee Surgery Clicker! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.79302969,
-    "popularity": 21
+    "popularity": 9
   },
   {
     "title": "Candy Clicker 2",
@@ -2900,7 +2900,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/candy-clicker-2/cover/candy-clicker-2.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Candy Clicker 2! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.75738935,
-    "popularity": 87
+    "popularity": 92
   },
   {
     "title": "Doctor Acorn 2",
@@ -2913,7 +2913,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/doctor-acorn-2/cover/doctor-acorn-2.png?w=320",
     "description": "🚀 Experience the stunning sensations of Doctor Acorn 2! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.73108822,
-    "popularity": 53
+    "popularity": 26
   },
   {
     "title": "IT Clicker",
@@ -2927,7 +2927,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/it-clicker/cover/it-clicker.png?w=320",
     "description": "🎮 IT Clicker - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.73091028,
-    "popularity": 64
+    "popularity": 6
   },
   {
     "title": "Stick Freak",
@@ -2940,7 +2940,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/stick-freak/cover/stick-freak.png?w=320",
     "description": "🏆 Stick Freak brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7214563684270149,
-    "popularity": 0
+    "popularity": 84
   },
   {
     "title": "Color Pin",
@@ -2953,7 +2953,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/color-pin/cover/color-pin.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Color Pin! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.71387543,
-    "popularity": 78
+    "popularity": 42
   },
   {
     "title": "Winter Adventures",
@@ -2965,7 +2965,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/winter-adventures/cover/winter-adventures.png?w=320",
     "description": "🎮 Winter Adventures - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.70611503,
-    "popularity": 1
+    "popularity": 23
   },
   {
     "title": "Italian Brainrot Neuro Beasts",
@@ -2979,7 +2979,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/italian-brainrot-neuro-beasts/cover/italian-brainrot-neuro-beasts.png?w=320",
     "description": "Ready to experience the endless fun that Italian Brainrot Neuro Beasts brings? Here, you can great choice for brain training and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69261089,
-    "popularity": 81
+    "popularity": 46
   },
   {
     "title": "Bread Pit 2",
@@ -2992,7 +2992,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bread-pit-2/cover/bread-pit-2.png?w=320",
     "description": "Ready to experience the endless fun that Bread Pit 2 brings? Here, you can great choice for brain training and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69239659,
-    "popularity": 18
+    "popularity": 68
   },
   {
     "title": "Mr. Doland Tariff Clicker",
@@ -3018,7 +3018,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cash-tycoon/cover/cash-tycoon.png?w=320",
     "description": "Ready to experience the endless fun that Cash Tycoon brings? Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67999465,
-    "popularity": 45
+    "popularity": 64
   },
   {
     "title": "Jelly Bomb",
@@ -3031,7 +3031,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/jelly-bomb/cover/jelly-bomb.png?w=320",
     "description": "Welcome to the amazing world of Jelly Bomb! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6787889836220483,
-    "popularity": 76
+    "popularity": 13
   },
   {
     "title": "Case Clicker",
@@ -3045,7 +3045,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/case-clicker/cover/case-clicker.png?w=320",
     "description": "Ready to experience the endless fun that Case Clicker brings? This game will bring you a unique experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67849536,
-    "popularity": 61
+    "popularity": 59
   },
   {
     "title": "Animal Clicker",
@@ -3059,7 +3059,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/animal-clicker/cover/animal-clicker.png?w=320",
     "description": "Explore the infinite possibilities hidden in Animal Clicker! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.67532468,
-    "popularity": 58
+    "popularity": 88
   },
   {
     "title": "Toilet Paper Hoarder",
@@ -3072,7 +3072,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/toilet-paper-hoarder/cover/toilet-paper-hoarder.png?w=320",
     "description": "Toilet Paper Hoarder offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.67532468,
-    "popularity": 93
+    "popularity": 98
   },
   {
     "title": "Orange Fruit Clicker",
@@ -3086,7 +3086,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/orange-fruit-clicker/cover/orange-fruit-clicker.png?w=320",
     "description": "Ready to experience the endless fun that Orange Fruit Clicker brings? Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.67532468,
-    "popularity": 63
+    "popularity": 7
   },
   {
     "title": "Planet Clicker",
@@ -3100,7 +3100,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/planet-clicker/cover/planet-clicker.png?w=320",
     "description": "Planet Clicker offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66908338,
-    "popularity": 74
+    "popularity": 12
   },
   {
     "title": "Evolution Clicker",
@@ -3113,7 +3113,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/evolution-clicker/cover/evolution-clicker.png?w=320",
     "description": "Welcome to the amazing world of Evolution Clicker! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66745201,
-    "popularity": 72
+    "popularity": 14
   },
   {
     "title": "Sigma Clicker",
@@ -3127,7 +3127,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sigma-clicker/cover/sigma-clicker.png?w=320",
     "description": "Start your adventure journey in Sigma Clicker! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66329811,
-    "popularity": 81
+    "popularity": 48
   },
   {
     "title": "Bread Pit",
@@ -3140,7 +3140,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bread-pit/cover/bread-pit.png?w=320",
     "description": "Welcome to the amazing world of Bread Pit! Here, you can great choice for brain training and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66001009,
-    "popularity": 15
+    "popularity": 82
   },
   {
     "title": "Sprunki Clicker Game",
@@ -3153,7 +3153,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sprunki-clicker-game/cover/sprunki-clicker-game.png?w=320",
     "description": "Welcome to the amazing world of Sprunki Clicker Game! This game will bring you a unique experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65694204,
-    "popularity": 65
+    "popularity": 60
   },
   {
     "title": "IceCream Clicker",
@@ -3167,7 +3167,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/icecream-clicker/cover/icecream-clicker.png?w=320",
     "description": "Ready to experience the endless fun that IceCream Clicker brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65587053,
-    "popularity": 85
+    "popularity": 42
   },
   {
     "title": "Color Element",
@@ -3180,7 +3180,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/color-element/cover/color-element.png?w=320",
     "description": "Start your adventure journey in Color Element! This game will bring you a unique experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65153772,
-    "popularity": 84
+    "popularity": 9
   },
   {
     "title": "Dropme",
@@ -3192,7 +3192,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/dropme/cover/dropme.png?w=320",
     "description": "Dropme offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.64356707,
-    "popularity": 6
+    "popularity": 99
   },
   {
     "title": "Power Crusher",
@@ -3206,7 +3206,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/crusher-clicker/cover/crusher-clicker.png?w=320",
     "description": "Power Crusher offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.64345806,
-    "popularity": 50
+    "popularity": 68
   },
   {
     "title": "Sprunki Whack A Mole",
@@ -3219,7 +3219,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sprunki-whack-a-mole/cover/sprunki-whack-a-mole.png?w=320",
     "description": "Ready to experience the endless fun that Sprunki Whack A Mole brings? Whether you're a beginner or experienced player, you can find your own happiness in enjoy gaming fun with friends. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63768116,
-    "popularity": 77
+    "popularity": 83
   },
   {
     "title": "Cold",
@@ -3233,7 +3233,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/cold/cover/cold.png?w=320",
     "description": "Start your adventure journey in Cold! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63040805,
-    "popularity": 49
+    "popularity": 58
   },
   {
     "title": "Banana Touch",
@@ -3245,7 +3245,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/banana-touch/cover/banana-touch.png?w=320",
     "description": "Welcome to the amazing world of Banana Touch! This game will bring you a unique experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.62086063,
-    "popularity": 35
+    "popularity": 38
   },
   {
     "title": "TNT Clicker",
@@ -3259,7 +3259,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tnt-clicker/cover/tnt-clicker.png?w=320",
     "description": "Start your adventure journey in TNT Clicker! This game will bring you a unique experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61603842,
-    "popularity": 43
+    "popularity": 6
   },
   {
     "title": "Soccer Clicker Game",
@@ -3273,7 +3273,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/soccer-clicker-game/cover/soccer-clicker-game.png?w=320",
     "description": "Welcome to the amazing world of Soccer Clicker Game! This game will bring you a unique experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61603842,
-    "popularity": 62
+    "popularity": 40
   },
   {
     "title": "Baby Pear Clicker 2",
@@ -3287,7 +3287,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/baby-pear-clicker-2/cover/baby-pear-clicker-2.png?w=320",
     "description": "Baby Pear Clicker 2 offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61603842,
-    "popularity": 12
+    "popularity": 40
   },
   {
     "title": "Gem Clicker Pro",
@@ -3301,7 +3301,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/gem-clicker-pro/cover/gem-clicker-pro.png?w=320",
     "description": "Gem Clicker Pro offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 5
+    "popularity": 23
   },
   {
     "title": "Fish Clicker",
@@ -3315,7 +3315,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/fish-clicker/cover/fish-clicker.png?w=320",
     "description": "Start your adventure journey in Fish Clicker! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 58
+    "popularity": 91
   },
   {
     "title": "Sprunki Pop It",
@@ -3327,7 +3327,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/sprunki-pop-it/cover/sprunki-pop-it.png?w=320",
     "description": "Welcome to the amazing world of Sprunki Pop It! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.60693026,
-    "popularity": 32
+    "popularity": 26
   },
   {
     "title": "Bop the Blox",
@@ -3342,7 +3342,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bop-the-blox/cover/bop-the-blox.png?w=320",
     "description": "Welcome to the amazing world of Bop the Blox! Here, you can great choice for brain training and enjoy the endless charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6028326163331276,
-    "popularity": 52
+    "popularity": 64
   },
   {
     "title": "Jump and Fly",
@@ -3356,7 +3356,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/jump-and-fly/cover/jump-and-fly.png?w=320",
     "description": "🎮 Jump and Fly - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.86187845,
-    "popularity": 22
+    "popularity": 7
   },
   {
     "title": "Mixed World",
@@ -3369,7 +3369,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mixed-world/cover/mixed-world.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Mixed World! This meticulously crafted game will bring you a premium experience of great choice for brain training. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.77736838,
-    "popularity": 94
+    "popularity": 42
   },
   {
     "title": "The Right Color",
@@ -3382,7 +3382,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/the-right-color/cover/the-right-color.png?w=320",
     "description": "Ready to experience the endless fun that The Right Color brings? Here, you can great choice for brain training and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6482188,
-    "popularity": 13
+    "popularity": 22
   },
   {
     "title": "Idle Craft 3D",
@@ -3396,7 +3396,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/idle-craft-3d-1/cover/idle-craft-3d-1.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Idle Craft 3D! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.8879011,
-    "popularity": 11
+    "popularity": 20
   },
   {
     "title": "Little Commander - Red vs Blue",
@@ -3408,7 +3408,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/little-commander-red-vs-blue/cover/little-commander-red-vs-blue.png?w=320",
     "description": "Explore the infinite possibilities hidden in Little Commander - Red vs Blue! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61809557,
-    "popularity": 42
+    "popularity": 7
   },
   {
     "title": "TenTrix",
@@ -3423,7 +3423,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/tentrix/cover/tentrix.png?w=320",
     "description": "🚀 Experience the stunning sensations of TenTrix! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.90694255,
-    "popularity": 17
+    "popularity": 20
   },
   {
     "title": "Blockle",
@@ -3436,7 +3436,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/blockle/cover/blockle.png?w=320",
     "description": "🏆 Blockle brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.86187845,
-    "popularity": 85
+    "popularity": 99
   },
   {
     "title": "My Dentist",
@@ -3448,7 +3448,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/my-dentist/cover/my-dentist.png?w=320",
     "description": "🏆 My Dentist brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.76526308,
-    "popularity": 40
+    "popularity": 21
   },
   {
     "title": "Foot Doctor",
@@ -3460,7 +3460,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/foot-doctor/cover/foot-doctor.png?w=320",
     "description": "🚀 Experience the stunning sensations of Foot Doctor! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.72855846,
-    "popularity": 24
+    "popularity": 77
   },
   {
     "title": "Stickman.io",
@@ -3473,7 +3473,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/stickman-io/cover/stickman-io.png?w=320",
     "description": "🚀 Experience the stunning sensations of Stickman.io! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74613464,
-    "popularity": 67
+    "popularity": 14
   },
   {
     "title": "Masquerades vs Impostors",
@@ -3487,7 +3487,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/masquerades-vs-impostors/cover/masquerades-vs-impostors.png?w=320",
     "description": "🚀 Experience the stunning sensations of Masquerades vs Impostors! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.83475502,
-    "popularity": 9
+    "popularity": 59
   },
   {
     "title": "Red and Green Christmas",
@@ -3501,7 +3501,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/red-and-green-christmas/cover/red-and-green-christmas.png?w=320",
     "description": "Ready to experience the endless fun that Red and Green Christmas brings? Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.67563535,
-    "popularity": 66
+    "popularity": 21
   },
   {
     "title": "Geometri Tag Wars - 2 Players",
@@ -3514,7 +3514,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/geometri-tag-wars-2-player/cover/geometri-tag-wars-2-player.png?w=320",
     "description": "Start your adventure journey in Geometri Tag Wars - 2 Players! Through carefully designed game mechanics, you can enjoy gaming fun with friends and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61098574,
-    "popularity": 3
+    "popularity": 14
   },
   {
     "title": "Just Jump Arcade",
@@ -3528,7 +3528,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/just-jump-arcade/cover/just-jump-arcade.png?w=320",
     "description": "Just Jump Arcade offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6148925,
-    "popularity": 27
+    "popularity": 77
   },
   {
     "title": "Hunters and Props",
@@ -3541,7 +3541,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/hunters-and-props/cover/hunters-and-props.png?w=320",
     "description": "🎮 Hunters and Props - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.80407071,
-    "popularity": 37
+    "popularity": 86
   },
   {
     "title": "Fidget Spinner Creator",
@@ -3554,7 +3554,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/fidget-spinner-creator/cover/fidget-spinner-creator.png?w=320",
     "description": "🏆 Fidget Spinner Creator brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77403651,
-    "popularity": 63
+    "popularity": 26
   },
   {
     "title": "Snake Arena 2",
@@ -3567,7 +3567,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/snake-arena-2/cover/snake-arena-2.png?w=320",
     "description": "🏆 Snake Arena 2 brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.72151923,
-    "popularity": 96
+    "popularity": 35
   },
   {
     "title": "Minecraft Squid Game Worm.io",
@@ -3580,7 +3580,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/minecraft-squid-game-worm-io/cover/minecraft-squid-game-worm-io.png?w=320",
     "description": "Explore the infinite possibilities hidden in Minecraft Squid Game Worm.io! This game will bring you a unique experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.63768116,
-    "popularity": 38
+    "popularity": 74
   },
   {
     "title": "Snake Frenzy Color Clash",
@@ -3595,7 +3595,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/snake-frenzy-color-clash/cover/snake-frenzy-color-clash.png?w=320",
     "description": "Start your adventure journey in Snake Frenzy Color Clash! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 3
+    "popularity": 33
   },
   {
     "title": "Geometrical Dash",
@@ -3608,7 +3608,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/geometrical-dash/cover/geometrical-dash.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Geometrical Dash! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.85571181,
-    "popularity": 79
+    "popularity": 96
   },
   {
     "title": "Triangle Run",
@@ -3623,7 +3623,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/triangle-run/cover/triangle-run.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Triangle Run! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.76309897,
-    "popularity": 25
+    "popularity": 42
   },
   {
     "title": "Climbing Pomni",
@@ -3636,7 +3636,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/climbing-pomni/cover/climbing-pomni.png?w=320",
     "description": "🚀 Experience the stunning sensations of Climbing Pomni! This meticulously crafted game will bring you a premium experience of great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.70588235,
-    "popularity": 77
+    "popularity": 11
   },
   {
     "title": "Vertical Slide",
@@ -3652,7 +3652,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/vertical-slide/cover/vertical-slide.png?w=320",
     "description": "Explore the infinite possibilities hidden in Vertical Slide! This game will bring you a unique experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61538462,
-    "popularity": 73
+    "popularity": 14
   },
   {
     "title": "Double Blob",
@@ -3666,7 +3666,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/double-blob/cover/double-blob.png?w=320",
     "description": "Ready to experience the endless fun that Double Blob brings? This game will bring you a unique experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.60144286,
-    "popularity": 70
+    "popularity": 41
   },
   {
     "title": "Shinobi Slash",
@@ -3679,7 +3679,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/shinobi-slash/cover/shinobi-slash.png?w=320",
     "description": "Shinobi Slash offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.69348126,
-    "popularity": 18
+    "popularity": 98
   },
   {
     "title": "Amaze Escape",
@@ -3692,7 +3692,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/amaze-escape/cover/amaze-escape.png?w=320",
     "description": "🎮 Amaze Escape - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80657146,
-    "popularity": 49
+    "popularity": 60
   },
   {
     "title": "Police Chase",
@@ -3705,7 +3705,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/police-chase/cover/police-chase.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Police Chase! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72151923,
-    "popularity": 86
+    "popularity": 64
   },
   {
     "title": "Resuscit-hate",
@@ -3718,7 +3718,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/resuscit-hate/cover/resuscit-hate.png?w=320",
     "description": "Resuscit-hate offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 25
+    "popularity": 20
   },
   {
     "title": "Classic Bowling",
@@ -3733,7 +3733,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/classic-bowling/cover/classic-bowling.png?w=320",
     "description": "Explore the infinite possibilities hidden in Classic Bowling! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.67901063,
-    "popularity": 13
+    "popularity": 61
   },
   {
     "title": "Supermarket Expert Idle",
@@ -3758,7 +3758,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/concrete-boots/cover/concrete-boots.png?w=320",
     "description": "Concrete Boots offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6694674267649813,
-    "popularity": 70
+    "popularity": 39
   },
   {
     "title": "Rich or Poor",
@@ -3772,7 +3772,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/rich-or-poor/cover/rich-or-poor.png?w=320",
     "description": "Welcome to the amazing world of Rich or Poor! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.66416445,
-    "popularity": 3
+    "popularity": 93
   },
   {
     "title": "Traders Trading",
@@ -3784,7 +3784,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/traders-trading/cover/traders-trading.png?w=320",
     "description": "Explore the infinite possibilities hidden in Traders Trading! This game will bring you a unique experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65646617,
-    "popularity": 46
+    "popularity": 40
   },
   {
     "title": "Mermaid Wedding World",
@@ -3796,7 +3796,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mermaid-wedding-world/cover/mermaid-wedding-world.png?w=320",
     "description": "🎮 Mermaid Wedding World - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.76290364,
-    "popularity": 91
+    "popularity": 83
   },
   {
     "title": "Bunge Jungle",
@@ -3810,7 +3810,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/bunge-jungle/cover/bunge-jungle.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Bunge Jungle! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7311828,
-    "popularity": 17
+    "popularity": 26
   },
   {
     "title": "2 Player Red Blue Pirates",
@@ -3823,7 +3823,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/2-player-red-blue-pirates/cover/2-player-red-blue-pirates.png?w=320",
     "description": "🚀 Experience the stunning sensations of 2 Player Red Blue Pirates! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71665581,
-    "popularity": 20
+    "popularity": 94
   },
   {
     "title": "My Kitties. Catworld",
@@ -3836,7 +3836,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/my-kitties-catworld/cover/my-kitties-catworld.png?w=320",
     "description": "Explore the infinite possibilities hidden in My Kitties. Catworld! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65244075,
-    "popularity": 53
+    "popularity": 57
   },
   {
     "title": "myDream Universe",
@@ -3849,7 +3849,7 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/mydream-universe/cover/mydream-universe.png?w=320",
     "description": "⭐ Discover the true charm of gaming in myDream Universe! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74052712,
-    "popularity": 3
+    "popularity": 40
   },
   {
     "title": "Real Flight Simulator",
@@ -3861,6 +3861,6 @@ export const search_casual = [
     "image": "https://img.gamepix.com/games/real-flight-simulator/cover/real-flight-simulator.png?w=320",
     "description": "🚀 Experience the stunning sensations of Real Flight Simulator! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72737268,
-    "popularity": 55
+    "popularity": 98
   }
 ];
