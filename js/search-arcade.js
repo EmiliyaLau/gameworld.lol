@@ -10,7 +10,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-billy-boy/cover/super-billy-boy.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Super Billy Boy! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.88286055,
-    "popularity": 78
+    "popularity": 49
   },
   {
     "title": "Super Oliver World",
@@ -25,7 +25,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-oliver-world/cover/super-oliver-world.png?w=320",
     "description": "🏆 Super Oliver World brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.87192158,
-    "popularity": 7
+    "popularity": 96
   },
   {
     "title": "Baby Chicco Adventures",
@@ -40,7 +40,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/baby-chicco-adventures/cover/baby-chicco-adventures.png?w=320",
     "description": "🚀 Experience the stunning sensations of Baby Chicco Adventures! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.85442763,
-    "popularity": 79
+    "popularity": 74
   },
   {
     "title": "Mice Hunt",
@@ -53,7 +53,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mice-hunt/cover/mice-hunt.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Mice Hunt! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.85207101,
-    "popularity": 52
+    "popularity": 42
   },
   {
     "title": "Super Steve World",
@@ -65,7 +65,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-steve-world/cover/super-steve-world.png?w=320",
     "description": "🎮 Super Steve World - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.84578967,
-    "popularity": 79
+    "popularity": 54
   },
   {
     "title": "Ringo Starfish",
@@ -79,7 +79,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/ringo-starfish/cover/ringo-starfish.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Ringo Starfish! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.84250431,
-    "popularity": 77
+    "popularity": 89
   },
   {
     "title": "The Black And White",
@@ -92,7 +92,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/the-black-and-white/cover/the-black-and-white.png?w=320",
     "description": "✨ Explore the amazing world of The Black And White! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.83743847,
-    "popularity": 64
+    "popularity": 72
   },
   {
     "title": "Adventure Bot",
@@ -106,7 +106,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/adventure-bot-action-platformer/cover/adventure-bot-action-platformer.png?w=320",
     "description": "🏆 Adventure Bot brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.82020889,
-    "popularity": 39
+    "popularity": 59
   },
   {
     "title": "Super Onion Boy",
@@ -122,7 +122,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-onion-boy/cover/super-onion-boy.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Super Onion Boy! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.82008026,
-    "popularity": 0
+    "popularity": 65
   },
   {
     "title": "Super Willie World",
@@ -134,7 +134,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-willie-world/cover/super-willie-world.png?w=320",
     "description": "🚀 Experience the stunning sensations of Super Willie World! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.81482548,
-    "popularity": 80
+    "popularity": 97
   },
   {
     "title": "King of Thieves",
@@ -147,7 +147,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/king-of-thieves/cover/king-of-thieves.png?w=320",
     "description": "🎮 King of Thieves - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.79287788,
-    "popularity": 60
+    "popularity": 18
   },
   {
     "title": "Snail Odyssey - Hardest Game",
@@ -160,7 +160,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/snail-odyssey-hardest-game/cover/snail-odyssey-hardest-game.png?w=320",
     "description": "🏆 Snail Odyssey - Hardest Game brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77903908,
-    "popularity": 81
+    "popularity": 55
   },
   {
     "title": "Super Droid Adventure",
@@ -173,7 +173,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-droid-adventure/cover/super-droid-adventure.png?w=320",
     "description": "🚀 Experience the stunning sensations of Super Droid Adventure! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.77763115,
-    "popularity": 55
+    "popularity": 23
   },
   {
     "title": "Escape from the Dungeon",
@@ -189,7 +189,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/escape-from-the-dungeon/cover/escape-from-the-dungeon.png?w=320",
     "description": "🚀 Experience the stunning sensations of Escape from the Dungeon! This meticulously crafted game will bring you a premium experience of great choice for brain training. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.7706422,
-    "popularity": 18
+    "popularity": 88
   },
   {
     "title": "Red Ball Rolling 2",
@@ -201,7 +201,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/red-ball-rolling-2/cover/red-ball-rolling-2.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Red Ball Rolling 2! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.7706422,
-    "popularity": 15
+    "popularity": 88
   },
   {
     "title": "Traigon",
@@ -214,7 +214,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/traigon/cover/traigon.png?w=320",
     "description": "🎮 Traigon - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7615222,
-    "popularity": 63
+    "popularity": 90
   },
   {
     "title": "Sprunki Ice Mod - Aqua",
@@ -228,7 +228,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/sprunki-ice-mod-aqua/cover/sprunki-ice-mod-aqua.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Sprunki Ice Mod - Aqua! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72332114,
-    "popularity": 52
+    "popularity": 5
   },
   {
     "title": "Purrrification",
@@ -242,7 +242,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/purrrification/cover/purrrification.png?w=320",
     "description": "🏆 Purrrification brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.71910112,
-    "popularity": 65
+    "popularity": 82
   },
   {
     "title": "Ninja Frog Adventure",
@@ -255,7 +255,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/frog-adventure/cover/frog-adventure.png?w=320",
     "description": "✨ Explore the amazing world of Ninja Frog Adventure! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71628844,
-    "popularity": 99
+    "popularity": 65
   },
   {
     "title": "Platformer Hell Reupload",
@@ -268,7 +268,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/platformer-hell-reupload/cover/platformer-hell-reupload.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Platformer Hell Reupload! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.70588235,
-    "popularity": 32
+    "popularity": 62
   },
   {
     "title": "Unbroken Soul",
@@ -281,7 +281,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/unbroken-soul/cover/unbroken-soul.png?w=320",
     "description": "Unbroken Soul offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.69725741,
-    "popularity": 54
+    "popularity": 9
   },
   {
     "title": "It\"\"s Coming Jump!",
@@ -293,7 +293,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/its-coming-jump/cover/its-coming-jump.png?w=320",
     "description": "It\"\"s Coming Jump! offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69135802,
-    "popularity": 58
+    "popularity": 86
   },
   {
     "title": "Syobon no Action - Cat Mario",
@@ -307,7 +307,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/syobon-no-action-cat-mario/cover/syobon-no-action-cat-mario.png?w=320",
     "description": "Explore the infinite possibilities hidden in Syobon no Action - Cat Mario! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67627374,
-    "popularity": 80
+    "popularity": 53
   },
   {
     "title": "Golem Adventure",
@@ -319,7 +319,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/golem-adventure/cover/golem-adventure.png?w=320",
     "description": "Ready to experience the endless fun that Golem Adventure brings? Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67532468,
-    "popularity": 7
+    "popularity": 2
   },
   {
     "title": "Tox Sprunki Mod",
@@ -332,7 +332,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/tox-sprunki-mod/cover/tox-sprunki-mod.png?w=320",
     "description": "Start your adventure journey in Tox Sprunki Mod! This game will bring you a unique experience of great choice for brain training. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65930391,
-    "popularity": 51
+    "popularity": 56
   },
   {
     "title": "Robot Dimensions",
@@ -346,7 +346,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/robot-dimensions/cover/robot-dimensions.png?w=320",
     "description": "Start your adventure journey in Robot Dimensions! Here, you can great choice for brain training and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65753425,
-    "popularity": 33
+    "popularity": 13
   },
   {
     "title": "The Knight\"\"s Fantastic Dream",
@@ -358,7 +358,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/the-knight-s-fantastic-dream/cover/the-knight-s-fantastic-dream.png?w=320",
     "description": "Explore the infinite possibilities hidden in The Knight\"\"s Fantastic Dream! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.65753425,
-    "popularity": 11
+    "popularity": 19
   },
   {
     "title": "Run Away from Sprunki Eater",
@@ -370,7 +370,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/run-away-from-sprunki-eater/cover/run-away-from-sprunki-eater.png?w=320",
     "description": "Start your adventure journey in Run Away from Sprunki Eater! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.64878756,
-    "popularity": 0
+    "popularity": 54
   },
   {
     "title": "Farmer Noob Super Hero",
@@ -383,7 +383,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/farmer-noob-super-hero/cover/farmer-noob-super-hero.png?w=320",
     "description": "Ready to experience the endless fun that Farmer Noob Super Hero brings? This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61603842,
-    "popularity": 11
+    "popularity": 29
   },
   {
     "title": "Chamber Challenge",
@@ -396,7 +396,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/chamber-challenge/cover/chamber-challenge.png?w=320",
     "description": "Explore the infinite possibilities hidden in Chamber Challenge! Here, you can great choice for brain training and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61538462,
-    "popularity": 6
+    "popularity": 9
   },
   {
     "title": "Chicken Dash",
@@ -409,7 +409,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/chicken-dash/cover/chicken-dash.png?w=320",
     "description": "Explore the infinite possibilities hidden in Chicken Dash! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 94
+    "popularity": 26
   },
   {
     "title": "Super Pizza Quest",
@@ -421,7 +421,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-pizza-quest/cover/super-pizza-quest.png?w=320",
     "description": "Start your adventure journey in Super Pizza Quest! This game will bring you a unique experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61538462,
-    "popularity": 19
+    "popularity": 24
   },
   {
     "title": "Square Monsters",
@@ -435,7 +435,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/square-monsters-1/cover/square-monsters-1.png?w=320",
     "description": "Explore the infinite possibilities hidden in Square Monsters! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6002430223413976,
-    "popularity": 84
+    "popularity": 80
   },
   {
     "title": "Parmesan Partisan",
@@ -448,7 +448,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/parmesan-partisan/cover/parmesan-partisan.png?w=320",
     "description": "🚀 Experience the stunning sensations of Parmesan Partisan! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.90842491,
-    "popularity": 92
+    "popularity": 64
   },
   {
     "title": "Gelatino",
@@ -460,7 +460,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/gelatino/cover/gelatino.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Gelatino! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, nostalgic retro gaming style and simple and direct fun and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.90588777,
-    "popularity": 73
+    "popularity": 56
   },
   {
     "title": "Morphit",
@@ -474,7 +474,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/morphit/cover/morphit.png?w=320",
     "description": "✨ Explore the amazing world of Morphit! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, nostalgic retro gaming style and classic arcade gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.89890535,
-    "popularity": 73
+    "popularity": 10
   },
   {
     "title": "Epic Duck",
@@ -487,7 +487,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/epic-duck/cover/epic-duck.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Epic Duck! Every detail is carefully polished to ensure you can revisit childhood gaming memories, great choice for brain training and nostalgic retro gaming style and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.89362881,
-    "popularity": 29
+    "popularity": 12
   },
   {
     "title": "Injection Invasion",
@@ -499,7 +499,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/injection-invasion/cover/injection-invasion.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Injection Invasion! Every detail is carefully polished to ensure you can nostalgic retro gaming style, revisit childhood gaming memories and classic arcade gaming experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.89270386,
-    "popularity": 93
+    "popularity": 13
   },
   {
     "title": "Car Crash Test",
@@ -513,7 +513,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/car-crash-test/cover/car-crash-test.png?w=320",
     "description": "🎮 Car Crash Test - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of revisit childhood gaming memories, simple and direct fun and classic arcade gaming experience. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.89153176,
-    "popularity": 98
+    "popularity": 88
   },
   {
     "title": "Strike Galaxy Attack",
@@ -527,7 +527,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/strike-galaxy-attack/cover/strike-galaxy-attack.png?w=320",
     "description": "🚀 Experience the stunning sensations of Strike Galaxy Attack! This meticulously crafted game will bring you a premium experience of simple and direct fun, revisit childhood gaming memories and classic arcade gaming experience. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.89089548,
-    "popularity": 23
+    "popularity": 48
   },
   {
     "title": "Run & Jump Jumbo Runner",
@@ -542,7 +542,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/ran-and-jump-jambo-runner/cover/ran-and-jump-jambo-runner.png?w=320",
     "description": "🏆 Run & Jump Jumbo Runner brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can simple and direct fun, revisit childhood gaming memories and nostalgic retro gaming style and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.89073097,
-    "popularity": 87
+    "popularity": 68
   },
   {
     "title": "Evil Invader",
@@ -555,7 +555,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/evil-invader/cover/evil-invader.png?w=320",
     "description": "🏆 Evil Invader brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can simple and direct fun, classic arcade gaming experience and revisit childhood gaming memories and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.88921118,
-    "popularity": 40
+    "popularity": 87
   },
   {
     "title": "Bouncing Egg",
@@ -570,7 +570,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/bouncing-egg/cover/bouncing-egg.png?w=320",
     "description": "🚀 Experience the stunning sensations of Bouncing Egg! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, simple and direct fun and classic arcade gaming experience. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.88865689,
-    "popularity": 28
+    "popularity": 31
   },
   {
     "title": "Star Exiles",
@@ -582,7 +582,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/star-exiles/cover/star-exiles.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Star Exiles! Every detail is carefully polished to ensure you can nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.88492676,
-    "popularity": 21
+    "popularity": 22
   },
   {
     "title": "Saguaro",
@@ -595,7 +595,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/saguaro/cover/saguaro.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Saguaro! Every detail is carefully polished to ensure you can revisit childhood gaming memories, nostalgic retro gaming style and simple and direct fun and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.88356604,
-    "popularity": 40
+    "popularity": 75
   },
   {
     "title": "Among at Easter",
@@ -608,7 +608,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/among-at-easter/cover/among-at-easter.png?w=320",
     "description": "🚀 Experience the stunning sensations of Among at Easter! Every detail is carefully polished to ensure you can nostalgic retro gaming style, classic arcade gaming experience and revisit childhood gaming memories and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.88123338,
-    "popularity": 19
+    "popularity": 26
   },
   {
     "title": "DoodleCube.io",
@@ -621,7 +621,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/doodlecube-io/cover/doodlecube-io.png?w=320",
     "description": "✨ Explore the amazing world of DoodleCube.io! Every detail is carefully polished to ensure you can revisit childhood gaming memories, simple and direct fun and classic arcade gaming experience and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.87591529,
-    "popularity": 54
+    "popularity": 49
   },
   {
     "title": "Galactic Pixel Storm",
@@ -634,7 +634,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/galactic-pixel-storm/cover/galactic-pixel-storm.png?w=320",
     "description": "🚀 Experience the stunning sensations of Galactic Pixel Storm! This meticulously crafted game will bring you a premium experience of revisit childhood gaming memories, classic arcade gaming experience and simple and direct fun. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.87503917,
-    "popularity": 30
+    "popularity": 79
   },
   {
     "title": "ChasingHunters",
@@ -647,7 +647,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/chasinghunters/cover/chasinghunters.png?w=320",
     "description": "✨ Explore the amazing world of ChasingHunters! Through excellent game design and beautiful graphics, you can simple and direct fun, nostalgic retro gaming style and classic arcade gaming experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.86819901,
-    "popularity": 15
+    "popularity": 36
   },
   {
     "title": "Guilty Sniper",
@@ -662,7 +662,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/guilty-sniper/cover/guilty-sniper.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Guilty Sniper! Through excellent game design and beautiful graphics, you can simple and direct fun, revisit childhood gaming memories and nostalgic retro gaming style and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.8600854,
-    "popularity": 81
+    "popularity": 35
   },
   {
     "title": "Paco Paco",
@@ -676,7 +676,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/paco-paco/cover/paco-paco.png?w=320",
     "description": "🚀 Experience the stunning sensations of Paco Paco! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of classic arcade gaming experience, simple and direct fun and revisit childhood gaming memories. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.85793514,
-    "popularity": 43
+    "popularity": 11
   },
   {
     "title": "Telekinesis Attack",
@@ -689,7 +689,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/telekinesis-battle-3d/cover/telekinesis-battle-3d.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Telekinesis Attack! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.85540422,
-    "popularity": 26
+    "popularity": 1
   },
   {
     "title": "Microplastics Feeding",
@@ -702,7 +702,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/microplastics-feeding/cover/microplastics-feeding.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Microplastics Feeding! Every detail is carefully polished to ensure you can revisit childhood gaming memories, nostalgic retro gaming style and simple and direct fun and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.85352474,
-    "popularity": 59
+    "popularity": 88
   },
   {
     "title": "Spikes & Feathers",
@@ -716,7 +716,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/spikes-and-feathers/cover/spikes-and-feathers.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Spikes & Feathers! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun. Rich game content ensures you'll never get bored. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.8532375145800679,
-    "popularity": 47
+    "popularity": 77
   },
   {
     "title": "Skibidi Snake",
@@ -729,7 +729,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/skibidi-snake-io/cover/skibidi-snake-io.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Skibidi Snake! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, revisit childhood gaming memories and simple and direct fun and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.85272958,
-    "popularity": 55
+    "popularity": 83
   },
   {
     "title": "Hook",
@@ -742,7 +742,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/stickman-hook-online/cover/stickman-hook-online.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Hook! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of classic arcade gaming experience, simple and direct fun and nostalgic retro gaming style. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.85000629,
-    "popularity": 13
+    "popularity": 18
   },
   {
     "title": "Buba Jump",
@@ -755,7 +755,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/buba-jumpe/cover/buba-jumpe.png?w=320",
     "description": "🎮 Buba Jump - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.84891569,
-    "popularity": 1
+    "popularity": 40
   },
   {
     "title": "Ice Ball Run",
@@ -767,7 +767,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/ice-ball-run/cover/ice-ball-run.png?w=320",
     "description": "🚀 Experience the stunning sensations of Ice Ball Run! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.84848485,
-    "popularity": 87
+    "popularity": 25
   },
   {
     "title": "Stick Merge",
@@ -779,7 +779,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mr-driller-mini/cover/mr-driller-mini.png?w=320",
     "description": "🚀 Experience the stunning sensations of Stick Merge! Every detail is carefully polished to ensure you can classic arcade gaming experience, simple and direct fun and nostalgic retro gaming style and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.84758642,
-    "popularity": 4
+    "popularity": 19
   },
   {
     "title": "Geometry Gunner",
@@ -792,7 +792,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/geometry-gunner/cover/geometry-gunner.png?w=320",
     "description": "🏆 Geometry Gunner brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can simple and direct fun, classic arcade gaming experience and revisit childhood gaming memories and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.8447204968944099,
-    "popularity": 93
+    "popularity": 36
   },
   {
     "title": "12 MiniBattles - Two Players",
@@ -806,7 +806,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/12-minibattles-two-players/cover/12-minibattles-two-players.png?w=320",
     "description": "✨ Explore the amazing world of 12 MiniBattles - Two Players! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, simple and direct fun and revisit childhood gaming memories and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.83731094,
-    "popularity": 63
+    "popularity": 37
   },
   {
     "title": "Super Slashman",
@@ -818,7 +818,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-slashman/cover/super-slashman.png?w=320",
     "description": "🚀 Experience the stunning sensations of Super Slashman! Through excellent game design and beautiful graphics, you can simple and direct fun, revisit childhood gaming memories and classic arcade gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.83617351,
-    "popularity": 51
+    "popularity": 29
   },
   {
     "title": "Ninja in Cape",
@@ -830,7 +830,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/ninja-in-cape/cover/ninja-in-cape.png?w=320",
     "description": "🎮 Ninja in Cape - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.83608571,
-    "popularity": 97
+    "popularity": 49
   },
   {
     "title": "Halloween Horror Massacre",
@@ -844,7 +844,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/halloween-horror-massacre/cover/halloween-horror-massacre.png?w=320",
     "description": "🚀 Experience the stunning sensations of Halloween Horror Massacre! This meticulously crafted game will bring you a premium experience of simple and direct fun, revisit childhood gaming memories and nostalgic retro gaming style. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.83437165,
-    "popularity": 35
+    "popularity": 30
   },
   {
     "title": "Knifer",
@@ -857,7 +857,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/knifer/cover/knifer.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Knifer! This meticulously crafted game will bring you a premium experience of classic arcade gaming experience, simple and direct fun and nostalgic retro gaming style. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.83083508,
-    "popularity": 2
+    "popularity": 96
   },
   {
     "title": "Knives",
@@ -870,7 +870,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/knives/cover/knives.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Knives! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.82827943,
-    "popularity": 85
+    "popularity": 72
   },
   {
     "title": "FNF Music Battle 3D",
@@ -883,7 +883,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/fmf-music-battle/cover/fmf-music-battle.png?w=320",
     "description": "🚀 Experience the stunning sensations of FNF Music Battle 3D! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of classic arcade gaming experience, revisit childhood gaming memories and nostalgic retro gaming style. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.82585232,
-    "popularity": 79
+    "popularity": 76
   },
   {
     "title": "Flappy Pumpkin",
@@ -896,7 +896,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/flappy-pumpkin/cover/flappy-pumpkin.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Flappy Pumpkin! Every detail is carefully polished to ensure you can simple and direct fun, revisit childhood gaming memories and classic arcade gaming experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.8248983,
-    "popularity": 14
+    "popularity": 92
   },
   {
     "title": "Rise Up Hero",
@@ -908,7 +908,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/iron-man-the-marvel-hero/cover/iron-man-the-marvel-hero.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Rise Up Hero! Every detail is carefully polished to ensure you can nostalgic retro gaming style, revisit childhood gaming memories and classic arcade gaming experience and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.82470523,
-    "popularity": 45
+    "popularity": 54
   },
   {
     "title": "Daruma Matching",
@@ -921,7 +921,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/daruma-matching/cover/daruma-matching.png?w=320",
     "description": "🚀 Experience the stunning sensations of Daruma Matching! Every detail is carefully polished to ensure you can great choice for brain training, nostalgic retro gaming style and revisit childhood gaming memories and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.82269504,
-    "popularity": 75
+    "popularity": 36
   },
   {
     "title": "Evolution of hamster - Clicker",
@@ -935,7 +935,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/evolution-of-hamster-clicker/cover/evolution-of-hamster-clicker.png?w=320",
     "description": "🏆 Evolution of hamster - Clicker brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.8217058,
-    "popularity": 89
+    "popularity": 63
   },
   {
     "title": "Knife Smash",
@@ -948,7 +948,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/knife-smash/cover/knife-smash.png?w=320",
     "description": "✨ Explore the amazing world of Knife Smash! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of classic arcade gaming experience, simple and direct fun and nostalgic retro gaming style. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.8209189,
-    "popularity": 68
+    "popularity": 90
   },
   {
     "title": "Fail Run Online",
@@ -961,7 +961,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/fail-run-online/cover/fail-run-online.png?w=320",
     "description": "🏆 Fail Run Online brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can nostalgic retro gaming style, enjoy gaming fun with friends and revisit childhood gaming memories and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.81352382,
-    "popularity": 47
+    "popularity": 39
   },
   {
     "title": "Bodybuilder Karate Fighting",
@@ -975,7 +975,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/bodybuilder-karate-fighting/cover/bodybuilder-karate-fighting.png?w=320",
     "description": "✨ Explore the amazing world of Bodybuilder Karate Fighting! Every detail is carefully polished to ensure you can classic arcade gaming experience, revisit childhood gaming memories and simple and direct fun and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.81205655,
-    "popularity": 40
+    "popularity": 9
   },
   {
     "title": "Zombie Road",
@@ -988,7 +988,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/zombie-road/cover/zombie-road.png?w=320",
     "description": "🎮 Zombie Road - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can simple and direct fun, nostalgic retro gaming style and revisit childhood gaming memories and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80999418,
-    "popularity": 79
+    "popularity": 63
   },
   {
     "title": "Fireball Vs Ice Cream",
@@ -1001,7 +1001,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/fireball-vs-ice-cream/cover/fireball-vs-ice-cream.png?w=320",
     "description": "✨ Explore the amazing world of Fireball Vs Ice Cream! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.80816088,
-    "popularity": 31
+    "popularity": 62
   },
   {
     "title": "Skibidi Toilet Jump Challenge",
@@ -1015,7 +1015,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/skibidi-jump-challenge/cover/skibidi-jump-challenge.png?w=320",
     "description": "🎮 Skibidi Toilet Jump Challenge - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, nostalgic retro gaming style and classic arcade gaming experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80615086,
-    "popularity": 31
+    "popularity": 65
   },
   {
     "title": "Stickman Army The Resistance",
@@ -1027,7 +1027,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/stickman-army-the-resistance/cover/stickman-army-the-resistance.png?w=320",
     "description": "✨ Explore the amazing world of Stickman Army The Resistance! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and direct fun, revisit childhood gaming memories and classic arcade gaming experience. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80580626,
-    "popularity": 26
+    "popularity": 97
   },
   {
     "title": "Steve AdventureCraft Nether",
@@ -1040,7 +1040,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/steve-adventurecraft-nether/cover/steve-adventurecraft-nether.png?w=320",
     "description": "✨ Explore the amazing world of Steve AdventureCraft Nether! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, classic arcade gaming experience and simple and direct fun and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.80157285,
-    "popularity": 43
+    "popularity": 86
   },
   {
     "title": "Fruit Blaster",
@@ -1052,7 +1052,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/fruit-blaster/cover/fruit-blaster.png?w=320",
     "description": "🎮 Fruit Blaster - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80144517,
-    "popularity": 69
+    "popularity": 60
   },
   {
     "title": "Football Panda",
@@ -1065,7 +1065,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/football-panda/cover/football-panda.png?w=320",
     "description": "🏆 Football Panda brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of revisit childhood gaming memories, nostalgic retro gaming style and simple and direct fun. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.80138817,
-    "popularity": 76
+    "popularity": 73
   },
   {
     "title": "Noob Huggy Winter",
@@ -1077,7 +1077,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/noob-huggy-winter/cover/noob-huggy-winter.png?w=320",
     "description": "🏆 Noob Huggy Winter brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7975812,
-    "popularity": 82
+    "popularity": 16
   },
   {
     "title": "Mr. Shooter",
@@ -1089,7 +1089,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mr-shooter/cover/mr-shooter.png?w=320",
     "description": "🎮 Mr. Shooter - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can simple and direct fun, revisit childhood gaming memories and classic arcade gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.79430123,
-    "popularity": 12
+    "popularity": 29
   },
   {
     "title": "Rolling Donut",
@@ -1102,7 +1102,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/rolling-donut/cover/rolling-donut.png?w=320",
     "description": "✨ Explore the amazing world of Rolling Donut! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.79406613,
-    "popularity": 25
+    "popularity": 9
   },
   {
     "title": "Planet Escape",
@@ -1115,7 +1115,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/planet-escape/cover/planet-escape.png?w=320",
     "description": "✨ Explore the amazing world of Planet Escape! Every detail is carefully polished to ensure you can simple and direct fun, classic arcade gaming experience and nostalgic retro gaming style and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.79338843,
-    "popularity": 89
+    "popularity": 13
   },
   {
     "title": "Mini Huggy - 2 Players",
@@ -1128,7 +1128,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mini-huggy-2-player/cover/mini-huggy-2-player.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Mini Huggy - 2 Players! Through excellent game design and beautiful graphics, you can nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.79304578,
-    "popularity": 45
+    "popularity": 88
   },
   {
     "title": "Santa Games",
@@ -1141,7 +1141,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/santa-games/cover/santa-games.png?w=320",
     "description": "🚀 Experience the stunning sensations of Santa Games! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, revisit childhood gaming memories and simple and direct fun and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78998737,
-    "popularity": 64
+    "popularity": 95
   },
   {
     "title": "Steve Adventurecraft",
@@ -1155,7 +1155,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/steve-adventurecraft/cover/steve-adventurecraft.png?w=320",
     "description": "🏆 Steve Adventurecraft brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of revisit childhood gaming memories, classic arcade gaming experience and nostalgic retro gaming style. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78860265,
-    "popularity": 5
+    "popularity": 92
   },
   {
     "title": "BloxdHop",
@@ -1168,7 +1168,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/bloxdhop/cover/bloxdhop.png?w=320",
     "description": "🚀 Experience the stunning sensations of BloxdHop! Every detail is carefully polished to ensure you can classic arcade gaming experience, simple and direct fun and revisit childhood gaming memories and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.78759312,
-    "popularity": 15
+    "popularity": 59
   },
   {
     "title": "Crazy Runner Boy",
@@ -1182,7 +1182,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/crazy-runner-boy/cover/crazy-runner-boy.png?w=320",
     "description": "🏆 Crazy Runner Boy brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can classic arcade gaming experience, nostalgic retro gaming style and simple and direct fun and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78632479,
-    "popularity": 27
+    "popularity": 68
   },
   {
     "title": "The dead among us",
@@ -1195,7 +1195,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/the-dead-amon-us/cover/the-dead-amon-us.png?w=320",
     "description": "⭐ Discover the true charm of gaming in The dead among us! This meticulously crafted game will bring you a premium experience of classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78500006,
-    "popularity": 7
+    "popularity": 73
   },
   {
     "title": "Kara\"\"s Cafeteria",
@@ -1208,7 +1208,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/kara-s-cafeteria/cover/kara-s-cafeteria.png?w=320",
     "description": "🎮 Kara\"\"s Cafeteria - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of revisit childhood gaming memories, simple and direct fun and nostalgic retro gaming style. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.78380833,
-    "popularity": 69
+    "popularity": 53
   },
   {
     "title": "Ghost Runaway",
@@ -1222,7 +1222,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/ghost-runaway/cover/ghost-runaway.png?w=320",
     "description": "🎮 Ghost Runaway - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, great choice for brain training and nostalgic retro gaming style and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.78278945,
-    "popularity": 97
+    "popularity": 28
   },
   {
     "title": "Brick Out Candy",
@@ -1235,7 +1235,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/brick-out-candy-online/cover/brick-out-candy-online.png?w=320",
     "description": "🏆 Brick Out Candy brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can simple and direct fun, nostalgic retro gaming style and revisit childhood gaming memories and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.78054964,
-    "popularity": 37
+    "popularity": 46
   },
   {
     "title": "Crazy Knife",
@@ -1248,7 +1248,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/crazy-knife/cover/crazy-knife.png?w=320",
     "description": "🚀 Experience the stunning sensations of Crazy Knife! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, simple and direct fun and classic arcade gaming experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.77923639,
-    "popularity": 79
+    "popularity": 42
   },
   {
     "title": "Mr. Orange Flappy Jump",
@@ -1261,7 +1261,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mr-orange-flappy-jump/cover/mr-orange-flappy-jump.png?w=320",
     "description": "✨ Explore the amazing world of Mr. Orange Flappy Jump! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77876106,
-    "popularity": 9
+    "popularity": 17
   },
   {
     "title": "Color Tower 2 - Drop The Boxes 3D",
@@ -1275,7 +1275,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/color-tower-2-drop-the-box-3d/cover/color-tower-2-drop-the-box-3d.png?w=320",
     "description": "🚀 Experience the stunning sensations of Color Tower 2 - Drop The Boxes 3D! This meticulously crafted game will bring you a premium experience of simple and direct fun, nostalgic retro gaming style and revisit childhood gaming memories. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77860196,
-    "popularity": 49
+    "popularity": 77
   },
   {
     "title": "Baby Injection",
@@ -1289,7 +1289,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/baby-injection/cover/baby-injection.png?w=320",
     "description": "✨ Explore the amazing world of Baby Injection! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of revisit childhood gaming memories, simple and direct fun and great choice for brain training. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.77652859,
-    "popularity": 39
+    "popularity": 20
   },
   {
     "title": "Flip Bird",
@@ -1302,7 +1302,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/flip-bird-online-game/cover/flip-bird-online-game.png?w=320",
     "description": "✨ Explore the amazing world of Flip Bird! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of revisit childhood gaming memories, simple and direct fun and classic arcade gaming experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.77652859,
-    "popularity": 54
+    "popularity": 11
   },
   {
     "title": "Slime Color",
@@ -1316,7 +1316,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/slime-color/cover/slime-color.png?w=320",
     "description": "✨ Explore the amazing world of Slime Color! This meticulously crafted game will bring you a premium experience of classic arcade gaming experience, simple and direct fun and revisit childhood gaming memories. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.776122,
-    "popularity": 64
+    "popularity": 89
   },
   {
     "title": "Hit Master",
@@ -1328,7 +1328,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/hit-master/cover/hit-master.png?w=320",
     "description": "🏆 Hit Master brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, revisit childhood gaming memories and simple and direct fun and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7725683,
-    "popularity": 0
+    "popularity": 39
   },
   {
     "title": "SlicetAll",
@@ -1342,7 +1342,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/slicetall/cover/slicetall.png?w=320",
     "description": "🏆 SlicetAll brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of revisit childhood gaming memories, classic arcade gaming experience and simple and direct fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.77190029,
-    "popularity": 23
+    "popularity": 21
   },
   {
     "title": "Tall and Rush",
@@ -1354,7 +1354,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/tall-and-rush/cover/tall-and-rush.png?w=320",
     "description": "🎮 Tall and Rush - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and direct fun, nostalgic retro gaming style and revisit childhood gaming memories. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77157909,
-    "popularity": 40
+    "popularity": 97
   },
   {
     "title": "Break the Candy",
@@ -1367,7 +1367,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/break-the-candy/cover/break-the-candy.png?w=320",
     "description": "✨ Explore the amazing world of Break the Candy! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, simple and direct fun and nostalgic retro gaming style and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.7706422,
-    "popularity": 80
+    "popularity": 62
   },
   {
     "title": "Bushman Bamboo",
@@ -1379,7 +1379,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/bushman-bamboo/cover/bushman-bamboo.png?w=320",
     "description": "🚀 Experience the stunning sensations of Bushman Bamboo! Every detail is carefully polished to ensure you can classic arcade gaming experience, revisit childhood gaming memories and simple and direct fun and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7706422,
-    "popularity": 35
+    "popularity": 16
   },
   {
     "title": "Eatable Fishes",
@@ -1392,7 +1392,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/eatable-fishes/cover/eatable-fishes.png?w=320",
     "description": "✨ Explore the amazing world of Eatable Fishes! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, revisit childhood gaming memories and simple and direct fun and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.7706422,
-    "popularity": 28
+    "popularity": 65
   },
   {
     "title": "Noobcraft House Escape",
@@ -1406,7 +1406,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/noobcraft-house-escape/cover/noobcraft-house-escape.png?w=320",
     "description": "🏆 Noobcraft House Escape brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of simple and direct fun, great choice for brain training and nostalgic retro gaming style. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.76986422,
-    "popularity": 77
+    "popularity": 36
   },
   {
     "title": "Kaiten Sushi",
@@ -1420,7 +1420,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/kaiten-sushi/cover/kaiten-sushi.png?w=320",
     "description": "✨ Explore the amazing world of Kaiten Sushi! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of revisit childhood gaming memories, nostalgic retro gaming style and simple and direct fun. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7694961,
-    "popularity": 99
+    "popularity": 9
   },
   {
     "title": "Vegan Quest",
@@ -1434,7 +1434,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/vegan-quest/cover/vegan-quest.png?w=320",
     "description": "✨ Explore the amazing world of Vegan Quest! Every detail is carefully polished to ensure you can revisit childhood gaming memories, nostalgic retro gaming style and classic arcade gaming experience and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.76353382,
-    "popularity": 20
+    "popularity": 78
   },
   {
     "title": "Save the Galaxy",
@@ -1448,7 +1448,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/save-the-galaxy-online-game/cover/save-the-galaxy-online-game.png?w=320",
     "description": "🏆 Save the Galaxy brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of revisit childhood gaming memories, simple and direct fun and nostalgic retro gaming style. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.76321595,
-    "popularity": 67
+    "popularity": 2
   },
   {
     "title": " Mummy Land",
@@ -1462,7 +1462,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mummy-land/cover/mummy-land.png?w=320",
     "description": "✨ Explore the amazing world of  Mummy Land! Every detail is carefully polished to ensure you can great choice for brain training, revisit childhood gaming memories and nostalgic retro gaming style and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.76190476,
-    "popularity": 43
+    "popularity": 4
   },
   {
     "title": "Snake Simple Retro Game",
@@ -1477,7 +1477,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/snake/cover/snake.png?w=320",
     "description": "🎮 Snake Simple Retro Game - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, classic arcade gaming experience and revisit childhood gaming memories. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.76040902,
-    "popularity": 38
+    "popularity": 73
   },
   {
     "title": "FruitMaster",
@@ -1490,7 +1490,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/fruitmaster/cover/fruitmaster.png?w=320",
     "description": "🏆 FruitMaster brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and direct fun, revisit childhood gaming memories and classic arcade gaming experience. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.7573893476222155,
-    "popularity": 21
+    "popularity": 88
   },
   {
     "title": "Wizard Santa Jump",
@@ -1503,7 +1503,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/wizard-santa-jump/cover/wizard-santa-jump.png?w=320",
     "description": "🏆 Wizard Santa Jump brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.75645334,
-    "popularity": 45
+    "popularity": 13
   },
   {
     "title": "Geometry Maze Maps",
@@ -1516,7 +1516,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/geometry-maze-maps/cover/geometry-maze-maps.png?w=320",
     "description": "🎮 Geometry Maze Maps - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can simple and direct fun, nostalgic retro gaming style and revisit childhood gaming memories and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.754991,
-    "popularity": 89
+    "popularity": 74
   },
   {
     "title": "BTS Ball Bouncy",
@@ -1531,7 +1531,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/bts-match/cover/bts-match.png?w=320",
     "description": "✨ Explore the amazing world of BTS Ball Bouncy! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, revisit childhood gaming memories and simple and direct fun and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.75437483,
-    "popularity": 50
+    "popularity": 60
   },
   {
     "title": "Battalion Commander",
@@ -1543,7 +1543,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/battalion-commander/cover/battalion-commander.png?w=320",
     "description": "🎮 Battalion Commander - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can nostalgic retro gaming style, classic arcade gaming experience and revisit childhood gaming memories and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7543032,
-    "popularity": 81
+    "popularity": 30
   },
   {
     "title": "O.M.I.N.O",
@@ -1558,7 +1558,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/o-m-i-n-o/cover/o-m-i-n-o.png?w=320",
     "description": "🚀 Experience the stunning sensations of O.M.I.N.O! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and direct fun, revisit childhood gaming memories and nostalgic retro gaming style. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.75247525,
-    "popularity": 9
+    "popularity": 97
   },
   {
     "title": "Bricks Breaker Deluxe",
@@ -1571,7 +1571,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/bricks-breaker-deluxe/cover/bricks-breaker-deluxe.png?w=320",
     "description": "✨ Explore the amazing world of Bricks Breaker Deluxe! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.74943319,
-    "popularity": 74
+    "popularity": 23
   },
   {
     "title": "Warriors VS Evil Spirits",
@@ -1583,7 +1583,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/warriors-vs-evil-spirits/cover/warriors-vs-evil-spirits.png?w=320",
     "description": "✨ Explore the amazing world of Warriors VS Evil Spirits! Through excellent game design and beautiful graphics, you can simple and direct fun, classic arcade gaming experience and revisit childhood gaming memories and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7461238,
-    "popularity": 56
+    "popularity": 3
   },
   {
     "title": "Shooting Range",
@@ -1596,7 +1596,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/shooting-range/cover/shooting-range.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Shooting Range! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, simple and direct fun and classic arcade gaming experience. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74408108,
-    "popularity": 78
+    "popularity": 53
   },
   {
     "title": "Mini Springs",
@@ -1610,7 +1610,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mini-springs/cover/mini-springs.png?w=320",
     "description": "🏆 Mini Springs brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, great choice for brain training and nostalgic retro gaming style and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74407788,
-    "popularity": 66
+    "popularity": 23
   },
   {
     "title": "King of Majesty",
@@ -1622,7 +1622,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/king-of-majesty/cover/king-of-majesty.png?w=320",
     "description": "🏆 King of Majesty brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, simple and direct fun and classic arcade gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74226804,
-    "popularity": 13
+    "popularity": 73
   },
   {
     "title": "Throw Fast",
@@ -1634,7 +1634,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/throw-fast/cover/throw-fast.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Throw Fast! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, simple and direct fun and revisit childhood gaming memories and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.74226804,
-    "popularity": 31
+    "popularity": 84
   },
   {
     "title": "Steve Go Kart Portal",
@@ -1648,7 +1648,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/steve-go-kart-portal/cover/steve-go-kart-portal.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Steve Go Kart Portal! This meticulously crafted game will bring you a premium experience of simple and direct fun, nostalgic retro gaming style and revisit childhood gaming memories. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74219816,
-    "popularity": 27
+    "popularity": 17
   },
   {
     "title": "Rule out - The Dangerous Circle",
@@ -1660,7 +1660,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/rule-out-the-dangerous-circle/cover/rule-out-the-dangerous-circle.png?w=320",
     "description": "🏆 Rule out - The Dangerous Circle brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can nostalgic retro gaming style, revisit childhood gaming memories and classic arcade gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.74094096,
-    "popularity": 9
+    "popularity": 58
   },
   {
     "title": "Ufo Run",
@@ -1673,7 +1673,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/ufo-run/cover/ufo-run.png?w=320",
     "description": "🏆 Ufo Run brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of revisit childhood gaming memories, nostalgic retro gaming style and classic arcade gaming experience. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.73761885,
-    "popularity": 19
+    "popularity": 63
   },
   {
     "title": "Steve Alex Spooky - 2 Player",
@@ -1688,7 +1688,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/steve-alex-spooky-2-player/cover/steve-alex-spooky-2-player.png?w=320",
     "description": "✨ Explore the amazing world of Steve Alex Spooky - 2 Player! Every detail is carefully polished to ensure you can revisit childhood gaming memories, great choice for brain training and nostalgic retro gaming style and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.73730712,
-    "popularity": 25
+    "popularity": 85
   },
   {
     "title": "One Finger Doom",
@@ -1701,7 +1701,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/one-finger-doom/cover/one-finger-doom.png?w=320",
     "description": "✨ Explore the amazing world of One Finger Doom! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73438853,
-    "popularity": 4
+    "popularity": 94
   },
   {
     "title": "Sniper Hero Killing Skibidi",
@@ -1713,7 +1713,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/sniper-killing-skibidi/cover/sniper-killing-skibidi.png?w=320",
     "description": "🏆 Sniper Hero Killing Skibidi brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, nostalgic retro gaming style and simple and direct fun and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.73307559,
-    "popularity": 54
+    "popularity": 41
   },
   {
     "title": "Crazy Police",
@@ -1727,7 +1727,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/crazy-police/cover/crazy-police.png?w=320",
     "description": "🎮 Crazy Police - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, simple and direct fun and classic arcade gaming experience. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73215053,
-    "popularity": 16
+    "popularity": 5
   },
   {
     "title": "Join Pusher 3D",
@@ -1742,7 +1742,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/join-pusher-3d/cover/join-pusher-3d.png?w=320",
     "description": "🚀 Experience the stunning sensations of Join Pusher 3D! Every detail is carefully polished to ensure you can nostalgic retro gaming style, classic arcade gaming experience and revisit childhood gaming memories and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.73205004,
-    "popularity": 78
+    "popularity": 66
   },
   {
     "title": "Counter Sniper 1.6 - Egypt",
@@ -1754,7 +1754,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/counter-sniper-1-6/cover/counter-sniper-1-6.png?w=320",
     "description": "🏆 Counter Sniper 1.6 - Egypt brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, simple and direct fun and revisit childhood gaming memories. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.73197767,
-    "popularity": 21
+    "popularity": 25
   },
   {
     "title": "Ball Hop",
@@ -1769,7 +1769,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/ball-hopp/cover/ball-hopp.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Ball Hop! This meticulously crafted game will bring you a premium experience of classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7311828,
-    "popularity": 33
+    "popularity": 71
   },
   {
     "title": "Galaxy Bricks Breaker",
@@ -1784,7 +1784,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/galaxy-bricks-breaker/cover/galaxy-bricks-breaker.png?w=320",
     "description": "🎮 Galaxy Bricks Breaker - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training, simple and direct fun and nostalgic retro gaming style. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7311828,
-    "popularity": 3
+    "popularity": 80
   },
   {
     "title": "Sudoku Blocks",
@@ -1799,7 +1799,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/sudoku-blocks/cover/sudoku-blocks.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Sudoku Blocks! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, simple and direct fun and classic arcade gaming experience. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7311828,
-    "popularity": 95
+    "popularity": 7
   },
   {
     "title": "Jelly Mash",
@@ -1813,7 +1813,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/jelly-mash/cover/jelly-mash.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Jelly Mash! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and direct fun, great choice for brain training and nostalgic retro gaming style. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7311827956989247,
-    "popularity": 17
+    "popularity": 19
   },
   {
     "title": "Lollipop Match",
@@ -1826,7 +1826,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/lollipop-match/cover/lollipop-match.png?w=320",
     "description": "🎮 Lollipop Match - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, revisit childhood gaming memories and classic arcade gaming experience. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73091028,
-    "popularity": 48
+    "popularity": 80
   },
   {
     "title": "Potion Frenzy-Color Sorting Game",
@@ -1840,7 +1840,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/potion-frenzy-color-sorting-game/cover/potion-frenzy-color-sorting-game.png?w=320",
     "description": "✨ Explore the amazing world of Potion Frenzy-Color Sorting Game! This meticulously crafted game will bring you a premium experience of great choice for brain training, simple and direct fun and classic arcade gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73091028,
-    "popularity": 36
+    "popularity": 94
   },
   {
     "title": "Save the Baby Home Rush",
@@ -1852,7 +1852,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/save-the-baby-home-rush/cover/save-the-baby-home-rush.png?w=320",
     "description": "🎮 Save the Baby Home Rush - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, simple and direct fun and classic arcade gaming experience. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.73001254,
-    "popularity": 80
+    "popularity": 22
   },
   {
     "title": "Noob Steve Cave",
@@ -1865,7 +1865,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/noob-steve-cave/cover/noob-steve-cave.png?w=320",
     "description": "✨ Explore the amazing world of Noob Steve Cave! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and direct fun, nostalgic retro gaming style and classic arcade gaming experience. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72791757,
-    "popularity": 65
+    "popularity": 76
   },
   {
     "title": "Join Scroll Run",
@@ -1877,7 +1877,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/join-scroll-run/cover/join-scroll-run.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Join Scroll Run! This meticulously crafted game will bring you a premium experience of revisit childhood gaming memories, classic arcade gaming experience and nostalgic retro gaming style. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72786762,
-    "popularity": 74
+    "popularity": 29
   },
   {
     "title": "Car Rapide",
@@ -1889,7 +1889,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/car-rapide/cover/car-rapide.png?w=320",
     "description": "🚀 Experience the stunning sensations of Car Rapide! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7270970561016387,
-    "popularity": 91
+    "popularity": 69
   },
   {
     "title": "Brick Breaker Classic Arcade Fun",
@@ -1902,7 +1902,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/brick-breaker-classic-arcade-fun/cover/brick-breaker-classic-arcade-fun.png?w=320",
     "description": "🏆 Brick Breaker Classic Arcade Fun brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of simple and direct fun, revisit childhood gaming memories and classic arcade gaming experience. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.72427381,
-    "popularity": 4
+    "popularity": 58
   },
   {
     "title": "Skibidi Toilet Creator",
@@ -1915,7 +1915,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/skibidi-toiley-creator/cover/skibidi-toiley-creator.png?w=320",
     "description": "🚀 Experience the stunning sensations of Skibidi Toilet Creator! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and direct fun, revisit childhood gaming memories and nostalgic retro gaming style. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72378634,
-    "popularity": 39
+    "popularity": 51
   },
   {
     "title": "GF FNF Dance Fight",
@@ -1929,7 +1929,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/circulet/cover/circulet.png?w=320",
     "description": "🏆 GF FNF Dance Fight brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can nostalgic retro gaming style, classic arcade gaming experience and revisit childhood gaming memories and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.71935618,
-    "popularity": 74
+    "popularity": 87
   },
   {
     "title": "Handit\"\"s",
@@ -1941,7 +1941,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/handit-s/cover/handit-s.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Handit\"\"s! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of revisit childhood gaming memories, nostalgic retro gaming style and simple and direct fun. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.7191011235955056,
-    "popularity": 34
+    "popularity": 9
   },
   {
     "title": "Circle Fish",
@@ -1954,7 +1954,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/circle-fish/cover/circle-fish.png?w=320",
     "description": "✨ Explore the amazing world of Circle Fish! Every detail is carefully polished to ensure you can revisit childhood gaming memories, simple and direct fun and classic arcade gaming experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71910112,
-    "popularity": 77
+    "popularity": 35
   },
   {
     "title": "Frog Byte",
@@ -1967,7 +1967,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/frogbite/cover/frogbite.png?w=320",
     "description": "🏆 Frog Byte brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can simple and direct fun, nostalgic retro gaming style and classic arcade gaming experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71910112,
-    "popularity": 37
+    "popularity": 5
   },
   {
     "title": "Triangle Trip",
@@ -1981,7 +1981,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/triangle-trip-flappybird/cover/triangle-trip-flappybird.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Triangle Trip! Through excellent game design and beautiful graphics, you can classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.71906136,
-    "popularity": 76
+    "popularity": 68
   },
   {
     "title": "Space Cord",
@@ -1995,7 +1995,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/space-cord/cover/space-cord.png?w=320",
     "description": "🏆 Space Cord brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, simple and direct fun and revisit childhood gaming memories. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.71650101,
-    "popularity": 7
+    "popularity": 23
   },
   {
     "title": "Safety Sheriff Labrador",
@@ -2007,7 +2007,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/safety-sheriff-labrador/cover/safety-sheriff-labrador.png?w=320",
     "description": "✨ Explore the amazing world of Safety Sheriff Labrador! Through excellent game design and beautiful graphics, you can nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.71563331,
-    "popularity": 12
+    "popularity": 40
   },
   {
     "title": "Dash Heroes: Labyrinth",
@@ -2020,7 +2020,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/dash-heroes-labyrinth/cover/dash-heroes-labyrinth.png?w=320",
     "description": "✨ Explore the amazing world of Dash Heroes: Labyrinth! Every detail is carefully polished to ensure you can nostalgic retro gaming style, classic arcade gaming experience and revisit childhood gaming memories and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71495373,
-    "popularity": 82
+    "popularity": 77
   },
   {
     "title": "Snake IO War",
@@ -2033,7 +2033,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/snake-io-war/cover/snake-io-war.png?w=320",
     "description": "🎮 Snake IO War - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of nostalgic retro gaming style, revisit childhood gaming memories and classic arcade gaming experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.7139679,
-    "popularity": 95
+    "popularity": 41
   },
   {
     "title": "Christmas Fishing",
@@ -2046,7 +2046,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/christmas-fishing/cover/christmas-fishing.png?w=320",
     "description": "🎮 Christmas Fishing - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71358231,
-    "popularity": 38
+    "popularity": 85
   },
   {
     "title": "Zombie coming - roguelike siege",
@@ -2060,7 +2060,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/zombie-coming-roguelike-siege/cover/zombie-coming-roguelike-siege.png?w=320",
     "description": "🚀 Experience the stunning sensations of Zombie coming - roguelike siege! Through excellent game design and beautiful graphics, you can great choice for brain training, simple and direct fun and classic arcade gaming experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.71087706,
-    "popularity": 24
+    "popularity": 84
   },
   {
     "title": "Space Miner",
@@ -2074,7 +2074,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/space-miner/cover/space-miner.png?w=320",
     "description": "🏆 Space Miner brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of classic arcade gaming experience, nostalgic retro gaming style and great choice for brain training. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.70798984,
-    "popularity": 67
+    "popularity": 60
   },
   {
     "title": "Space War",
@@ -2086,7 +2086,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/space-war/cover/space-war.png?w=320",
     "description": "🚀 Experience the stunning sensations of Space War! Through excellent game design and beautiful graphics, you can simple and direct fun, nostalgic retro gaming style and revisit childhood gaming memories and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.7069326,
-    "popularity": 18
+    "popularity": 84
   },
   {
     "title": "Skeleton Knight",
@@ -2100,7 +2100,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/skeleton-knight-game/cover/skeleton-knight-game.png?w=320",
     "description": "🚀 Experience the stunning sensations of Skeleton Knight! This meticulously crafted game will bring you a premium experience of great choice for brain training, revisit childhood gaming memories and simple and direct fun. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.70588235,
-    "popularity": 80
+    "popularity": 96
   },
   {
     "title": "Zrist DX",
@@ -2113,7 +2113,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/zrist-dx/cover/zrist-dx.png?w=320",
     "description": "🏆 Zrist DX brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of revisit childhood gaming memories, simple and direct fun and classic arcade gaming experience. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.70588235,
-    "popularity": 94
+    "popularity": 70
   },
   {
     "title": "Color Pumpkin Match",
@@ -2126,7 +2126,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/color-pumpkin-match/cover/color-pumpkin-match.png?w=320",
     "description": "🚀 Experience the stunning sensations of Color Pumpkin Match! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of nostalgic retro gaming style, simple and direct fun and revisit childhood gaming memories. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.70588235,
-    "popularity": 89
+    "popularity": 95
   },
   {
     "title": "Car Nabbing Race - The Police Car Chase",
@@ -2139,7 +2139,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/car-nabbing-race-the-police-car-chase/cover/car-nabbing-race-the-police-car-chase.png?w=320",
     "description": "🚀 Experience the stunning sensations of Car Nabbing Race - The Police Car Chase! Every detail is carefully polished to ensure you can revisit childhood gaming memories, nostalgic retro gaming style and classic arcade gaming experience and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.70588235,
-    "popularity": 7
+    "popularity": 76
   },
   {
     "title": "Color Hoop Stack",
@@ -2154,7 +2154,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/aladdin-adventure/cover/aladdin-adventure.png?w=320",
     "description": "✨ Explore the amazing world of Color Hoop Stack! This meticulously crafted game will bring you a premium experience of revisit childhood gaming memories, great choice for brain training and simple and direct fun. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70503637,
-    "popularity": 87
+    "popularity": 15
   },
   {
     "title": "Pac vs Ghosts 2024",
@@ -2169,7 +2169,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/pac-man-2023/cover/pac-man-2023.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Pac vs Ghosts 2024! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of simple and direct fun, revisit childhood gaming memories and nostalgic retro gaming style. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7046328,
-    "popularity": 25
+    "popularity": 7
   },
   {
     "title": "Rombo",
@@ -2181,7 +2181,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/rombo/cover/rombo.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Rombo! Every detail is carefully polished to ensure you can nostalgic retro gaming style, classic arcade gaming experience and revisit childhood gaming memories and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7042152285766078,
-    "popularity": 49
+    "popularity": 88
   },
   {
     "title": "Alien Blocks",
@@ -2196,7 +2196,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/alien-blocks-online-game/cover/alien-blocks-online-game.png?w=320",
     "description": "🏆 Alien Blocks brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of revisit childhood gaming memories, simple and direct fun and great choice for brain training. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.70313416,
-    "popularity": 8
+    "popularity": 14
   },
   {
     "title": "Geometry Dash Game",
@@ -2209,7 +2209,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/geometry-dash-game/cover/geometry-dash-game.png?w=320",
     "description": "✨ Explore the amazing world of Geometry Dash Game! Through excellent game design and beautiful graphics, you can revisit childhood gaming memories, classic arcade gaming experience and nostalgic retro gaming style and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.70005733,
-    "popularity": 68
+    "popularity": 19
   },
   {
     "title": "Tiny Boxes",
@@ -2223,7 +2223,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/tiny-boxes/cover/tiny-boxes.png?w=320",
     "description": "Tiny Boxes offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can great choice for brain training, classic arcade gaming experience and nostalgic retro gaming style and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69524216,
-    "popularity": 32
+    "popularity": 87
   },
   {
     "title": "Jump Drop Shell",
@@ -2236,7 +2236,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/jump-drop-shell/cover/jump-drop-shell.png?w=320",
     "description": "Ready to experience the endless fun that Jump Drop Shell brings? Whether you're a beginner or experienced player, you can find your own happiness in classic arcade gaming experience, simple and direct fun and revisit childhood gaming memories. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.69523157,
-    "popularity": 82
+    "popularity": 76
   },
   {
     "title": "Icy Tower",
@@ -2250,7 +2250,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/icy-tower/cover/icy-tower.png?w=320",
     "description": "Icy Tower offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in nostalgic retro gaming style, classic arcade gaming experience and revisit childhood gaming memories. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69516488,
-    "popularity": 35
+    "popularity": 9
   },
   {
     "title": "Flight in Rain",
@@ -2263,7 +2263,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/flight-in-rain/cover/flight-in-rain.png?w=320",
     "description": "Flight in Rain offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can revisit childhood gaming memories, simple and direct fun and nostalgic retro gaming style and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6921502511764561,
-    "popularity": 56
+    "popularity": 11
   },
   {
     "title": "Mannequin Head - Jumping Challenge",
@@ -2276,7 +2276,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mannequin-head-jumping-challenge/cover/mannequin-head-jumping-challenge.png?w=320",
     "description": "Mannequin Head - Jumping Challenge offers you an unprecedented gaming experience! Here, you can nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6918965,
-    "popularity": 3
+    "popularity": 17
   },
   {
     "title": " Floppy Paper",
@@ -2290,7 +2290,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/floppy-paper/cover/floppy-paper.png?w=320",
     "description": " Floppy Paper offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in nostalgic retro gaming style, revisit childhood gaming memories and classic arcade gaming experience. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.691358024691358,
-    "popularity": 86
+    "popularity": 11
   },
   {
     "title": "Clock Head",
@@ -2304,7 +2304,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/clockhead/cover/clockhead.png?w=320",
     "description": "Start your adventure journey in Clock Head! Here, you can revisit childhood gaming memories, nostalgic retro gaming style and simple and direct fun and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.69135802,
-    "popularity": 50
+    "popularity": 21
   },
   {
     "title": "Santa Gift Breaker",
@@ -2318,7 +2318,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/santa-gift-breaker/cover/santa-gift-breaker.png?w=320",
     "description": "Santa Gift Breaker offers you an unprecedented gaming experience! Here, you can revisit childhood gaming memories, simple and direct fun and nostalgic retro gaming style and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69135802,
-    "popularity": 80
+    "popularity": 79
   },
   {
     "title": "Snow Rain Fall Jumping",
@@ -2330,7 +2330,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/snow-rain-io-fall-guys-jumping-game/cover/snow-rain-io-fall-guys-jumping-game.png?w=320",
     "description": "Start your adventure journey in Snow Rain Fall Jumping! Whether you're a beginner or experienced player, you can find your own happiness in nostalgic retro gaming style, revisit childhood gaming memories and classic arcade gaming experience. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69135802,
-    "popularity": 21
+    "popularity": 23
   },
   {
     "title": "Mutant Assassin 3D",
@@ -2343,7 +2343,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mutant-assassin-3d/cover/mutant-assassin-3d.png?w=320",
     "description": "Ready to experience the endless fun that Mutant Assassin 3D brings? This game will bring you a unique experience of nostalgic retro gaming style, classic arcade gaming experience and simple and direct fun. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69033311,
-    "popularity": 11
+    "popularity": 95
   },
   {
     "title": "Sprunki Stick",
@@ -2355,7 +2355,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/sprunki-stick/cover/sprunki-stick.png?w=320",
     "description": "Welcome to the amazing world of Sprunki Stick! Through carefully designed game mechanics, you can revisit childhood gaming memories, classic arcade gaming experience and simple and direct fun and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69033311,
-    "popularity": 2
+    "popularity": 18
   },
   {
     "title": "Timber Guy",
@@ -2367,7 +2367,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/timber-guy/cover/timber-guy.png?w=320",
     "description": "Explore the infinite possibilities hidden in Timber Guy! Through carefully designed game mechanics, you can nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6894980108572158,
-    "popularity": 96
+    "popularity": 92
   },
   {
     "title": "Santa Run",
@@ -2380,7 +2380,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/santa-run/cover/santa-run.png?w=320",
     "description": "Welcome to the amazing world of Santa Run! Here, you can classic arcade gaming experience, nostalgic retro gaming style and revisit childhood gaming memories and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6894931,
-    "popularity": 35
+    "popularity": 18
   },
   {
     "title": "Neon Blitz",
@@ -2393,7 +2393,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/neon-blitz/cover/neon-blitz.png?w=320",
     "description": "Explore the infinite possibilities hidden in Neon Blitz! This game will bring you a unique experience of nostalgic retro gaming style, revisit childhood gaming memories and simple and direct fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.68918346,
-    "popularity": 21
+    "popularity": 63
   },
   {
     "title": "Candy Buff",
@@ -2406,7 +2406,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/candy-buff/cover/candy-buff.png?w=320",
     "description": "Explore the infinite possibilities hidden in Candy Buff! Whether you're a beginner or experienced player, you can find your own happiness in nostalgic retro gaming style, revisit childhood gaming memories and classic arcade gaming experience. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6885028421628254,
-    "popularity": 51
+    "popularity": 54
   },
   {
     "title": "Spaceship Pop",
@@ -2418,7 +2418,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/spaceship-pop/cover/spaceship-pop.png?w=320",
     "description": "Explore the infinite possibilities hidden in Spaceship Pop! Through carefully designed game mechanics, you can revisit childhood gaming memories, classic arcade gaming experience and nostalgic retro gaming style and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.68697359,
-    "popularity": 1
+    "popularity": 21
   },
   {
     "title": "Dotto Botto",
@@ -2432,7 +2432,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/dotto-botto/cover/dotto-botto.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Dotto Botto! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.89564961,
-    "popularity": 25
+    "popularity": 83
   },
   {
     "title": "Boing Bang",
@@ -2445,7 +2445,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/boing-bang/cover/boing-bang.png?w=320",
     "description": "🎮 Boing Bang - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.88270635,
-    "popularity": 72
+    "popularity": 35
   },
   {
     "title": "Jungle Game",
@@ -2457,7 +2457,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/jungle-game-ui/cover/jungle-game-ui.png?w=320",
     "description": "🏆 Jungle Game brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.86183565,
-    "popularity": 85
+    "popularity": 27
   },
   {
     "title": "Neon Brick Breaker",
@@ -2472,7 +2472,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/neon-brick-breaker/cover/neon-brick-breaker.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Neon Brick Breaker! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.76353382,
-    "popularity": 16
+    "popularity": 28
   },
   {
     "title": "Gem Twins",
@@ -2487,7 +2487,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/gem-twins/cover/gem-twins.png?w=320",
     "description": "🚀 Experience the stunning sensations of Gem Twins! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.76269227,
-    "popularity": 53
+    "popularity": 21
   },
   {
     "title": "Wormpocalypse",
@@ -2501,7 +2501,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/wormpocalypse/cover/wormpocalypse.png?w=320",
     "description": "🚀 Experience the stunning sensations of Wormpocalypse! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.74374291,
-    "popularity": 25
+    "popularity": 45
   },
   {
     "title": "Pixeroids",
@@ -2515,7 +2515,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/pixeroids/cover/pixeroids.png?w=320",
     "description": "🏆 Pixeroids brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7365653317317586,
-    "popularity": 84
+    "popularity": 58
   },
   {
     "title": "Shadoworld Adventure",
@@ -2528,7 +2528,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/shadoworld-adventure/cover/shadoworld-adventure.png?w=320",
     "description": "Welcome to the amazing world of Shadoworld Adventure! This game will bring you a unique experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.68634962,
-    "popularity": 93
+    "popularity": 89
   },
   {
     "title": "Compassion",
@@ -2542,7 +2542,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/compassion/cover/compassion.png?w=320",
     "description": "Explore the infinite possibilities hidden in Compassion! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6831787038479442,
-    "popularity": 66
+    "popularity": 42
   },
   {
     "title": "I Can Transform",
@@ -2556,7 +2556,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/i-can-transform/cover/i-can-transform.png?w=320",
     "description": "I Can Transform offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.68001127,
-    "popularity": 25
+    "popularity": 47
   },
   {
     "title": "3D Pinball - Space Cadet",
@@ -2569,7 +2569,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/3d-pinball-space-cadet/cover/3d-pinball-space-cadet.png?w=320",
     "description": "Explore the infinite possibilities hidden in 3D Pinball - Space Cadet! This game will bring you a unique experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.67384238,
-    "popularity": 13
+    "popularity": 33
   },
   {
     "title": "Mini Switcher",
@@ -2584,7 +2584,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mini-switcher/cover/mini-switcher.png?w=320",
     "description": "Welcome to the amazing world of Mini Switcher! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.64593904,
-    "popularity": 58
+    "popularity": 29
   },
   {
     "title": "Emerald and Amber",
@@ -2600,7 +2600,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/emerald-and-amber/cover/emerald-and-amber.png?w=320",
     "description": "Explore the infinite possibilities hidden in Emerald and Amber! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.64375038,
-    "popularity": 87
+    "popularity": 1
   },
   {
     "title": "Metalbot",
@@ -2614,7 +2614,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/metalbot/cover/metalbot.png?w=320",
     "description": "Start your adventure journey in Metalbot! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6379965828341235,
-    "popularity": 8
+    "popularity": 21
   },
   {
     "title": "Slimoban",
@@ -2629,7 +2629,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/slimoban/cover/slimoban.png?w=320",
     "description": "Welcome to the amazing world of Slimoban! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.63694293,
-    "popularity": 13
+    "popularity": 57
   },
   {
     "title": "Tomb of the Cat",
@@ -2644,7 +2644,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/tomb-of-the-cat/cover/tomb-of-the-cat.png?w=320",
     "description": "Ready to experience the endless fun that Tomb of the Cat brings? Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.60576989,
-    "popularity": 31
+    "popularity": 89
   },
   {
     "title": "Brick Breaker Retro",
@@ -2660,7 +2660,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/brick-breaker-retro/cover/brick-breaker-retro.png?w=320",
     "description": "Brick Breaker Retro offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.60548203,
-    "popularity": 70
+    "popularity": 46
   },
   {
     "title": "Tiny Tomb",
@@ -2674,7 +2674,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/tiny-tomb/cover/tiny-tomb.png?w=320",
     "description": "🚀 Experience the stunning sensations of Tiny Tomb! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.80262564,
-    "popularity": 84
+    "popularity": 22
   },
   {
     "title": "Dune 2",
@@ -2686,7 +2686,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/open-dune-2/cover/open-dune-2.png?w=320",
     "description": "🚀 Experience the stunning sensations of Dune 2! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80049479,
-    "popularity": 86
+    "popularity": 99
   },
   {
     "title": "Red and Green Pumpkin",
@@ -2699,7 +2699,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/red-and-green-pumpkin/cover/red-and-green-pumpkin.png?w=320",
     "description": "✨ Explore the amazing world of Red and Green Pumpkin! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.78187088,
-    "popularity": 35
+    "popularity": 58
   },
   {
     "title": "Noob vs Stickman Zombies",
@@ -2715,7 +2715,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/noob-vs-stickman-zombies/cover/noob-vs-stickman-zombies.png?w=320",
     "description": "✨ Explore the amazing world of Noob vs Stickman Zombies! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.78174471,
-    "popularity": 5
+    "popularity": 1
   },
   {
     "title": "Counter Craft 2 Zombies",
@@ -2729,7 +2729,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/counter-craft-2-zombies/cover/counter-craft-2-zombies.png?w=320",
     "description": "🎮 Counter Craft 2 Zombies - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.76514096,
-    "popularity": 81
+    "popularity": 31
   },
   {
     "title": "BlueGuy Escape",
@@ -2759,7 +2759,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/stickman-blockworld-parkour-2/cover/stickman-blockworld-parkour-2.png?w=320",
     "description": "Ready to experience the endless fun that Stickman Blockworld Parkour 2 brings? Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.64924725,
-    "popularity": 81
+    "popularity": 10
   },
   {
     "title": "Stickman Skyblock Parkour",
@@ -2774,7 +2774,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/stickman-skyblock-parkour/cover/stickman-skyblock-parkour.png?w=320",
     "description": "Welcome to the amazing world of Stickman Skyblock Parkour! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.64548107,
-    "popularity": 98
+    "popularity": 67
   },
   {
     "title": "Island Wars",
@@ -2788,7 +2788,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/island-wars/cover/island-wars.png?w=320",
     "description": "Welcome to the amazing world of Island Wars! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.62020134,
-    "popularity": 34
+    "popularity": 46
   },
   {
     "title": "Spider Evolution Runner Game",
@@ -2802,7 +2802,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/spider-evolution-runner-game/cover/spider-evolution-runner-game.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Spider Evolution Runner Game! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.89042607,
-    "popularity": 54
+    "popularity": 86
   },
   {
     "title": "Popcorn Race 3D",
@@ -2815,7 +2815,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/popcorn-race-3d-1/cover/popcorn-race-3d-1.png?w=320",
     "description": "🎮 Popcorn Race 3D - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.86639664,
-    "popularity": 35
+    "popularity": 38
   },
   {
     "title": "Runner",
@@ -2828,7 +2828,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/runner/cover/runner.png?w=320",
     "description": "🚀 Experience the stunning sensations of Runner! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.85840422,
-    "popularity": 8
+    "popularity": 0
   },
   {
     "title": "Long Neck Run",
@@ -2842,7 +2842,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/long-neck-run-1/cover/long-neck-run-1.png?w=320",
     "description": "🎮 Long Neck Run - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.8495232,
-    "popularity": 57
+    "popularity": 8
   },
   {
     "title": "3D laane runner",
@@ -2857,7 +2857,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/3d-laane-runner/cover/3d-laane-runner.png?w=320",
     "description": "🚀 Experience the stunning sensations of 3D laane runner! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.84510766,
-    "popularity": 20
+    "popularity": 31
   },
   {
     "title": "Subway Princess Run",
@@ -2870,7 +2870,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/subway-princess-run-1/cover/subway-princess-run-1.png?w=320",
     "description": "🎮 Subway Princess Run - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.80439566,
-    "popularity": 64
+    "popularity": 49
   },
   {
     "title": "Layer Man 3d Run Collect",
@@ -2884,7 +2884,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/layer-man-3d-run-collect/cover/layer-man-3d-run-collect.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Layer Man 3d Run Collect! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80353588,
-    "popularity": 51
+    "popularity": 94
   },
   {
     "title": "Runner Soldiers",
@@ -2897,7 +2897,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/runner-soldiers/cover/runner-soldiers.png?w=320",
     "description": "🏆 Runner Soldiers brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7638302,
-    "popularity": 9
+    "popularity": 51
   },
   {
     "title": "Squid Game Craft Runner",
@@ -2912,7 +2912,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/squid-game-craft-runner/cover/squid-game-craft-runner.png?w=320",
     "description": "🏆 Squid Game Craft Runner brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.7311828,
-    "popularity": 20
+    "popularity": 52
   },
   {
     "title": "Hyper Pixel",
@@ -2925,7 +2925,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/hyper-pixel/cover/hyper-pixel.png?w=320",
     "description": "🏆 Hyper Pixel brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72332114,
-    "popularity": 51
+    "popularity": 95
   },
   {
     "title": "Hit And Run Solo Leveling",
@@ -2938,7 +2938,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/hit-and-run-solo-leveling/cover/hit-and-run-solo-leveling.png?w=320",
     "description": "✨ Explore the amazing world of Hit And Run Solo Leveling! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.72208448,
-    "popularity": 15
+    "popularity": 49
   },
   {
     "title": "Count Masters",
@@ -2953,7 +2953,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/count-masters-1/cover/count-masters-1.png?w=320",
     "description": "✨ Explore the amazing world of Count Masters! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.72159677,
-    "popularity": 87
+    "popularity": 95
   },
   {
     "title": "Window Jump Guy",
@@ -2965,7 +2965,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/window-jump-guy/cover/window-jump-guy.png?w=320",
     "description": "✨ Explore the amazing world of Window Jump Guy! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.71748078,
-    "popularity": 73
+    "popularity": 40
   },
   {
     "title": "Extreme Way",
@@ -2977,7 +2977,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/extreme-way/cover/extreme-way.png?w=320",
     "description": "✨ Explore the amazing world of Extreme Way! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.7171459,
-    "popularity": 9
+    "popularity": 93
   },
   {
     "title": "Superhero Race",
@@ -2991,7 +2991,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/superhero-race/cover/superhero-race.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Superhero Race! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.71538484,
-    "popularity": 69
+    "popularity": 31
   },
   {
     "title": "Spider Evolution Runner",
@@ -3004,7 +3004,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/spider-evolution-runner/cover/spider-evolution-runner.png?w=320",
     "description": "Start your adventure journey in Spider Evolution Runner! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69642787,
-    "popularity": 92
+    "popularity": 86
   },
   {
     "title": "Superhero Transform Change Race",
@@ -3019,7 +3019,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/superhero-transform-change-race/cover/superhero-transform-change-race.png?w=320",
     "description": "Explore the infinite possibilities hidden in Superhero Transform Change Race! This game will bring you a unique experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6918965,
-    "popularity": 23
+    "popularity": 46
   },
   {
     "title": "Money Rush 3D",
@@ -3033,7 +3033,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/money-rush-3d-1/cover/money-rush-3d-1.png?w=320",
     "description": "Money Rush 3D offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.69161623,
-    "popularity": 15
+    "popularity": 76
   },
   {
     "title": "Count Master Match Color Run",
@@ -3045,7 +3045,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/count-master-match-color-run/cover/count-master-match-color-run.png?w=320",
     "description": "Count Master Match Color Run offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.68843307,
-    "popularity": 23
+    "popularity": 25
   },
   {
     "title": "Roblox Run 3D",
@@ -3059,7 +3059,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/roblox-run-3d/cover/roblox-run-3d.png?w=320",
     "description": "Welcome to the amazing world of Roblox Run 3D! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.68833126,
-    "popularity": 75
+    "popularity": 31
   },
   {
     "title": "Human Vehicle Run",
@@ -3072,7 +3072,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/human-vehicle-run/cover/human-vehicle-run.png?w=320",
     "description": "Ready to experience the endless fun that Human Vehicle Run brings? This game will bring you a unique experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.67999465,
-    "popularity": 9
+    "popularity": 74
   },
   {
     "title": "Stair Run Online 2",
@@ -3087,7 +3087,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/stair-run-online-2-1/cover/stair-run-online-2-1.png?w=320",
     "description": "Welcome to the amazing world of Stair Run Online 2! Here, you can enjoy gaming fun with friends and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6790981488081079,
-    "popularity": 59
+    "popularity": 84
   },
   {
     "title": "Sausage Run",
@@ -3099,7 +3099,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/sausage-run-1/cover/sausage-run-1.png?w=320",
     "description": "Ready to experience the endless fun that Sausage Run brings? This game will bring you a unique experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6734844,
-    "popularity": 69
+    "popularity": 67
   },
   {
     "title": "Cosmic Dash",
@@ -3112,7 +3112,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/cosmic-dash/cover/cosmic-dash.png?w=320",
     "description": "Ready to experience the endless fun that Cosmic Dash brings? Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.67084772,
-    "popularity": 48
+    "popularity": 92
   },
   {
     "title": "Fat Race 3D",
@@ -3126,7 +3126,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/fat-race-3d-1/cover/fat-race-3d-1.png?w=320",
     "description": "Ready to experience the endless fun that Fat Race 3D brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66273491,
-    "popularity": 38
+    "popularity": 35
   },
   {
     "title": "Merge Number Cube 3d Run Game",
@@ -3139,7 +3139,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/merge-number-cube-3d-run-game/cover/merge-number-cube-3d-run-game.png?w=320",
     "description": "Welcome to the amazing world of Merge Number Cube 3d Run Game! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65936632,
-    "popularity": 83
+    "popularity": 20
   },
   {
     "title": "JetPackBoy 3D",
@@ -3153,7 +3153,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/jetpackboy-3d/cover/jetpackboy-3d.png?w=320",
     "description": "Explore the infinite possibilities hidden in JetPackBoy 3D! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65753425,
-    "popularity": 31
+    "popularity": 14
   },
   {
     "title": "Kaiju Run Dzilla Enemies",
@@ -3166,7 +3166,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/kaiju-run-dzilla-enemies/cover/kaiju-run-dzilla-enemies.png?w=320",
     "description": "Ready to experience the endless fun that Kaiju Run Dzilla Enemies brings? This game will bring you a unique experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65090121,
-    "popularity": 81
+    "popularity": 39
   },
   {
     "title": "Boss Hunter Run",
@@ -3180,7 +3180,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/boss-hunter-run/cover/boss-hunter-run.png?w=320",
     "description": "Explore the infinite possibilities hidden in Boss Hunter Run! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6482012,
-    "popularity": 43
+    "popularity": 7
   },
   {
     "title": "Maze Runner Remake",
@@ -3193,7 +3193,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/maze-runner-remake/cover/maze-runner-remake.png?w=320",
     "description": "Maze Runner Remake offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63768116,
-    "popularity": 0
+    "popularity": 49
   },
   {
     "title": "Slime Warrior Run",
@@ -3205,7 +3205,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/slime-warrior-run-1/cover/slime-warrior-run-1.png?w=320",
     "description": "Start your adventure journey in Slime Warrior Run! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.623224667424483,
-    "popularity": 90
+    "popularity": 0
   },
   {
     "title": "Super Crowd",
@@ -3217,7 +3217,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/super-crowd/cover/super-crowd.png?w=320",
     "description": "Super Crowd offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6200211,
-    "popularity": 54
+    "popularity": 45
   },
   {
     "title": "TunnelShuttle",
@@ -3231,7 +3231,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/tunnelshuttle/cover/tunnelshuttle.png?w=320",
     "description": "Ready to experience the endless fun that TunnelShuttle brings? This game will bring you a unique experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6200211,
-    "popularity": 38
+    "popularity": 7
   },
   {
     "title": "Count Escape Rush",
@@ -3245,7 +3245,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/count-escape-rush/cover/count-escape-rush.png?w=320",
     "description": "Count Escape Rush offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61575845,
-    "popularity": 12
+    "popularity": 32
   },
   {
     "title": "Jungle Runner 2",
@@ -3259,7 +3259,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/jungle-runner-2/cover/jungle-runner-2.png?w=320",
     "description": "Start your adventure journey in Jungle Runner 2! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61575845,
-    "popularity": 13
+    "popularity": 74
   },
   {
     "title": "Turkey Adventure Runner",
@@ -3274,7 +3274,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/turkey-adventure-runner/cover/turkey-adventure-runner.png?w=320",
     "description": "Turkey Adventure Runner offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61538462,
-    "popularity": 57
+    "popularity": 90
   },
   {
     "title": "Run Dinoo",
@@ -3286,7 +3286,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/run-dinoo/cover/run-dinoo.png?w=320",
     "description": "Start your adventure journey in Run Dinoo! This game will bring you a unique experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 42
+    "popularity": 50
   },
   {
     "title": "Bloxd.io",
@@ -3299,7 +3299,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/bloxd-io/cover/bloxd-io.png?w=320",
     "description": "🚀 Experience the stunning sensations of Bloxd.io! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.88622141,
-    "popularity": 80
+    "popularity": 98
   },
   {
     "title": "Ninja Parkour Multiplayer",
@@ -3313,7 +3313,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/ninja-parkour-multiplayer/cover/ninja-parkour-multiplayer.png?w=320",
     "description": "🚀 Experience the stunning sensations of Ninja Parkour Multiplayer! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of enjoy gaming fun with friends. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.84809107,
-    "popularity": 37
+    "popularity": 70
   },
   {
     "title": "Mostly Only Up",
@@ -3327,7 +3327,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/mostly-only-up/cover/mostly-only-up.png?w=320",
     "description": "🚀 Experience the stunning sensations of Mostly Only Up! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.82404999,
-    "popularity": 88
+    "popularity": 25
   },
   {
     "title": "Cubetopia Parkour",
@@ -3341,7 +3341,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/cubetopia-parkour/cover/cubetopia-parkour.png?w=320",
     "description": "🏆 Cubetopia Parkour brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80444939,
-    "popularity": 45
+    "popularity": 54
   },
   {
     "title": "Buddy Blitz",
@@ -3354,7 +3354,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/buddy-blitz/cover/buddy-blitz.png?w=320",
     "description": "🚀 Experience the stunning sensations of Buddy Blitz! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74514646,
-    "popularity": 14
+    "popularity": 15
   },
   {
     "title": "Roblox Obbi Only Up",
@@ -3367,7 +3367,7 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/roblox-obbi-only-up/cover/roblox-obbi-only-up.png?w=320",
     "description": "🚀 Experience the stunning sensations of Roblox Obbi Only Up! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.72974845,
-    "popularity": 97
+    "popularity": 27
   },
   {
     "title": "Obby Pogo Parkour!",
@@ -3380,6 +3380,6 @@ export const search_arcade = [
     "image": "https://img.gamepix.com/games/obby-pogo-parkour/cover/obby-pogo-parkour.png?w=320",
     "description": "Welcome to the amazing world of Obby Pogo Parkour!! This game will bring you a unique experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.60219712,
-    "popularity": 2
+    "popularity": 1
   }
 ];

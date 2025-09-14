@@ -11,7 +11,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/match-mystery/cover/match-mystery.png?w=320",
     "description": "🎮 Match Mystery - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.88282255,
-    "popularity": 40
+    "popularity": 76
   },
   {
     "title": "Pirate Paradise",
@@ -23,7 +23,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/pirate-paradise/cover/pirate-paradise.png?w=320",
     "description": "🏆 Pirate Paradise brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.86841126,
-    "popularity": 68
+    "popularity": 0
   },
   {
     "title": "Candy Match Saga 2",
@@ -37,7 +37,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/candy-match-saga-2/cover/candy-match-saga-2.png?w=320",
     "description": "🎮 Candy Match Saga 2 - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.85900997,
-    "popularity": 96
+    "popularity": 85
   },
   {
     "title": "Skibidi Match Master",
@@ -50,7 +50,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/skibidi-match-master/cover/skibidi-match-master.png?w=320",
     "description": "🚀 Experience the stunning sensations of Skibidi Match Master! This meticulously crafted game will bring you a premium experience of great choice for brain training. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.85802682,
-    "popularity": 11
+    "popularity": 51
   },
   {
     "title": "Butterfly Matching",
@@ -63,7 +63,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/butterfly-matching/cover/butterfly-matching.png?w=320",
     "description": "🏆 Butterfly Matching brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.85207101,
-    "popularity": 36
+    "popularity": 49
   },
   {
     "title": "Candy Egg Blast",
@@ -77,7 +77,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/candy-crush-eggs-blast-game-eggs-link-puzzle/cover/candy-crush-eggs-blast-game-eggs-link-puzzle.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Candy Egg Blast! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.81271383,
-    "popularity": 25
+    "popularity": 27
   },
   {
     "title": "Pop-Pop Kitties",
@@ -93,7 +93,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/pop-pop-kitties/cover/pop-pop-kitties.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Pop-Pop Kitties! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.78850521,
-    "popularity": 7
+    "popularity": 33
   },
   {
     "title": "Merge For Renovation",
@@ -106,7 +106,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-for-renovation/cover/merge-for-renovation.png?w=320",
     "description": "🏆 Merge For Renovation brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.78632479,
-    "popularity": 77
+    "popularity": 63
   },
   {
     "title": "Gemcrafter",
@@ -118,7 +118,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/gemcrafter/cover/gemcrafter.png?w=320",
     "description": "🎮 Gemcrafter - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.73122668,
-    "popularity": 22
+    "popularity": 55
   },
   {
     "title": "Fancy Diver",
@@ -131,7 +131,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/fancy-diver/cover/fancy-diver.png?w=320",
     "description": "🏆 Fancy Diver brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.700078395867136,
-    "popularity": 6
+    "popularity": 76
   },
   {
     "title": "Bubble Hero 3D",
@@ -145,7 +145,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/bubble-hero-3d/cover/bubble-hero-3d.png?w=320",
     "description": "Explore the infinite possibilities hidden in Bubble Hero 3D! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6954523,
-    "popularity": 4
+    "popularity": 38
   },
   {
     "title": "Crazy Pizza",
@@ -158,7 +158,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/crazy-pizza/cover/crazy-pizza.png?w=320",
     "description": "Ready to experience the endless fun that Crazy Pizza brings? This game will bring you a unique experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69089968,
-    "popularity": 72
+    "popularity": 89
   },
   {
     "title": "Jewel Duel",
@@ -172,7 +172,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jewel-duel/cover/jewel-duel.png?w=320",
     "description": "Start your adventure journey in Jewel Duel! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.68879515,
-    "popularity": 70
+    "popularity": 80
   },
   {
     "title": "Juicy Dash",
@@ -185,7 +185,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/juicy-dash/cover/juicy-dash.png?w=320",
     "description": "Explore the infinite possibilities hidden in Juicy Dash! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.68574068,
-    "popularity": 21
+    "popularity": 46
   },
   {
     "title": "Sushi Matching",
@@ -198,7 +198,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sushi-matching/cover/sushi-matching.png?w=320",
     "description": "Start your adventure journey in Sushi Matching! This game will bring you a unique experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.68519713,
-    "popularity": 1
+    "popularity": 36
   },
   {
     "title": "Treasures Hunt 2",
@@ -211,7 +211,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/treasures-hunt-2/cover/treasures-hunt-2.png?w=320",
     "description": "Welcome to the amazing world of Treasures Hunt 2! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65753425,
-    "popularity": 86
+    "popularity": 27
   },
   {
     "title": "Sea Adventure",
@@ -223,7 +223,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sea-adventure/cover/sea-adventure.png?w=320",
     "description": "Ready to experience the endless fun that Sea Adventure brings? Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.65753425,
-    "popularity": 3
+    "popularity": 86
   },
   {
     "title": "Jelly Rock Saga",
@@ -235,7 +235,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jelly-rock-ola/cover/jelly-rock-ola.png?w=320",
     "description": "Start your adventure journey in Jelly Rock Saga! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6542515978133593,
-    "popularity": 30
+    "popularity": 89
   },
   {
     "title": "Jewel Bubbles 3",
@@ -248,7 +248,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jewel-bubbles-3/cover/jewel-bubbles-3.png?w=320",
     "description": "Jewel Bubbles 3 offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.654120501079634,
-    "popularity": 88
+    "popularity": 70
   },
   {
     "title": "7x7 Ultimate",
@@ -262,7 +262,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/7x7-ultimate/cover/7x7-ultimate.png?w=320",
     "description": "7x7 Ultimate offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.64685397,
-    "popularity": 31
+    "popularity": 98
   },
   {
     "title": "Tasty Jewel",
@@ -276,7 +276,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/tasty-jewel/cover/tasty-jewel.png?w=320",
     "description": "Start your adventure journey in Tasty Jewel! This game will bring you a unique experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6218296,
-    "popularity": 14
+    "popularity": 16
   },
   {
     "title": "Marble Smash",
@@ -290,7 +290,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/marble-smash/cover/marble-smash.png?w=320",
     "description": "Marble Smash offers you an unprecedented gaming experience! This game will bring you a unique experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6218296,
-    "popularity": 6
+    "popularity": 99
   },
   {
     "title": "Sun Charms",
@@ -302,7 +302,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sun-charms/cover/sun-charms.png?w=320",
     "description": "Ready to experience the endless fun that Sun Charms brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6191226180322799,
-    "popularity": 67
+    "popularity": 19
   },
   {
     "title": "Orange Ranch",
@@ -315,7 +315,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/orange-ranch/cover/orange-ranch.png?w=320",
     "description": "Orange Ranch offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6153682,
-    "popularity": 9
+    "popularity": 29
   },
   {
     "title": "Robot Band - Find the differences",
@@ -327,7 +327,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/robot-band-find-the-differences/cover/robot-band-find-the-differences.png?w=320",
     "description": "🎮 Robot Band - Find the differences - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect choice for brain training, test your observation and judgment skills and challenge your logical thinking abilities. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.89822606,
-    "popularity": 52
+    "popularity": 77
   },
   {
     "title": "Puzzlebot",
@@ -341,7 +341,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/puzzlebot/cover/puzzlebot.png?w=320",
     "description": "✨ Explore the amazing world of Puzzlebot! This meticulously crafted game will bring you a premium experience of challenge your logical thinking abilities, test your observation and judgment skills and perfect choice for brain training. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.85831245,
-    "popularity": 44
+    "popularity": 83
   },
   {
     "title": "World Cup Flag Match",
@@ -354,7 +354,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/world-cup-flag-match/cover/world-cup-flag-match.png?w=320",
     "description": "🚀 Experience the stunning sensations of World Cup Flag Match! This meticulously crafted game will bring you a premium experience of challenge your logical thinking abilities, test your observation and judgment skills and relaxing puzzle experience. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.85759687,
-    "popularity": 81
+    "popularity": 50
   },
   {
     "title": "Mirrors - Puzzle",
@@ -368,7 +368,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/mirrors-puzzle/cover/mirrors-puzzle.png?w=320",
     "description": "✨ Explore the amazing world of Mirrors - Puzzle! Every detail is carefully polished to ensure you can great choice for brain training, relaxing puzzle experience and test your observation and judgment skills and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.84076433,
-    "popularity": 44
+    "popularity": 81
   },
   {
     "title": "Blocks Puzzle",
@@ -383,7 +383,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/blocks-puzzle/cover/blocks-puzzle.png?w=320",
     "description": "🎮 Blocks Puzzle - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect choice for brain training, test your observation and judgment skills and relaxing puzzle experience. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.83195198,
-    "popularity": 92
+    "popularity": 57
   },
   {
     "title": "Stickman Troll Thief Puzzle",
@@ -396,7 +396,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/stickman-troll-thief-puzzle/cover/stickman-troll-thief-puzzle.png?w=320",
     "description": "🏆 Stickman Troll Thief Puzzle brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training, relaxing puzzle experience and test your observation and judgment skills and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.82765192,
-    "popularity": 90
+    "popularity": 23
   },
   {
     "title": "Geom-etrys",
@@ -409,7 +409,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/geom-etrys/cover/geom-etrys.png?w=320",
     "description": "🏆 Geom-etrys brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can perfect choice for brain training, challenge your logical thinking abilities and relaxing puzzle experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.81751825,
-    "popularity": 77
+    "popularity": 33
   },
   {
     "title": "Garten of Banban 3 Drag and Drop game",
@@ -422,7 +422,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/garten-of-banban-3-game/cover/garten-of-banban-3-game.png?w=320",
     "description": "🏆 Garten of Banban 3 Drag and Drop game brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect choice for brain training, relaxing puzzle experience and challenge your logical thinking abilities. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.81746741,
-    "popularity": 80
+    "popularity": 52
   },
   {
     "title": "Ring Fall Puzzle",
@@ -436,7 +436,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/ring-fall-puzzle/cover/ring-fall-puzzle.png?w=320",
     "description": "🏆 Ring Fall Puzzle brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of great choice for brain training, test your observation and judgment skills and relaxing puzzle experience. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80816088,
-    "popularity": 7
+    "popularity": 51
   },
   {
     "title": "Hook Master Mafia City",
@@ -449,7 +449,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/hook-master-mafia-city/cover/hook-master-mafia-city.png?w=320",
     "description": "🚀 Experience the stunning sensations of Hook Master Mafia City! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of challenge your logical thinking abilities, test your observation and judgment skills and relaxing puzzle experience. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80508909,
-    "popularity": 50
+    "popularity": 23
   },
   {
     "title": "Sand Truck",
@@ -462,7 +462,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sand-truck/cover/sand-truck.png?w=320",
     "description": "🏆 Sand Truck brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of challenge your logical thinking abilities, test your observation and judgment skills and relaxing puzzle experience. Rich game content ensures you'll never get bored. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.80171014,
-    "popularity": 62
+    "popularity": 10
   },
   {
     "title": "Big Donuts Mania",
@@ -475,7 +475,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/big-donuts-mania/cover/big-donuts-mania.png?w=320",
     "description": "🚀 Experience the stunning sensations of Big Donuts Mania! This meticulously crafted game will bring you a premium experience of test your observation and judgment skills, relaxing puzzle experience and great choice for brain training. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.78817057,
-    "popularity": 94
+    "popularity": 24
   },
   {
     "title": "MathTest22",
@@ -490,7 +490,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/magicball22/cover/magicball22.png?w=320",
     "description": "⭐ Discover the true charm of gaming in MathTest22! This meticulously crafted game will bring you a premium experience of challenge your logical thinking abilities, test your observation and judgment skills and great choice for brain training. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.78297035,
-    "popularity": 64
+    "popularity": 12
   },
   {
     "title": "Path - Puzzle",
@@ -505,7 +505,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/path-puzzle/cover/path-puzzle.png?w=320",
     "description": "✨ Explore the amazing world of Path - Puzzle! This meticulously crafted game will bring you a premium experience of great choice for brain training, relaxing puzzle experience and test your observation and judgment skills. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78250514,
-    "popularity": 39
+    "popularity": 5
   },
   {
     "title": "Poppy Playtime Chapter 3 jigsaw puzzle",
@@ -519,7 +519,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/poppy-playtime-chapter-3-puzzle/cover/poppy-playtime-chapter-3-puzzle.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Poppy Playtime Chapter 3 jigsaw puzzle! Through excellent game design and beautiful graphics, you can test your observation and judgment skills, challenge your logical thinking abilities and relaxing puzzle experience and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.78054392,
-    "popularity": 48
+    "popularity": 43
   },
   {
     "title": "Penguin Splash",
@@ -531,7 +531,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/penguin-splash/cover/penguin-splash.png?w=320",
     "description": "🎮 Penguin Splash - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can perfect choice for brain training, challenge your logical thinking abilities and test your observation and judgment skills and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.77876106,
-    "popularity": 98
+    "popularity": 65
   },
   {
     "title": "Thief Puzzle",
@@ -545,7 +545,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/thief-puzzle/cover/thief-puzzle.png?w=320",
     "description": "🏆 Thief Puzzle brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can relaxing puzzle experience, perfect choice for brain training and test your observation and judgment skills and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.77684601,
-    "popularity": 29
+    "popularity": 64
   },
   {
     "title": "Happy Color Sort Puzzle",
@@ -559,7 +559,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/happy-color-sort-puzzle/cover/happy-color-sort-puzzle.png?w=320",
     "description": "🚀 Experience the stunning sensations of Happy Color Sort Puzzle! This meticulously crafted game will bring you a premium experience of test your observation and judgment skills, relaxing puzzle experience and great choice for brain training. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.77652859,
-    "popularity": 87
+    "popularity": 68
   },
   {
     "title": "Protect My Dog",
@@ -573,7 +573,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/protect-my-dog/cover/protect-my-dog.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Protect My Dog! Through excellent game design and beautiful graphics, you can test your observation and judgment skills, perfect choice for brain training and relaxing puzzle experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77277749,
-    "popularity": 78
+    "popularity": 46
   },
   {
     "title": "Pull the Thread - Puzzle",
@@ -586,7 +586,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/pull-the-thread-puzzle/cover/pull-the-thread-puzzle.png?w=320",
     "description": "🎮 Pull the Thread - Puzzle - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of great choice for brain training, perfect choice for brain training and challenge your logical thinking abilities. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.76681307,
-    "popularity": 93
+    "popularity": 50
   },
   {
     "title": "Explainable Minesweeper",
@@ -600,7 +600,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/explainable-minesweeper/cover/explainable-minesweeper.png?w=320",
     "description": "🏆 Explainable Minesweeper brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can test your observation and judgment skills, perfect choice for brain training and relaxing puzzle experience and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.763284,
-    "popularity": 61
+    "popularity": 28
   },
   {
     "title": "Merge Worlds",
@@ -613,7 +613,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-worlds/cover/merge-worlds.png?w=320",
     "description": "🏆 Merge Worlds brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can test your observation and judgment skills, perfect choice for brain training and relaxing puzzle experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.76190476,
-    "popularity": 96
+    "popularity": 60
   },
   {
     "title": "Falling Blocks 2048 - 2D",
@@ -628,7 +628,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/falling-blocks-2048/cover/falling-blocks-2048.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Falling Blocks 2048 - 2D! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training, challenge your logical thinking abilities and perfect choice for brain training. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.76159502,
-    "popularity": 49
+    "popularity": 38
   },
   {
     "title": "Huggy Wuggy - Quiz",
@@ -642,7 +642,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/huggy-wuggy-test/cover/huggy-wuggy-test.png?w=320",
     "description": "🚀 Experience the stunning sensations of Huggy Wuggy - Quiz! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect choice for brain training, relaxing puzzle experience and challenge your logical thinking abilities. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.75885115,
-    "popularity": 60
+    "popularity": 16
   },
   {
     "title": "My Parking Lot",
@@ -655,7 +655,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/my-parking-lot/cover/my-parking-lot.png?w=320",
     "description": "⭐ Discover the true charm of gaming in My Parking Lot! This meticulously crafted game will bring you a premium experience of challenge your logical thinking abilities, test your observation and judgment skills and great choice for brain training. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.75007593,
-    "popularity": 97
+    "popularity": 88
   },
   {
     "title": "Queens",
@@ -668,7 +668,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/queens/cover/queens.png?w=320",
     "description": "🏆 Queens brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can test your observation and judgment skills, relaxing puzzle experience and challenge your logical thinking abilities and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73091028,
-    "popularity": 41
+    "popularity": 24
   },
   {
     "title": "DOP2 Delete part in Love Story",
@@ -682,7 +682,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/dop2-delete-part-in-love-story/cover/dop2-delete-part-in-love-story.png?w=320",
     "description": "🎮 DOP2 Delete part in Love Story - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can challenge your logical thinking abilities, great choice for brain training and test your observation and judgment skills and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.72887516,
-    "popularity": 95
+    "popularity": 24
   },
   {
     "title": "Stickman Rescue Draw 2 Save",
@@ -695,7 +695,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/stickman-rescue-draw-2-save/cover/stickman-rescue-draw-2-save.png?w=320",
     "description": "✨ Explore the amazing world of Stickman Rescue Draw 2 Save! Every detail is carefully polished to ensure you can great choice for brain training, challenge your logical thinking abilities and perfect choice for brain training and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72759396,
-    "popularity": 49
+    "popularity": 13
   },
   {
     "title": "Crime Detective - Spot Differences",
@@ -708,7 +708,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/crime-detective-spot-differencs/cover/crime-detective-spot-differencs.png?w=320",
     "description": "🚀 Experience the stunning sensations of Crime Detective - Spot Differences! Through excellent game design and beautiful graphics, you can perfect choice for brain training, great choice for brain training and relaxing puzzle experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72604702,
-    "popularity": 90
+    "popularity": 97
   },
   {
     "title": "Sorting Balls - Puzzle",
@@ -722,7 +722,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sorting-balls-puzzle/cover/sorting-balls-puzzle.png?w=320",
     "description": "🚀 Experience the stunning sensations of Sorting Balls - Puzzle! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of challenge your logical thinking abilities, perfect choice for brain training and test your observation and judgment skills. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.72576149,
-    "popularity": 20
+    "popularity": 7
   },
   {
     "title": "Tetrablocks Puzzle",
@@ -737,7 +737,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/tetrablocks-puzzle/cover/tetrablocks-puzzle.png?w=320",
     "description": "✨ Explore the amazing world of Tetrablocks Puzzle! Every detail is carefully polished to ensure you can challenge your logical thinking abilities, perfect choice for brain training and relaxing puzzle experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.71910112,
-    "popularity": 48
+    "popularity": 83
   },
   {
     "title": "Snakes and Ladders",
@@ -751,7 +751,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/snakes-and-ladders/cover/snakes-and-ladders.png?w=320",
     "description": "🎮 Snakes and Ladders - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of test your observation and judgment skills, challenge your logical thinking abilities and relaxing puzzle experience. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.71849433,
-    "popularity": 26
+    "popularity": 76
   },
   {
     "title": "Brain IQ test Mincraft Quiz",
@@ -765,7 +765,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/brain-iq-test-minecraft-quiz/cover/brain-iq-test-minecraft-quiz.png?w=320",
     "description": "🚀 Experience the stunning sensations of Brain IQ test Mincraft Quiz! Every detail is carefully polished to ensure you can challenge your logical thinking abilities, perfect choice for brain training and great choice for brain training and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.71538484,
-    "popularity": 43
+    "popularity": 92
   },
   {
     "title": "100 Doors Escape Puzzle",
@@ -778,7 +778,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/100-doors-escape-puzzle/cover/100-doors-escape-puzzle.png?w=320",
     "description": "🎮 100 Doors Escape Puzzle - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of relaxing puzzle experience, perfect choice for brain training and test your observation and judgment skills. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.71495373,
-    "popularity": 29
+    "popularity": 46
   },
   {
     "title": "Halloween Murder",
@@ -792,7 +792,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/halloween-murder/cover/halloween-murder.png?w=320",
     "description": "🚀 Experience the stunning sensations of Halloween Murder! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of test your observation and judgment skills, relaxing puzzle experience and great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.70624329,
-    "popularity": 30
+    "popularity": 27
   },
   {
     "title": "Merge Cooking Game",
@@ -805,7 +805,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-cooking-game/cover/merge-cooking-game.png?w=320",
     "description": "🎮 Merge Cooking Game - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of test your observation and judgment skills, relaxing puzzle experience and perfect choice for brain training. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.70588235,
-    "popularity": 81
+    "popularity": 39
   },
   {
     "title": "Falling Blocks - Tetris Game",
@@ -822,7 +822,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/falling-blocks-mobile-the-tetris-game/cover/falling-blocks-mobile-the-tetris-game.png?w=320",
     "description": "Explore the infinite possibilities hidden in Falling Blocks - Tetris Game! Whether you're a beginner or experienced player, you can find your own happiness in test your observation and judgment skills, relaxing puzzle experience and challenge your logical thinking abilities. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69947641,
-    "popularity": 0
+    "popularity": 1
   },
   {
     "title": "Zen Farm 2022",
@@ -835,7 +835,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/mommy-stickman-vs-huggi-waggi/cover/mommy-stickman-vs-huggi-waggi.png?w=320",
     "description": "Start your adventure journey in Zen Farm 2022! Here, you can test your observation and judgment skills, perfect choice for brain training and relaxing puzzle experience and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.69946972,
-    "popularity": 83
+    "popularity": 35
   },
   {
     "title": "Ballerina Cappuccina loves Tung Tung Sahur",
@@ -850,7 +850,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/ballerina-cappuccina-loves-tung-tung-sahur/cover/ballerina-cappuccina-loves-tung-tung-sahur.png?w=320",
     "description": "Ready to experience the endless fun that Ballerina Cappuccina loves Tung Tung Sahur brings? Through carefully designed game mechanics, you can perfect choice for brain training, test your observation and judgment skills and relaxing puzzle experience and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69802918,
-    "popularity": 32
+    "popularity": 96
   },
   {
     "title": "Baba Is You",
@@ -864,7 +864,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/baba-is-you/cover/baba-is-you.png?w=320",
     "description": "Ready to experience the endless fun that Baba Is You brings? Through carefully designed game mechanics, you can test your observation and judgment skills, perfect choice for brain training and relaxing puzzle experience and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.69525481,
-    "popularity": 12
+    "popularity": 60
   },
   {
     "title": "Where is - Multiplayer",
@@ -878,7 +878,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/where-is/cover/where-is.png?w=320",
     "description": "Start your adventure journey in Where is - Multiplayer! Through carefully designed game mechanics, you can challenge your logical thinking abilities, enjoy gaming fun with friends and test your observation and judgment skills and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69305472,
-    "popularity": 82
+    "popularity": 66
   },
   {
     "title": "Line Creator - Match 3 Puzzle",
@@ -892,7 +892,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/line-creator-match-3-puzzle/cover/line-creator-match-3-puzzle.png?w=320",
     "description": "Explore the infinite possibilities hidden in Line Creator - Match 3 Puzzle! Here, you can challenge your logical thinking abilities, great choice for brain training and test your observation and judgment skills and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69135802,
-    "popularity": 40
+    "popularity": 27
   },
   {
     "title": "Sticky Balls - Match 3 Bubble Shooter",
@@ -906,7 +906,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sticky-balls-match-3-bubble-shooter/cover/sticky-balls-match-3-bubble-shooter.png?w=320",
     "description": "Ready to experience the endless fun that Sticky Balls - Match 3 Bubble Shooter brings? Whether you're a beginner or experienced player, you can find your own happiness in test your observation and judgment skills, perfect choice for brain training and great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.69135802,
-    "popularity": 97
+    "popularity": 69
   },
   {
     "title": "Exit - Puzzle",
@@ -920,7 +920,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/exit-puzzle/cover/exit-puzzle.png?w=320",
     "description": "Exit - Puzzle offers you an unprecedented gaming experience! Here, you can great choice for brain training, challenge your logical thinking abilities and relaxing puzzle experience and enjoy the endless charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69135802,
-    "popularity": 38
+    "popularity": 18
   },
   {
     "title": "The Sea Rush",
@@ -933,7 +933,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sea-rush/cover/sea-rush.png?w=320",
     "description": "Ready to experience the endless fun that The Sea Rush brings? Whether you're a beginner or experienced player, you can find your own happiness in challenge your logical thinking abilities, great choice for brain training and perfect choice for brain training. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6862174193409926,
-    "popularity": 93
+    "popularity": 24
   },
   {
     "title": "Find the Sprunki",
@@ -946,7 +946,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/find-the-sprunki/cover/find-the-sprunki.png?w=320",
     "description": "Ready to experience the endless fun that Find the Sprunki brings? This game will bring you a unique experience of challenge your logical thinking abilities, test your observation and judgment skills and perfect choice for brain training. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67977659,
-    "popularity": 23
+    "popularity": 8
   },
   {
     "title": "Get 10 Plus",
@@ -961,7 +961,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/get10-plus/cover/get10-plus.png?w=320",
     "description": "Welcome to the amazing world of Get 10 Plus! Through carefully designed game mechanics, you can challenge your logical thinking abilities, perfect choice for brain training and test your observation and judgment skills and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6782827521522315,
-    "popularity": 9
+    "popularity": 66
   },
   {
     "title": "Cute Elements",
@@ -975,7 +975,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/cute-elements-fun-elementals/cover/cute-elements-fun-elementals.png?w=320",
     "description": "Start your adventure journey in Cute Elements! Here, you can test your observation and judgment skills, perfect choice for brain training and challenge your logical thinking abilities and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6767452012936469,
-    "popularity": 75
+    "popularity": 32
   },
   {
     "title": "Labo Brick Train Game For Kids",
@@ -989,7 +989,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/labo-brick-train-game-for-kids/cover/labo-brick-train-game-for-kids.png?w=320",
     "description": "Explore the infinite possibilities hidden in Labo Brick Train Game For Kids! Through carefully designed game mechanics, you can test your observation and judgment skills, relaxing puzzle experience and perfect choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67532468,
-    "popularity": 70
+    "popularity": 43
   },
   {
     "title": "Grass Cutting Puzzle",
@@ -1002,7 +1002,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/crazy-chicken-jump/cover/crazy-chicken-jump.png?w=320",
     "description": "Start your adventure journey in Grass Cutting Puzzle! Here, you can great choice for brain training, relaxing puzzle experience and test your observation and judgment skills and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66870392,
-    "popularity": 53
+    "popularity": 37
   },
   {
     "title": "Coin Merge Machine",
@@ -1014,7 +1014,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/coin-merge-machine/cover/coin-merge-machine.png?w=320",
     "description": "Explore the infinite possibilities hidden in Coin Merge Machine! Through carefully designed game mechanics, you can test your observation and judgment skills, challenge your logical thinking abilities and relaxing puzzle experience and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66745201,
-    "popularity": 94
+    "popularity": 11
   },
   {
     "title": "Balloon Slicer",
@@ -1026,7 +1026,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/balloon-slicer/cover/balloon-slicer.png?w=320",
     "description": "Ready to experience the endless fun that Balloon Slicer brings? This game will bring you a unique experience of test your observation and judgment skills, challenge your logical thinking abilities and relaxing puzzle experience. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66745201,
-    "popularity": 4
+    "popularity": 58
   },
   {
     "title": "Swatch Swap - Blocks Puzzle",
@@ -1042,7 +1042,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/swatch-swap-blocks-puzzle/cover/swatch-swap-blocks-puzzle.png?w=320",
     "description": "Swatch Swap - Blocks Puzzle offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can test your observation and judgment skills, great choice for brain training and challenge your logical thinking abilities and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.66666667,
-    "popularity": 69
+    "popularity": 27
   },
   {
     "title": "Italian Brainrot Anomaly",
@@ -1055,7 +1055,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/italian-brainrot-anomaly/cover/italian-brainrot-anomaly.png?w=320",
     "description": "Start your adventure journey in Italian Brainrot Anomaly! Through carefully designed game mechanics, you can test your observation and judgment skills, great choice for brain training and perfect choice for brain training and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.66666667,
-    "popularity": 84
+    "popularity": 16
   },
   {
     "title": "Waffle Words",
@@ -1069,7 +1069,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/waffle-words/cover/waffle-words.png?w=320",
     "description": "Welcome to the amazing world of Waffle Words! This game will bring you a unique experience of test your observation and judgment skills, perfect choice for brain training and relaxing puzzle experience. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6660225693716254,
-    "popularity": 65
+    "popularity": 95
   },
   {
     "title": "Water Sort - Color Sort Puzzle",
@@ -1082,7 +1082,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/water-sort-color-sort-puzzle/cover/water-sort-color-sort-puzzle.png?w=320",
     "description": "Water Sort - Color Sort Puzzle offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can test your observation and judgment skills, challenge your logical thinking abilities and perfect choice for brain training and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65795887,
-    "popularity": 84
+    "popularity": 28
   },
   {
     "title": "Hexa Sort 3D",
@@ -1096,7 +1096,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/hexa-sort-3d/cover/hexa-sort-3d.png?w=320",
     "description": "Start your adventure journey in Hexa Sort 3D! Here, you can challenge your logical thinking abilities, perfect choice for brain training and test your observation and judgment skills and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65663364,
-    "popularity": 25
+    "popularity": 60
   },
   {
     "title": "Dungeon Chess",
@@ -1108,7 +1108,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/dungeon-chess/cover/dungeon-chess.png?w=320",
     "description": "Welcome to the amazing world of Dungeon Chess! Whether you're a beginner or experienced player, you can find your own happiness in challenge your logical thinking abilities, test your observation and judgment skills and relaxing puzzle experience. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65244075,
-    "popularity": 70
+    "popularity": 11
   },
   {
     "title": "Candy Blocks Game",
@@ -1122,7 +1122,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/chocolate-block/cover/chocolate-block.png?w=320",
     "description": "Candy Blocks Game offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in perfect choice for brain training, great choice for brain training and relaxing puzzle experience. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6456214047374483,
-    "popularity": 40
+    "popularity": 70
   },
   {
     "title": "Fish Evolution",
@@ -1136,7 +1136,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/fish-evolution1/cover/fish-evolution1.png?w=320",
     "description": "Ready to experience the endless fun that Fish Evolution brings? This game will bring you a unique experience of challenge your logical thinking abilities, relaxing puzzle experience and test your observation and judgment skills. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6456214,
-    "popularity": 95
+    "popularity": 0
   },
   {
     "title": "Don\"\"t Move",
@@ -1148,7 +1148,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/don-t-move/cover/don-t-move.png?w=320",
     "description": "Start your adventure journey in Don\"\"t Move! Through carefully designed game mechanics, you can perfect choice for brain training, challenge your logical thinking abilities and test your observation and judgment skills and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.63953242,
-    "popularity": 81
+    "popularity": 56
   },
   {
     "title": "Your Past",
@@ -1161,7 +1161,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/your-past/cover/your-past.png?w=320",
     "description": "Ready to experience the endless fun that Your Past brings? This game will bring you a unique experience of perfect choice for brain training, relaxing puzzle experience and challenge your logical thinking abilities. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63768116,
-    "popularity": 81
+    "popularity": 94
   },
   {
     "title": "Colors Maze",
@@ -1174,7 +1174,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/colors-maze/cover/colors-maze.png?w=320",
     "description": "Ready to experience the endless fun that Colors Maze brings? Here, you can challenge your logical thinking abilities, test your observation and judgment skills and perfect choice for brain training and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63768116,
-    "popularity": 98
+    "popularity": 72
   },
   {
     "title": "Don\"\"t Drop The Cup",
@@ -1188,7 +1188,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/don-t-drop-the-cup/cover/don-t-drop-the-cup.png?w=320",
     "description": "Welcome to the amazing world of Don\"\"t Drop The Cup! This game will bring you a unique experience of challenge your logical thinking abilities, perfect choice for brain training and relaxing puzzle experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.63768116,
-    "popularity": 81
+    "popularity": 74
   },
   {
     "title": "Magic Kingdom. Hex Match",
@@ -1200,7 +1200,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/magic-kingdom-hex-match/cover/magic-kingdom-hex-match.png?w=320",
     "description": "Welcome to the amazing world of Magic Kingdom. Hex Match! This game will bring you a unique experience of perfect choice for brain training, challenge your logical thinking abilities and relaxing puzzle experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63768116,
-    "popularity": 43
+    "popularity": 45
   },
   {
     "title": "Ropeway Master",
@@ -1213,7 +1213,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/ropeway-master/cover/ropeway-master.png?w=320",
     "description": "Ready to experience the endless fun that Ropeway Master brings? This game will bring you a unique experience of challenge your logical thinking abilities, relaxing puzzle experience and great choice for brain training. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.63768116,
-    "popularity": 13
+    "popularity": 56
   },
   {
     "title": "100 seconds Labyrinth",
@@ -1226,7 +1226,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/labyrinth/cover/labyrinth.png?w=320",
     "description": "100 seconds Labyrinth offers you an unprecedented gaming experience! Here, you can great choice for brain training, test your observation and judgment skills and relaxing puzzle experience and enjoy the endless charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.62956224,
-    "popularity": 10
+    "popularity": 19
   },
   {
     "title": "Barbee Doll Puzzles",
@@ -1239,7 +1239,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/barbie-puzzles/cover/barbie-puzzles.png?w=320",
     "description": "Barbee Doll Puzzles offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training, relaxing puzzle experience and challenge your logical thinking abilities. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.62889996,
-    "popularity": 34
+    "popularity": 82
   },
   {
     "title": "Happy Fruit Game",
@@ -1252,7 +1252,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/happy-fruit-game/cover/happy-fruit-game.png?w=320",
     "description": "Welcome to the amazing world of Happy Fruit Game! Through carefully designed game mechanics, you can perfect choice for brain training, challenge your logical thinking abilities and relaxing puzzle experience and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.62857332,
-    "popularity": 31
+    "popularity": 8
   },
   {
     "title": "Two x2",
@@ -1266,7 +1266,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/two-for-2-match-the-numbers/cover/two-for-2-match-the-numbers.png?w=320",
     "description": "Ready to experience the endless fun that Two x2 brings? Whether you're a beginner or experienced player, you can find your own happiness in challenge your logical thinking abilities, test your observation and judgment skills and relaxing puzzle experience. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.62857332,
-    "popularity": 20
+    "popularity": 21
   },
   {
     "title": "Bubble Up Endless",
@@ -1279,7 +1279,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/bubble-up-endless/cover/bubble-up-endless.png?w=320",
     "description": "Explore the infinite possibilities hidden in Bubble Up Endless! Through carefully designed game mechanics, you can challenge your logical thinking abilities, test your observation and judgment skills and perfect choice for brain training and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.62086063,
-    "popularity": 18
+    "popularity": 84
   },
   {
     "title": "Puzzles - Fantastic Creatures",
@@ -1292,7 +1292,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/puzzles-fantastic-creatures/cover/puzzles-fantastic-creatures.png?w=320",
     "description": "Welcome to the amazing world of Puzzles - Fantastic Creatures! Here, you can test your observation and judgment skills, great choice for brain training and perfect choice for brain training and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6200211,
-    "popularity": 64
+    "popularity": 67
   },
   {
     "title": "Color Bouncer Puzzle",
@@ -1306,7 +1306,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/color-bouncer-puzzle/cover/color-bouncer-puzzle.png?w=320",
     "description": "Welcome to the amazing world of Color Bouncer Puzzle! Through carefully designed game mechanics, you can challenge your logical thinking abilities, perfect choice for brain training and great choice for brain training and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6200211,
-    "popularity": 70
+    "popularity": 43
   },
   {
     "title": "Rings Rotate",
@@ -1319,7 +1319,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/rings-rotate/cover/rings-rotate.png?w=320",
     "description": "Start your adventure journey in Rings Rotate! Whether you're a beginner or experienced player, you can find your own happiness in test your observation and judgment skills, relaxing puzzle experience and great choice for brain training. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6200211,
-    "popularity": 9
+    "popularity": 43
   },
   {
     "title": "DOP in Love Story Find Part",
@@ -1333,7 +1333,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/dop-in-love-story-find-part/cover/dop-in-love-story-find-part.png?w=320",
     "description": "DOP in Love Story Find Part offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can test your observation and judgment skills, challenge your logical thinking abilities and great choice for brain training and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61809557,
-    "popularity": 39
+    "popularity": 16
   },
   {
     "title": "Paint Sponges Puzzle",
@@ -1347,7 +1347,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/paint-sponges/cover/paint-sponges.png?w=320",
     "description": "Welcome to the amazing world of Paint Sponges Puzzle! This game will bring you a unique experience of perfect choice for brain training, great choice for brain training and challenge your logical thinking abilities. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61809557,
-    "popularity": 93
+    "popularity": 45
   },
   {
     "title": "Brainrot Merge",
@@ -1360,7 +1360,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/brainrot-drop-merge-challenge/cover/brainrot-drop-merge-challenge.png?w=320",
     "description": "Brainrot Merge offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in challenge your logical thinking abilities, great choice for brain training and test your observation and judgment skills. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61575845,
-    "popularity": 69
+    "popularity": 97
   },
   {
     "title": "Physical Balls 2048",
@@ -1373,7 +1373,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/physical-balls-2048/cover/physical-balls-2048.png?w=320",
     "description": "Ready to experience the endless fun that Physical Balls 2048 brings? This game will bring you a unique experience of perfect choice for brain training, relaxing puzzle experience and challenge your logical thinking abilities. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61575845,
-    "popularity": 77
+    "popularity": 25
   },
   {
     "title": "Duck Escape",
@@ -1385,7 +1385,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/duck-escape/cover/duck-escape.png?w=320",
     "description": "Welcome to the amazing world of Duck Escape! Whether you're a beginner or experienced player, you can find your own happiness in challenge your logical thinking abilities, test your observation and judgment skills and perfect choice for brain training. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 85
+    "popularity": 81
   },
   {
     "title": "Merge Fantasy",
@@ -1398,7 +1398,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-fantasy/cover/merge-fantasy.png?w=320",
     "description": "Start your adventure journey in Merge Fantasy! This game will bring you a unique experience of perfect choice for brain training, relaxing puzzle experience and test your observation and judgment skills. Balanced game difficulty suits players of all levels. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 65
+    "popularity": 81
   },
   {
     "title": "Turn On the Green Lights",
@@ -1411,7 +1411,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/turn-on-the-green-lights/cover/turn-on-the-green-lights.png?w=320",
     "description": "Ready to experience the endless fun that Turn On the Green Lights brings? Here, you can relaxing puzzle experience, great choice for brain training and challenge your logical thinking abilities and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 36
+    "popularity": 50
   },
   {
     "title": "Pin Puzzle Love Story",
@@ -1425,7 +1425,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/pin-puzzle-love-story/cover/pin-puzzle-love-story.png?w=320",
     "description": "Ready to experience the endless fun that Pin Puzzle Love Story brings? This game will bring you a unique experience of relaxing puzzle experience, test your observation and judgment skills and challenge your logical thinking abilities. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 72
+    "popularity": 65
   },
   {
     "title": "Puzzle - Lines And Knots 1",
@@ -1438,7 +1438,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/puzzle-lines-and-knots-1/cover/puzzle-lines-and-knots-1.png?w=320",
     "description": "Explore the infinite possibilities hidden in Puzzle - Lines And Knots 1! Here, you can great choice for brain training, challenge your logical thinking abilities and test your observation and judgment skills and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 73
+    "popularity": 70
   },
   {
     "title": "Draw to Home - Draw the Line",
@@ -1451,7 +1451,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/draw-to-home-draw-the-line/cover/draw-to-home-draw-the-line.png?w=320",
     "description": "Start your adventure journey in Draw to Home - Draw the Line! This game will bring you a unique experience of great choice for brain training, relaxing puzzle experience and perfect choice for brain training. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61538462,
-    "popularity": 26
+    "popularity": 43
   },
   {
     "title": "Animals Merge",
@@ -1464,7 +1464,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/animals-merge/cover/animals-merge.png?w=320",
     "description": "Animals Merge offers you an unprecedented gaming experience! Here, you can test your observation and judgment skills, relaxing puzzle experience and great choice for brain training and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 95
+    "popularity": 13
   },
   {
     "title": "Network - Puzzle",
@@ -1478,7 +1478,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/network-puzzle/cover/network-puzzle.png?w=320",
     "description": "Start your adventure journey in Network - Puzzle! Here, you can perfect choice for brain training, challenge your logical thinking abilities and test your observation and judgment skills and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 81
+    "popularity": 40
   },
   {
     "title": "Push Out - Puzzle Adventure",
@@ -1492,7 +1492,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/push-out-puzzle-adventure/cover/push-out-puzzle-adventure.png?w=320",
     "description": "Start your adventure journey in Push Out - Puzzle Adventure! Here, you can test your observation and judgment skills, perfect choice for brain training and challenge your logical thinking abilities and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61538462,
-    "popularity": 91
+    "popularity": 65
   },
   {
     "title": "Power Grid",
@@ -1505,7 +1505,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/power-grid/cover/power-grid.png?w=320",
     "description": "Ready to experience the endless fun that Power Grid brings? This game will bring you a unique experience of challenge your logical thinking abilities, relaxing puzzle experience and test your observation and judgment skills. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 37
+    "popularity": 4
   },
   {
     "title": "Glass Quest",
@@ -1518,7 +1518,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/glass-quest/cover/glass-quest.png?w=320",
     "description": "Glass Quest offers you an unprecedented gaming experience! Here, you can test your observation and judgment skills, perfect choice for brain training and relaxing puzzle experience and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61538462,
-    "popularity": 56
+    "popularity": 22
   },
   {
     "title": "Water Sort - Color Puzzle Game",
@@ -1532,7 +1532,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/water-sort-color-puzzle-game/cover/water-sort-color-puzzle-game.png?w=320",
     "description": "Ready to experience the endless fun that Water Sort - Color Puzzle Game brings? Here, you can challenge your logical thinking abilities, relaxing puzzle experience and test your observation and judgment skills and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6153846153846154,
-    "popularity": 20
+    "popularity": 98
   },
   {
     "title": "Snake Swipe Puzzle",
@@ -1546,7 +1546,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/snake-swipe-puzzle/cover/snake-swipe-puzzle.png?w=320",
     "description": "Snake Swipe Puzzle offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can perfect choice for brain training, challenge your logical thinking abilities and great choice for brain training and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61127035,
-    "popularity": 40
+    "popularity": 86
   },
   {
     "title": "Puzzle Block Fill It Completely",
@@ -1560,7 +1560,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/puzzle-block-fill-it-completely/cover/puzzle-block-fill-it-completely.png?w=320",
     "description": "Welcome to the amazing world of Puzzle Block Fill It Completely! This game will bring you a unique experience of great choice for brain training, perfect choice for brain training and challenge your logical thinking abilities. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.60144286,
-    "popularity": 37
+    "popularity": 70
   },
   {
     "title": "Merge Shapes",
@@ -1573,7 +1573,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-shapes/cover/merge-shapes.png?w=320",
     "description": "Explore the infinite possibilities hidden in Merge Shapes! Whether you're a beginner or experienced player, you can find your own happiness in perfect choice for brain training, great choice for brain training and challenge your logical thinking abilities. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.60017322,
-    "popularity": 68
+    "popularity": 59
   },
   {
     "title": "Kobadoo Arithmetic",
@@ -1586,7 +1586,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/kobadoo-arithmetic/cover/kobadoo-arithmetic.png?w=320",
     "description": "✨ Explore the amazing world of Kobadoo Arithmetic! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.87571361,
-    "popularity": 8
+    "popularity": 41
   },
   {
     "title": "2048",
@@ -1599,7 +1599,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/2048/cover/2048.png?w=320",
     "description": "🏆 2048 brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.8580627,
-    "popularity": 73
+    "popularity": 86
   },
   {
     "title": "Super Chains",
@@ -1614,7 +1614,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/super-chains/cover/super-chains.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Super Chains! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.8528835,
-    "popularity": 41
+    "popularity": 22
   },
   {
     "title": "Heart Calcopus",
@@ -1628,7 +1628,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/heart-calcopus/cover/heart-calcopus.png?w=320",
     "description": "🏆 Heart Calcopus brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.81258284,
-    "popularity": 3
+    "popularity": 31
   },
   {
     "title": "Get 10",
@@ -1642,7 +1642,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/get-10/cover/get-10.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Get 10! This meticulously crafted game will bring you a premium experience of great choice for brain training. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.76920793,
-    "popularity": 42
+    "popularity": 78
   },
   {
     "title": "Scary Math",
@@ -1657,7 +1657,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/scary-math/cover/scary-math.png?w=320",
     "description": "🏆 Scary Math brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7448333580539924,
-    "popularity": 61
+    "popularity": 34
   },
   {
     "title": "Flags Maniac",
@@ -1670,7 +1670,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/flags-maniac/cover/flags-maniac.png?w=320",
     "description": "Start your adventure journey in Flags Maniac! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69805968,
-    "popularity": 18
+    "popularity": 70
   },
   {
     "title": "Skibidi Toilet Math challenge",
@@ -1684,7 +1684,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/skibidi-toilet-math-challenge/cover/skibidi-toilet-math-challenge.png?w=320",
     "description": "Skibidi Toilet Math challenge offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67186232,
-    "popularity": 10
+    "popularity": 63
   },
   {
     "title": "Get 10 Ultimate",
@@ -1697,7 +1697,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/get-10-ultimate/cover/get-10-ultimate.png?w=320",
     "description": "Get 10 Ultimate offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65753425,
-    "popularity": 83
+    "popularity": 28
   },
   {
     "title": "Merge To Million",
@@ -1712,7 +1712,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-to-million/cover/merge-to-million.png?w=320",
     "description": "Ready to experience the endless fun that Merge To Million brings? Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65547149,
-    "popularity": 25
+    "popularity": 40
   },
   {
     "title": "2048 Drag and Drop",
@@ -1726,7 +1726,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/2048-drag-and-drop/cover/2048-drag-and-drop.png?w=320",
     "description": "Ready to experience the endless fun that 2048 Drag and Drop brings? Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.62922981,
-    "popularity": 41
+    "popularity": 49
   },
   {
     "title": "Merge Master - Puzzle",
@@ -1741,7 +1741,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-master-puzzle/cover/merge-master-puzzle.png?w=320",
     "description": "Ready to experience the endless fun that Merge Master - Puzzle brings? Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6225254689311597,
-    "popularity": 7
+    "popularity": 67
   },
   {
     "title": "Kobadoo Shapes",
@@ -1753,7 +1753,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/kobadoo-shapes/cover/kobadoo-shapes.png?w=320",
     "description": "✨ Explore the amazing world of Kobadoo Shapes! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.89248922,
-    "popularity": 35
+    "popularity": 12
   },
   {
     "title": "Kobadoo Flags",
@@ -1765,7 +1765,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/kobadoo-flags/cover/kobadoo-flags.png?w=320",
     "description": "🎮 Kobadoo Flags - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.88438322,
-    "popularity": 70
+    "popularity": 61
   },
   {
     "title": "Awareness Game - The Robot Bar",
@@ -1777,7 +1777,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/awareness-game-the-robot-bar/cover/awareness-game-the-robot-bar.png?w=320",
     "description": "✨ Explore the amazing world of Awareness Game - The Robot Bar! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.85964878,
-    "popularity": 76
+    "popularity": 89
   },
   {
     "title": "Tralala Test",
@@ -1791,7 +1791,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/tralala-test/cover/tralala-test.png?w=320",
     "description": "🎮 Tralala Test - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.77838029,
-    "popularity": 53
+    "popularity": 57
   },
   {
     "title": "How Many Mice",
@@ -1803,7 +1803,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/how-many-mice/cover/how-many-mice.png?w=320",
     "description": "🏆 How Many Mice brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77652859,
-    "popularity": 77
+    "popularity": 0
   },
   {
     "title": "Fight Trivia",
@@ -1816,7 +1816,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/fight-trivia/cover/fight-trivia.png?w=320",
     "description": "🚀 Experience the stunning sensations of Fight Trivia! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7706422,
-    "popularity": 38
+    "popularity": 16
   },
   {
     "title": "Quiz Squid Round",
@@ -1828,7 +1828,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/quiz-squid-round/cover/quiz-squid-round.png?w=320",
     "description": "🎮 Quiz Squid Round - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.75941989,
-    "popularity": 90
+    "popularity": 92
   },
   {
     "title": "FlashColor",
@@ -1841,7 +1841,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/flashcolor/cover/flashcolor.png?w=320",
     "description": "⭐ Discover the true charm of gaming in FlashColor! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.74226804,
-    "popularity": 18
+    "popularity": 79
   },
   {
     "title": "Crossword",
@@ -1855,7 +1855,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/crossword/cover/crossword.png?w=320",
     "description": "🎮 Crossword - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.71889253,
-    "popularity": 18
+    "popularity": 59
   },
   {
     "title": "Zoo Trivia",
@@ -1869,7 +1869,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/zoo-trivia/cover/zoo-trivia.png?w=320",
     "description": "✨ Explore the amazing world of Zoo Trivia! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.71589083,
-    "popularity": 68
+    "popularity": 41
   },
   {
     "title": "Fight Trivia 2",
@@ -1882,7 +1882,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/fight-trivia-2/cover/fight-trivia-2.png?w=320",
     "description": "Fight Trivia 2 offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.66666667,
-    "popularity": 55
+    "popularity": 76
   },
   {
     "title": "Geography Quiz",
@@ -1894,7 +1894,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/geography-quiz/cover/geography-quiz.png?w=320",
     "description": "Start your adventure journey in Geography Quiz! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65753425,
-    "popularity": 35
+    "popularity": 31
   },
   {
     "title": "Brain games",
@@ -1908,7 +1908,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/brain-games/cover/brain-games.png?w=320",
     "description": "Ready to experience the endless fun that Brain games brings? Here, you can great choice for brain training and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.64375038,
-    "popularity": 23
+    "popularity": 69
   },
   {
     "title": "Word Cargo Puzzle",
@@ -1923,7 +1923,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/word-cargo/cover/word-cargo.png?w=320",
     "description": "🏆 Word Cargo Puzzle brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.71202696,
-    "popularity": 6
+    "popularity": 46
   },
   {
     "title": "Jigsaw Sort",
@@ -1937,7 +1937,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jigsaw-sort/cover/jigsaw-sort.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Jigsaw Sort! Every detail is carefully polished to ensure you can perfect choice for brain training, great choice for brain training and relaxing puzzle experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.84848485,
-    "popularity": 32
+    "popularity": 30
   },
   {
     "title": "Jigsaw Puzzle",
@@ -1951,7 +1951,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jigsaw-puzzle/cover/jigsaw-puzzle.png?w=320",
     "description": "✨ Explore the amazing world of Jigsaw Puzzle! This meticulously crafted game will bring you a premium experience of perfect choice for brain training, challenge your logical thinking abilities and test your observation and judgment skills. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80718378,
-    "popularity": 30
+    "popularity": 85
   },
   {
     "title": "Jigsaw Collections",
@@ -1964,7 +1964,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jigsaw-collections/cover/jigsaw-collections.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Jigsaw Collections! This meticulously crafted game will bring you a premium experience of great choice for brain training, perfect choice for brain training and relaxing puzzle experience. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.79440821,
-    "popularity": 33
+    "popularity": 94
   },
   {
     "title": "Italian Brainrot Jigsaw",
@@ -1978,7 +1978,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/italian-brainrot-jigsaw/cover/italian-brainrot-jigsaw.png?w=320",
     "description": "🏆 Italian Brainrot Jigsaw brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can perfect choice for brain training, great choice for brain training and challenge your logical thinking abilities and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70588235,
-    "popularity": 91
+    "popularity": 42
   },
   {
     "title": "Squid Puzzle",
@@ -1991,7 +1991,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/squid-puzzle/cover/squid-puzzle.png?w=320",
     "description": "Ready to experience the endless fun that Squid Puzzle brings? Here, you can challenge your logical thinking abilities, test your observation and judgment skills and relaxing puzzle experience and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66317936,
-    "popularity": 35
+    "popularity": 88
   },
   {
     "title": "Poppy Puzzle Playtime",
@@ -2004,7 +2004,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/huggy-puzzle-wuggy-playtime/cover/huggy-puzzle-wuggy-playtime.png?w=320",
     "description": "Explore the infinite possibilities hidden in Poppy Puzzle Playtime! Whether you're a beginner or experienced player, you can find your own happiness in relaxing puzzle experience, perfect choice for brain training and challenge your logical thinking abilities. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.63768116,
-    "popularity": 25
+    "popularity": 99
   },
   {
     "title": "Couples Slog",
@@ -2019,7 +2019,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/animal-puzzle-couples-slog/cover/animal-puzzle-couples-slog.png?w=320",
     "description": "Couples Slog offers you an unprecedented gaming experience! This game will bring you a unique experience of perfect choice for brain training, test your observation and judgment skills and challenge your logical thinking abilities. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.63695069,
-    "popularity": 26
+    "popularity": 54
   },
   {
     "title": "Axolotl Jigsaw Picture Puzzle",
@@ -2032,7 +2032,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/axolotl-jigsaw-picture-puzzle/cover/axolotl-jigsaw-picture-puzzle.png?w=320",
     "description": "Axolotl Jigsaw Picture Puzzle offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can great choice for brain training, test your observation and judgment skills and perfect choice for brain training and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 1
+    "popularity": 49
   },
   {
     "title": "Hoops & Fruits",
@@ -2044,7 +2044,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/hoops-and-fruits/cover/hoops-and-fruits.png?w=320",
     "description": "🏆 Hoops & Fruits brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.9070632,
-    "popularity": 77
+    "popularity": 44
   },
   {
     "title": "Draw Save Puzzle",
@@ -2057,7 +2057,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/draw-save-puzzle/cover/draw-save-puzzle.png?w=320",
     "description": "🚀 Experience the stunning sensations of Draw Save Puzzle! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.8665936,
-    "popularity": 50
+    "popularity": 7
   },
   {
     "title": "Poly Art",
@@ -2070,7 +2070,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/poly-art/cover/poly-art.png?w=320",
     "description": "🚀 Experience the stunning sensations of Poly Art! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.85167316,
-    "popularity": 60
+    "popularity": 36
   },
   {
     "title": "Graffiti Time",
@@ -2082,7 +2082,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/graffiti-time/cover/graffiti-time.png?w=320",
     "description": "🏆 Graffiti Time brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.79354855,
-    "popularity": 10
+    "popularity": 16
   },
   {
     "title": "Sprunki Draw Save Incredibox",
@@ -2094,7 +2094,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sprunki-draw-save-incredibox/cover/sprunki-draw-save-incredibox.png?w=320",
     "description": "✨ Explore the amazing world of Sprunki Draw Save Incredibox! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.77860196,
-    "popularity": 57
+    "popularity": 88
   },
   {
     "title": "Wall Painter",
@@ -2106,7 +2106,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/wall-painter/cover/wall-painter.png?w=320",
     "description": "🎮 Wall Painter - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.77595191,
-    "popularity": 53
+    "popularity": 56
   },
   {
     "title": "Mandala Coloring Book",
@@ -2119,7 +2119,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/mandala-coloring-book/cover/mandala-coloring-book.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Mandala Coloring Book! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.76914479,
-    "popularity": 44
+    "popularity": 73
   },
   {
     "title": "Draw The Path - Puzzle",
@@ -2133,7 +2133,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/draw-the-path-puzzle/cover/draw-the-path-puzzle.png?w=320",
     "description": "🎮 Draw The Path - Puzzle - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.75891666,
-    "popularity": 7
+    "popularity": 11
   },
   {
     "title": "Draw and Create Sprunki Road",
@@ -2146,7 +2146,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/draw-and-create-sprunki-road/cover/draw-and-create-sprunki-road.png?w=320",
     "description": "🎮 Draw and Create Sprunki Road - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.75167335,
-    "popularity": 77
+    "popularity": 2
   },
   {
     "title": "Paint with Diamonds",
@@ -2158,7 +2158,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/paint-with-diamonds/cover/paint-with-diamonds.png?w=320",
     "description": "✨ Explore the amazing world of Paint with Diamonds! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.7476109,
-    "popularity": 93
+    "popularity": 20
   },
   {
     "title": "Rope Draw",
@@ -2171,7 +2171,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/rope-draw/cover/rope-draw.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Rope Draw! This meticulously crafted game will bring you a premium experience of great choice for brain training. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.7164034392168782,
-    "popularity": 19
+    "popularity": 71
   },
   {
     "title": "Parking Line",
@@ -2184,7 +2184,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/parking-line/cover/parking-line.png?w=320",
     "description": "🏆 Parking Line brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.70313416,
-    "popularity": 45
+    "popularity": 75
   },
   {
     "title": "Mosaic Puzzle Art",
@@ -2197,7 +2197,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/mosaic-puzzle-art/cover/mosaic-puzzle-art.png?w=320",
     "description": "Mosaic Puzzle Art offers you an unprecedented gaming experience! This game will bring you a unique experience of great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69044277,
-    "popularity": 19
+    "popularity": 76
   },
   {
     "title": "NartG Draw",
@@ -2212,7 +2212,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/nartg-draw/cover/nartg-draw.png?w=320",
     "description": "Ready to experience the endless fun that NartG Draw brings? This game will bring you a unique experience of great choice for brain training and enjoy gaming fun with friends. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67532468,
-    "popularity": 44
+    "popularity": 98
   },
   {
     "title": "Pixeler",
@@ -2225,7 +2225,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/pixeler/cover/pixeler.png?w=320",
     "description": "Pixeler offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67532468,
-    "popularity": 7
+    "popularity": 54
   },
   {
     "title": "Brr Brr Patapim Survival Drawing",
@@ -2239,7 +2239,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/brr-brr-patapim-survival-drawing/cover/brr-brr-patapim-survival-drawing.png?w=320",
     "description": "Ready to experience the endless fun that Brr Brr Patapim Survival Drawing brings? This game will bring you a unique experience of great choice for brain training. Smooth gaming experience keeps you immersed. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.66305574,
-    "popularity": 72
+    "popularity": 22
   },
   {
     "title": "Zombies VS. Lines",
@@ -2252,7 +2252,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/zombies-vs-lines/cover/zombies-vs-lines.png?w=320",
     "description": "Explore the infinite possibilities hidden in Zombies VS. Lines! This game will bring you a unique experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6610999167465837,
-    "popularity": 5
+    "popularity": 35
   },
   {
     "title": "Dogat",
@@ -2265,7 +2265,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/dogat/cover/dogat.png?w=320",
     "description": "Explore the infinite possibilities hidden in Dogat! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63768116,
-    "popularity": 75
+    "popularity": 51
   },
   {
     "title": "DD Dunk Line",
@@ -2278,7 +2278,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/dd-dunk-line/cover/dd-dunk-line.png?w=320",
     "description": "Explore the infinite possibilities hidden in DD Dunk Line! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.63277787,
-    "popularity": 43
+    "popularity": 26
   },
   {
     "title": "2048 X2 Merge Blocks",
@@ -2293,7 +2293,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/2048-x2-merge-blocks/cover/2048-x2-merge-blocks.png?w=320",
     "description": "⭐ Discover the true charm of gaming in 2048 X2 Merge Blocks! This meticulously crafted game will bring you a premium experience of great choice for brain training. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.83464029,
-    "popularity": 13
+    "popularity": 14
   },
   {
     "title": "Snake 2048.io",
@@ -2307,7 +2307,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/snake-2048-io/cover/snake-2048-io.png?w=320",
     "description": "🎮 Snake 2048.io - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.8257566,
-    "popularity": 90
+    "popularity": 82
   },
   {
     "title": "2048 Classic Puzzle - Challenge",
@@ -2322,7 +2322,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/2048-classic-puzzle-challenge/cover/2048-classic-puzzle-challenge.png?w=320",
     "description": "🏆 2048 Classic Puzzle - Challenge brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.80352534,
-    "popularity": 83
+    "popularity": 60
   },
   {
     "title": "2048 Cube Run",
@@ -2336,7 +2336,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/2048-cube-run/cover/2048-cube-run.png?w=320",
     "description": "🚀 Experience the stunning sensations of 2048 Cube Run! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.77027441,
-    "popularity": 73
+    "popularity": 54
   },
   {
     "title": "Merge Cubes",
@@ -2350,7 +2350,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-cubes/cover/merge-cubes.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Merge Cubes! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.74109465,
-    "popularity": 77
+    "popularity": 47
   },
   {
     "title": "Chain Cube 2048 3D",
@@ -2366,7 +2366,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/chain-cube-2048-3d-1/cover/chain-cube-2048-3d-1.png?w=320",
     "description": "🎮 Chain Cube 2048 3D - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.73568856,
-    "popularity": 96
+    "popularity": 66
   },
   {
     "title": "Jelly Run in 2048",
@@ -2381,7 +2381,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jelly-run-in-2048/cover/jelly-run-in-2048.png?w=320",
     "description": "🏆 Jelly Run in 2048 brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.73101319,
-    "popularity": 88
+    "popularity": 75
   },
   {
     "title": "Solitaire Puzzle 2048",
@@ -2394,7 +2394,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/solitaire-puzzle-2048/cover/solitaire-puzzle-2048.png?w=320",
     "description": "🎮 Solitaire Puzzle 2048 - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.71202696,
-    "popularity": 61
+    "popularity": 67
   },
   {
     "title": "2048 Number Ball",
@@ -2409,7 +2409,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/2048-number-ball/cover/2048-number-ball.png?w=320",
     "description": "🎮 2048 Number Ball - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of great choice for brain training. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7069326,
-    "popularity": 93
+    "popularity": 3
   },
   {
     "title": "Fruit Festival",
@@ -2423,7 +2423,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/fruit-festival/cover/fruit-festival.png?w=320",
     "description": "Ready to experience the endless fun that Fruit Festival brings? This game will bring you a unique experience of great choice for brain training. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69135802,
-    "popularity": 91
+    "popularity": 58
   },
   {
     "title": "Merge Grabber Race to 2048",
@@ -2437,7 +2437,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/merge-grabber-race-to-2048/cover/merge-grabber-race-to-2048.png?w=320",
     "description": "Ready to experience the endless fun that Merge Grabber Race to 2048 brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6886495,
-    "popularity": 44
+    "popularity": 84
   },
   {
     "title": "Falling Fruits",
@@ -2451,7 +2451,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/falling-fruits/cover/falling-fruits.png?w=320",
     "description": "Ready to experience the endless fun that Falling Fruits brings? Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.68843307,
-    "popularity": 16
+    "popularity": 83
   },
   {
     "title": "Falling Numbers - 2048 puzzle",
@@ -2466,7 +2466,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/falling-numbers-2048-puzzle/cover/falling-numbers-2048-puzzle.png?w=320",
     "description": "Welcome to the amazing world of Falling Numbers - 2048 puzzle! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67532468,
-    "popularity": 6
+    "popularity": 86
   },
   {
     "title": "Emoji Blush",
@@ -2480,7 +2480,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/emoji-blush/cover/emoji-blush.png?w=320",
     "description": "Start your adventure journey in Emoji Blush! This game will bring you a unique experience of great choice for brain training. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67084772,
-    "popularity": 57
+    "popularity": 95
   },
   {
     "title": "Drop the Number - Merge Game",
@@ -2494,7 +2494,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/drop-the-number-merge-game/cover/drop-the-number-merge-game.png?w=320",
     "description": "Ready to experience the endless fun that Drop the Number - Merge Game brings? Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.64944033,
-    "popularity": 77
+    "popularity": 76
   },
   {
     "title": "Fit Cats",
@@ -2507,7 +2507,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/fit-cats/cover/fit-cats.png?w=320",
     "description": "Start your adventure journey in Fit Cats! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.64356707,
-    "popularity": 91
+    "popularity": 14
   },
   {
     "title": "2048 Hex Chain Merge",
@@ -2522,7 +2522,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/2048-hex-chain-merge/cover/2048-hex-chain-merge.png?w=320",
     "description": "Start your adventure journey in 2048 Hex Chain Merge! Here, you can great choice for brain training and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.62727474,
-    "popularity": 61
+    "popularity": 68
   },
   {
     "title": "Chain Cube 2048 3D Merge Game",
@@ -2536,7 +2536,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/chain-cube-2048-3d-merge-game/cover/chain-cube-2048-3d-merge-game.png?w=320",
     "description": "Welcome to the amazing world of Chain Cube 2048 3D Merge Game! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61538462,
-    "popularity": 98
+    "popularity": 24
   },
   {
     "title": "Shockwaves",
@@ -2550,7 +2550,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/shockwaves/cover/shockwaves.png?w=320",
     "description": "Ready to experience the endless fun that Shockwaves brings? Here, you can great choice for brain training and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 73
+    "popularity": 32
   },
   {
     "title": "Three Cups Game",
@@ -2562,7 +2562,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/three-cups-game/cover/three-cups-game.png?w=320",
     "description": "🚀 Experience the stunning sensations of Three Cups Game! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.9079854,
-    "popularity": 15
+    "popularity": 5
   },
   {
     "title": "Kobadoo Numbers",
@@ -2575,7 +2575,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/kobadoo-numbers/cover/kobadoo-numbers.png?w=320",
     "description": "✨ Explore the amazing world of Kobadoo Numbers! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.89778169,
-    "popularity": 42
+    "popularity": 63
   },
   {
     "title": "The Kitchen - Spot the differences",
@@ -2588,7 +2588,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/the-kitchen-spot-the-differences/cover/the-kitchen-spot-the-differences.png?w=320",
     "description": "🎮 The Kitchen - Spot the differences - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.85927871,
-    "popularity": 63
+    "popularity": 39
   },
   {
     "title": "Robot Bar - Find the differences",
@@ -2600,7 +2600,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/robot-bar-find-the-differences/cover/robot-bar-find-the-differences.png?w=320",
     "description": "🎮 Robot Bar - Find the differences - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.84982612,
-    "popularity": 3
+    "popularity": 97
   },
   {
     "title": "Sprunki Incredibox Memory",
@@ -2612,7 +2612,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sprunki-incredibox-memory/cover/sprunki-incredibox-memory.png?w=320",
     "description": "🏆 Sprunki Incredibox Memory brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.77171594,
-    "popularity": 37
+    "popularity": 7
   },
   {
     "title": "Sprunki Memory Card Match",
@@ -2624,7 +2624,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/sprunki-memory-card-match/cover/sprunki-memory-card-match.png?w=320",
     "description": "🏆 Sprunki Memory Card Match brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77157108,
-    "popularity": 2
+    "popularity": 74
   },
   {
     "title": "100 Doors Games: Escape from School",
@@ -2637,7 +2637,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/100-doors-games-escape-from-school/cover/100-doors-games-escape-from-school.png?w=320",
     "description": "🏆 100 Doors Games: Escape from School brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of great choice for brain training. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.73236658,
-    "popularity": 40
+    "popularity": 81
   },
   {
     "title": "Funny Animals Memory Game",
@@ -2649,7 +2649,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/funny-animals-memory-game/cover/funny-animals-memory-game.png?w=320",
     "description": "✨ Explore the amazing world of Funny Animals Memory Game! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.71910112,
-    "popularity": 43
+    "popularity": 44
   },
   {
     "title": "Flag Memory Match",
@@ -2661,7 +2661,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/flag-memory-match/cover/flag-memory-match.png?w=320",
     "description": "Ready to experience the endless fun that Flag Memory Match brings? Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69135802,
-    "popularity": 22
+    "popularity": 94
   },
   {
     "title": "Awareness Test - The Room",
@@ -2673,7 +2673,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/awareness-test-the-room/cover/awareness-test-the-room.png?w=320",
     "description": "Welcome to the amazing world of Awareness Test - The Room! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61538462,
-    "popularity": 72
+    "popularity": 51
   },
   {
     "title": "DD Blocky",
@@ -2690,7 +2690,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/dd-blocky/cover/dd-blocky.png?w=320",
     "description": "🎮 DD Blocky - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.81298808,
-    "popularity": 80
+    "popularity": 84
   },
   {
     "title": "Jewel Blocks Quest",
@@ -2705,7 +2705,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jewel-blocks-quest/cover/jewel-blocks-quest.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Jewel Blocks Quest! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7394333240320862,
-    "popularity": 51
+    "popularity": 46
   },
   {
     "title": "Color Blocks",
@@ -2719,7 +2719,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/color-blocks/cover/color-blocks.png?w=320",
     "description": "✨ Explore the amazing world of Color Blocks! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.72480233,
-    "popularity": 33
+    "popularity": 31
   },
   {
     "title": "Farm Blocks 10x10",
@@ -2733,7 +2733,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/farm-blocks-10x10/cover/farm-blocks-10x10.png?w=320",
     "description": "Welcome to the amazing world of Farm Blocks 10x10! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.66805907,
-    "popularity": 21
+    "popularity": 50
   },
   {
     "title": "Jewel Blocks",
@@ -2748,7 +2748,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jewel-blocks/cover/jewel-blocks.png?w=320",
     "description": "Explore the infinite possibilities hidden in Jewel Blocks! Here, you can great choice for brain training and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6452209,
-    "popularity": 34
+    "popularity": 77
   },
   {
     "title": "Bubble Shooter POP",
@@ -2761,7 +2761,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/bubble-shooter-pop/cover/bubble-shooter-pop.png?w=320",
     "description": "Bubble Shooter POP offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can great choice for brain training, test your aiming and reflexes and intense shooting experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.63688922,
-    "popularity": 55
+    "popularity": 63
   },
   {
     "title": "Monster Go",
@@ -2774,7 +2774,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/monster-go/cover/monster-go.png?w=320",
     "description": "✨ Explore the amazing world of Monster Go! This meticulously crafted game will bring you a premium experience of great choice for brain training. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.84972377,
-    "popularity": 66
+    "popularity": 92
   },
   {
     "title": "Lipuzz - Water Sort Puzzle",
@@ -2787,7 +2787,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/lipuzz-water-sort-puzzle/cover/lipuzz-water-sort-puzzle.png?w=320",
     "description": "🎮 Lipuzz - Water Sort Puzzle - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of great choice for brain training. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.83320278,
-    "popularity": 87
+    "popularity": 62
   },
   {
     "title": "Obunga Nextbot Spot Difference",
@@ -2801,7 +2801,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/obunga-nextbot-spot-difference/cover/obunga-nextbot-spot-difference.png?w=320",
     "description": "✨ Explore the amazing world of Obunga Nextbot Spot Difference! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80104546,
-    "popularity": 43
+    "popularity": 50
   },
   {
     "title": "Flow Mania",
@@ -2815,7 +2815,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/flow-mania/cover/flow-mania.png?w=320",
     "description": "🏆 Flow Mania brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.79116629,
-    "popularity": 88
+    "popularity": 50
   },
   {
     "title": "Christmas Brain Teasers",
@@ -2829,7 +2829,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/christmas-brain-teasers/cover/christmas-brain-teasers.png?w=320",
     "description": "🏆 Christmas Brain Teasers brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.77021461,
-    "popularity": 80
+    "popularity": 95
   },
   {
     "title": "Battleship War Multiplayer",
@@ -2843,7 +2843,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/battleship-war-multiplayer/cover/battleship-war-multiplayer.png?w=320",
     "description": "✨ Explore the amazing world of Battleship War Multiplayer! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of enjoy gaming fun with friends. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.75867533,
-    "popularity": 24
+    "popularity": 31
   },
   {
     "title": "Battleship Minesweeper",
@@ -2857,7 +2857,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/battleship-minesweeper/cover/battleship-minesweeper.png?w=320",
     "description": "✨ Explore the amazing world of Battleship Minesweeper! Through excellent game design and beautiful graphics, you can enjoy gaming fun with friends and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.72979669,
-    "popularity": 77
+    "popularity": 42
   },
   {
     "title": "Liquid Sort",
@@ -2871,7 +2871,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/liquid-sort/cover/liquid-sort.png?w=320",
     "description": "✨ Explore the amazing world of Liquid Sort! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72583051,
-    "popularity": 6
+    "popularity": 23
   },
   {
     "title": "Color Fill",
@@ -2886,7 +2886,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/color-fill/cover/color-fill.png?w=320",
     "description": "Ready to experience the endless fun that Color Fill brings? Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69796481,
-    "popularity": 77
+    "popularity": 19
   },
   {
     "title": "2048 - FNAF",
@@ -2900,7 +2900,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/2048-fnaf/cover/2048-fnaf.png?w=320",
     "description": "2048 - FNAF offers you an unprecedented gaming experience! This game will bring you a unique experience of great choice for brain training. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6968507,
-    "popularity": 61
+    "popularity": 99
   },
   {
     "title": "Komera",
@@ -2913,7 +2913,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/komera/cover/komera.png?w=320",
     "description": "Ready to experience the endless fun that Komera brings? This game will bring you a unique experience of great choice for brain training. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6918965,
-    "popularity": 92
+    "popularity": 1
   },
   {
     "title": "Move to Gram",
@@ -2927,7 +2927,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/move-to-gram/cover/move-to-gram.png?w=320",
     "description": "Ready to experience the endless fun that Move to Gram brings? Here, you can great choice for brain training and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.69135802,
-    "popularity": 32
+    "popularity": 58
   },
   {
     "title": "Emoji Game",
@@ -2941,7 +2941,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/emoji-game/cover/emoji-game.png?w=320",
     "description": "Ready to experience the endless fun that Emoji Game brings? Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.68843307,
-    "popularity": 44
+    "popularity": 90
   },
   {
     "title": "Garten of Banban Puzzle Game",
@@ -2955,7 +2955,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/garten-of-banban-puzzle-game/cover/garten-of-banban-puzzle-game.png?w=320",
     "description": "Ready to experience the endless fun that Garten of Banban Puzzle Game brings? This game will bring you a unique experience of great choice for brain training. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.68613778,
-    "popularity": 82
+    "popularity": 56
   },
   {
     "title": "Help Me Tricky Story",
@@ -2969,7 +2969,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/help-me-tricky-story/cover/help-me-tricky-story.png?w=320",
     "description": "Welcome to the amazing world of Help Me Tricky Story! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.68450366,
-    "popularity": 27
+    "popularity": 10
   },
   {
     "title": "Skibidi Toilet Five Difference",
@@ -2981,7 +2981,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/skibidi-toilet-five-difference/cover/skibidi-toilet-five-difference.png?w=320",
     "description": "Ready to experience the endless fun that Skibidi Toilet Five Difference brings? Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.68226722,
-    "popularity": 9
+    "popularity": 65
   },
   {
     "title": "Bad Drawings Memory Game",
@@ -2994,7 +2994,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/bad-drawings-memory-game/cover/bad-drawings-memory-game.png?w=320",
     "description": "Start your adventure journey in Bad Drawings Memory Game! This game will bring you a unique experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.67532468,
-    "popularity": 25
+    "popularity": 7
   },
   {
     "title": "Candy Cup Boom",
@@ -3007,7 +3007,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/candy-cup-boom/cover/candy-cup-boom.png?w=320",
     "description": "Welcome to the amazing world of Candy Cup Boom! This game will bring you a unique experience of great choice for brain training. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67532468,
-    "popularity": 39
+    "popularity": 97
   },
   {
     "title": "Santa\"\"s Quest",
@@ -3021,7 +3021,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/santa-s-quest/cover/santa-s-quest.png?w=320",
     "description": "Ready to experience the endless fun that Santa\"\"s Quest brings? Here, you can great choice for brain training and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.66317936,
-    "popularity": 89
+    "popularity": 93
   },
   {
     "title": "Impostor Sort Puzzle",
@@ -3034,7 +3034,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/impostor-sort-puzzle/cover/impostor-sort-puzzle.png?w=320",
     "description": "Start your adventure journey in Impostor Sort Puzzle! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.65753425,
-    "popularity": 92
+    "popularity": 19
   },
   {
     "title": "Abstract Sliding",
@@ -3047,7 +3047,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/abstract-sliding/cover/abstract-sliding.png?w=320",
     "description": "Ready to experience the endless fun that Abstract Sliding brings? Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.63768116,
-    "popularity": 96
+    "popularity": 83
   },
   {
     "title": "Save the Alphabet lore",
@@ -3060,7 +3060,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/save-the-alphabet-lore/cover/save-the-alphabet-lore.png?w=320",
     "description": "Explore the infinite possibilities hidden in Save the Alphabet lore! This game will bring you a unique experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63244156,
-    "popularity": 75
+    "popularity": 13
   },
   {
     "title": "Color Dispatch",
@@ -3073,7 +3073,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/color-dispatch/cover/color-dispatch.png?w=320",
     "description": "Welcome to the amazing world of Color Dispatch! This game will bring you a unique experience of great choice for brain training. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.626278757798343,
-    "popularity": 45
+    "popularity": 35
   },
   {
     "title": "Screw Puzzle - Nuts and Bolts",
@@ -3086,7 +3086,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/screw-puzzle-nuts-and-bolts/cover/screw-puzzle-nuts-and-bolts.png?w=320",
     "description": "Explore the infinite possibilities hidden in Screw Puzzle - Nuts and Bolts! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.62252547,
-    "popularity": 83
+    "popularity": 35
   },
   {
     "title": "Imposter Sorter",
@@ -3099,7 +3099,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/imposter-sorter/cover/imposter-sorter.png?w=320",
     "description": "Imposter Sorter offers you an unprecedented gaming experience! Here, you can great choice for brain training and enjoy the endless charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61538462,
-    "popularity": 93
+    "popularity": 15
   },
   {
     "title": "Squid Match Game",
@@ -3111,7 +3111,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/squid-match-game/cover/squid-match-game.png?w=320",
     "description": "Squid Match Game offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 44
+    "popularity": 76
   },
   {
     "title": "Minesweeper",
@@ -3125,7 +3125,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/minesweeper/cover/minesweeper.png?w=320",
     "description": "Ready to experience the endless fun that Minesweeper brings? This game will bring you a unique experience of great choice for brain training. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.60426514,
-    "popularity": 56
+    "popularity": 96
   },
   {
     "title": "Jewel Legend",
@@ -3153,7 +3153,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/ocean-crash/cover/ocean-crash.png?w=320",
     "description": "✨ Explore the amazing world of Ocean Crash! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7034374,
-    "popularity": 50
+    "popularity": 45
   },
   {
     "title": "Candy Star Jelly Saga",
@@ -3166,7 +3166,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/candy-star-jelly-saga/cover/candy-star-jelly-saga.png?w=320",
     "description": "Welcome to the amazing world of Candy Star Jelly Saga! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6868106217105677,
-    "popularity": 85
+    "popularity": 34
   },
   {
     "title": "Super Candy Jewels",
@@ -3180,7 +3180,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/super-candy-jewels/cover/super-candy-jewels.png?w=320",
     "description": "Explore the infinite possibilities hidden in Super Candy Jewels! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6798126456118648,
-    "popularity": 84
+    "popularity": 69
   },
   {
     "title": "Block Puzzle Jewel",
@@ -3194,7 +3194,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/block-puzzle-jewel/cover/block-puzzle-jewel.png?w=320",
     "description": "🏆 Block Puzzle Jewel brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.80629317,
-    "popularity": 22
+    "popularity": 89
   },
   {
     "title": "Jewel Treasure",
@@ -3208,7 +3208,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/jewel-treasure/cover/jewel-treasure.png?w=320",
     "description": "Welcome to the amazing world of Jewel Treasure! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65611615,
-    "popularity": 57
+    "popularity": 98
   },
   {
     "title": "Block Ice Puzzle",
@@ -3223,7 +3223,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/block-ice-puzzle/cover/block-ice-puzzle.png?w=320",
     "description": "🏆 Block Ice Puzzle brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.754991,
-    "popularity": 19
+    "popularity": 31
   },
   {
     "title": "Color Lines",
@@ -3238,7 +3238,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/color-lines/cover/color-lines.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Color Lines! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.74226804,
-    "popularity": 11
+    "popularity": 22
   },
   {
     "title": "Unblock That",
@@ -3252,7 +3252,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/unblock-that/cover/unblock-that.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Unblock That! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71991757,
-    "popularity": 2
+    "popularity": 45
   },
   {
     "title": "Unlock Block - Puzzle",
@@ -3267,7 +3267,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/unlock-block-puzzle/cover/unlock-block-puzzle.png?w=320",
     "description": "Ready to experience the endless fun that Unlock Block - Puzzle brings? Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69796481,
-    "popularity": 85
+    "popularity": 39
   },
   {
     "title": "Candy Blocks",
@@ -3281,7 +3281,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/candy-block-puzzle-blitz/cover/candy-block-puzzle-blitz.png?w=320",
     "description": "Candy Blocks offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65753425,
-    "popularity": 85
+    "popularity": 59
   },
   {
     "title": "Block Buster",
@@ -3296,7 +3296,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/block-buster/cover/block-buster.png?w=320",
     "description": "Explore the infinite possibilities hidden in Block Buster! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65153772,
-    "popularity": 69
+    "popularity": 21
   },
   {
     "title": "Wood Block Puzzle - Block Game",
@@ -3311,7 +3311,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/wood-block-puzzle-block-game/cover/wood-block-puzzle-block-game.png?w=320",
     "description": "Wood Block Puzzle - Block Game offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.63012266,
-    "popularity": 13
+    "popularity": 22
   },
   {
     "title": "Find The Flag World Cup 2022",
@@ -3325,7 +3325,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/find-the-flag-world-cup-2022/cover/find-the-flag-world-cup-2022.png?w=320",
     "description": "Find The Flag World Cup 2022 offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65795887,
-    "popularity": 56
+    "popularity": 13
   },
   {
     "title": "Red and Blue Stickman Huggy",
@@ -3338,7 +3338,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/red-and-blue-stickman-huggy/cover/red-and-blue-stickman-huggy.png?w=320",
     "description": "🏆 Red and Blue Stickman Huggy brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.85483049,
-    "popularity": 72
+    "popularity": 69
   },
   {
     "title": "Block vs Block II",
@@ -3353,7 +3353,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/block-vs-block-ii/cover/block-vs-block-ii.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Block vs Block II! This meticulously crafted game will bring you a premium experience of great choice for brain training. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.82940351,
-    "popularity": 99
+    "popularity": 56
   },
   {
     "title": "Steve and Alex",
@@ -3366,7 +3366,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/steve-and-alex/cover/steve-and-alex.png?w=320",
     "description": "🏆 Steve and Alex brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.70396262,
-    "popularity": 40
+    "popularity": 51
   },
   {
     "title": "Red and Green Rainbow",
@@ -3381,7 +3381,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/red-and-green-rainbow/cover/red-and-green-rainbow.png?w=320",
     "description": "Ready to experience the endless fun that Red and Green Rainbow brings? Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6650033447769244,
-    "popularity": 49
+    "popularity": 26
   },
   {
     "title": "Alex and Steve Nether",
@@ -3395,7 +3395,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/alex-and-steve-nether/cover/alex-and-steve-nether.png?w=320",
     "description": "Start your adventure journey in Alex and Steve Nether! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65232685,
-    "popularity": 64
+    "popularity": 17
   },
   {
     "title": "Steve and Alex House Escape",
@@ -3409,7 +3409,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/steve-and-alex-house-escape/cover/steve-and-alex-house-escape.png?w=320",
     "description": "Ready to experience the endless fun that Steve and Alex House Escape brings? Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.65030955,
-    "popularity": 52
+    "popularity": 81
   },
   {
     "title": "Clones",
@@ -3423,7 +3423,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/clones/cover/clones.png?w=320",
     "description": "Start your adventure journey in Clones! This game will bring you a unique experience of great choice for brain training. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65587053,
-    "popularity": 98
+    "popularity": 63
   },
   {
     "title": "House of 1000 Doors: Evil Inside",
@@ -3437,7 +3437,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/house-of-1000-doors-evil-inside/cover/house-of-1000-doors-evil-inside.png?w=320",
     "description": "Welcome to the amazing world of House of 1000 Doors: Evil Inside! Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66132141,
-    "popularity": 65
+    "popularity": 81
   },
   {
     "title": "Dark Strokes: Sins of the Fathers",
@@ -3450,7 +3450,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/dark-strokes-hidden-object/cover/dark-strokes-hidden-object.png?w=320",
     "description": "Ready to experience the endless fun that Dark Strokes: Sins of the Fathers brings? This game will bring you a unique experience of great choice for brain training. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6117794,
-    "popularity": 88
+    "popularity": 41
   },
   {
     "title": "Italian Brainrot Tung Sahur Snake.io",
@@ -3464,7 +3464,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/italian-brainrot-tung-sahur-snake-io/cover/italian-brainrot-tung-sahur-snake-io.png?w=320",
     "description": "🏆 Italian Brainrot Tung Sahur Snake.io brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and enjoy gaming fun with friends and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70274581,
-    "popularity": 10
+    "popularity": 93
   },
   {
     "title": "Noob Diamond Pickaxe",
@@ -3478,7 +3478,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/noob-diamond-pickaxe/cover/noob-diamond-pickaxe.png?w=320",
     "description": "Start your adventure journey in Noob Diamond Pickaxe! Here, you can great choice for brain training and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6694046,
-    "popularity": 7
+    "popularity": 38
   },
   {
     "title": "God of Light",
@@ -3491,7 +3491,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/god-of-light/cover/god-of-light.png?w=320",
     "description": "🎮 God of Light - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.85262198,
-    "popularity": 53
+    "popularity": 23
   },
   {
     "title": "Tac Tac Way",
@@ -3505,7 +3505,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/tac-tac-way/cover/tac-tac-way.png?w=320",
     "description": "🚀 Experience the stunning sensations of Tac Tac Way! Every detail is carefully polished to ensure you can great choice for brain training and enjoy gaming fun with friends and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7649902,
-    "popularity": 52
+    "popularity": 59
   },
   {
     "title": "Buca",
@@ -3519,7 +3519,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/buca/cover/buca.png?w=320",
     "description": "Welcome to the amazing world of Buca! This game will bring you a unique experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6434580631207142,
-    "popularity": 22
+    "popularity": 13
   },
   {
     "title": "Skibidi Toilet",
@@ -3534,7 +3534,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/skibidi-toilet/cover/skibidi-toilet.png?w=320",
     "description": "Explore the infinite possibilities hidden in Skibidi Toilet! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.61078843,
-    "popularity": 35
+    "popularity": 45
   },
   {
     "title": "Rope Bowing Puzzle",
@@ -3547,7 +3547,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/rope-bowing-puzzle/cover/rope-bowing-puzzle.png?w=320",
     "description": "🏆 Rope Bowing Puzzle brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.79071446,
-    "popularity": 71
+    "popularity": 82
   },
   {
     "title": "Home Pin 1",
@@ -3561,7 +3561,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/home-pin-1/cover/home-pin-1.png?w=320",
     "description": "🏆 Home Pin 1 brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can great choice for brain training and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.79283454,
-    "popularity": 54
+    "popularity": 66
   },
   {
     "title": "Rescue Hero",
@@ -3576,7 +3576,7 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/rescue-hero/cover/rescue-hero.png?w=320",
     "description": "🏆 Rescue Hero brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of great choice for brain training. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.75534411,
-    "popularity": 9
+    "popularity": 42
   },
   {
     "title": "Pilot Life - Flight Game 3D",
@@ -3590,6 +3590,6 @@ export const search_puzzle = [
     "image": "https://img.gamepix.com/games/pilot-life/cover/pilot-life.png?w=320",
     "description": "🎮 Pilot Life - Flight Game 3D - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.82115283,
-    "popularity": 24
+    "popularity": 16
   }
 ];

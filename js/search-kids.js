@@ -10,7 +10,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/my-100-first-words/cover/my-100-first-words.png?w=320",
     "description": "🚀 Experience the stunning sensations of My First 100 Words! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.90163474,
-    "popularity": 98
+    "popularity": 67
   },
   {
     "title": "Little Alchemy",
@@ -23,7 +23,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/little-alchemy/cover/little-alchemy.png?w=320",
     "description": "✨ Explore the amazing world of Little Alchemy! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.83485169,
-    "popularity": 53
+    "popularity": 90
   },
   {
     "title": "Save The Planet",
@@ -35,7 +35,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/save-the-planet/cover/save-the-planet.png?w=320",
     "description": "🚀 Experience the stunning sensations of Save The Planet! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.83221477,
-    "popularity": 14
+    "popularity": 18
   },
   {
     "title": "ABC Halloween",
@@ -50,7 +50,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/abc-halloween/cover/abc-halloween.png?w=320",
     "description": "✨ Explore the amazing world of ABC Halloween! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.70588235,
-    "popularity": 11
+    "popularity": 40
   },
   {
     "title": "Falling Balls",
@@ -63,7 +63,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/falling-balls/cover/falling-balls.png?w=320",
     "description": "Start your adventure journey in Falling Balls! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.69136051,
-    "popularity": 42
+    "popularity": 31
   },
   {
     "title": "Nutrition School",
@@ -75,7 +75,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/nutrition-school/cover/nutrition-school.png?w=320",
     "description": "Explore the infinite possibilities hidden in Nutrition School! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.68843307,
-    "popularity": 28
+    "popularity": 6
   },
   {
     "title": "Life of a Tree",
@@ -88,7 +88,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/life-of-a-tree/cover/life-of-a-tree.png?w=320",
     "description": "Life of a Tree offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67977659,
-    "popularity": 30
+    "popularity": 17
   },
   {
     "title": "The Quest for Knowledge",
@@ -101,7 +101,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/the-quest-for-knowledge/cover/the-quest-for-knowledge.png?w=320",
     "description": "Welcome to the amazing world of The Quest for Knowledge! This game will bring you a unique experience of great choice for brain training. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.67532468,
-    "popularity": 53
+    "popularity": 50
   },
   {
     "title": "Word Maker Game",
@@ -116,7 +116,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/word-maker-game/cover/word-maker-game.png?w=320",
     "description": "Welcome to the amazing world of Word Maker Game! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67532468,
-    "popularity": 41
+    "popularity": 15
   },
   {
     "title": "Good Habits",
@@ -128,7 +128,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/good-habits/cover/good-habits.png?w=320",
     "description": "Good Habits offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.65753425,
-    "popularity": 99
+    "popularity": 47
   },
   {
     "title": "Save the Sea",
@@ -141,7 +141,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/save-the-sea/cover/save-the-sea.png?w=320",
     "description": "Save the Sea offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6284018,
-    "popularity": 74
+    "popularity": 40
   },
   {
     "title": "Find The Color",
@@ -154,7 +154,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/find-the-color/cover/find-the-color.png?w=320",
     "description": "Ready to experience the endless fun that Find The Color brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.60283262,
-    "popularity": 37
+    "popularity": 20
   },
   {
     "title": "Doll Queen Designer",
@@ -168,7 +168,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/doll-queen-designer/cover/doll-queen-designer.png?w=320",
     "description": "🚀 Experience the stunning sensations of Doll Queen Designer! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.77745283,
-    "popularity": 86
+    "popularity": 84
   },
   {
     "title": "Chibi Doll Dress Up Makeover",
@@ -181,7 +181,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/chibi-doll-dress-up-makeover/cover/chibi-doll-dress-up-makeover.png?w=320",
     "description": "✨ Explore the amazing world of Chibi Doll Dress Up Makeover! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70077405,
-    "popularity": 94
+    "popularity": 53
   },
   {
     "title": "Magic Princess Dress Up",
@@ -193,7 +193,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/magic-princess-dress-up/cover/magic-princess-dress-up.png?w=320",
     "description": "Welcome to the amazing world of Magic Princess Dress Up! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.68282444,
-    "popularity": 30
+    "popularity": 52
   },
   {
     "title": "Monsters Maker",
@@ -206,7 +206,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/monsters-maker/cover/monsters-maker.png?w=320",
     "description": "Ready to experience the endless fun that Monsters Maker brings? This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66745201,
-    "popularity": 97
+    "popularity": 18
   },
   {
     "title": "Roblox Halloween Costume Party",
@@ -219,7 +219,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/roblox-halloween-costume-party/cover/roblox-halloween-costume-party.png?w=320",
     "description": "Welcome to the amazing world of Roblox Halloween Costume Party! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.62987305,
-    "popularity": 37
+    "popularity": 60
   },
   {
     "title": "Blackpink Black Friday Fever",
@@ -231,7 +231,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/blackpink-black-friday-fever/cover/blackpink-black-friday-fever.png?w=320",
     "description": "Explore the infinite possibilities hidden in Blackpink Black Friday Fever! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.60144286,
-    "popularity": 92
+    "popularity": 1
   },
   {
     "title": "Wedding Beauty Makeup Salon - Indian Designer",
@@ -244,7 +244,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/wedding-beauty-makeup-salon/cover/wedding-beauty-makeup-salon.png?w=320",
     "description": "🎮 Wedding Beauty Makeup Salon - Indian Designer - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.76462854,
-    "popularity": 44
+    "popularity": 95
   },
   {
     "title": "Avatar World Dream City",
@@ -257,7 +257,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/avatar-world-dream-city/cover/avatar-world-dream-city.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Avatar World Dream City! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73131523,
-    "popularity": 47
+    "popularity": 24
   },
   {
     "title": "Hair Do Design 2",
@@ -269,7 +269,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/hair-do-design-2/cover/hair-do-design-2.png?w=320",
     "description": "🚀 Experience the stunning sensations of Hair Do Design 2! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.72755711,
-    "popularity": 58
+    "popularity": 60
   },
   {
     "title": "Cooking Fever",
@@ -281,7 +281,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cooking-fever/cover/cooking-fever.png?w=320",
     "description": "Cooking Fever offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69745105,
-    "popularity": 44
+    "popularity": 91
   },
   {
     "title": "Left or Right: Magic Dress Up",
@@ -294,7 +294,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/magic-dress-up/cover/magic-dress-up.png?w=320",
     "description": "Start your adventure journey in Left or Right: Magic Dress Up! This game will bring you a unique experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.69215025,
-    "popularity": 65
+    "popularity": 31
   },
   {
     "title": "Mobile Phone Case DIY",
@@ -306,7 +306,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mobile-phone-case-diy/cover/mobile-phone-case-diy.png?w=320",
     "description": "Start your adventure journey in Mobile Phone Case DIY! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.68713913,
-    "popularity": 18
+    "popularity": 37
   },
   {
     "title": "Pretty Avatar Maker",
@@ -319,7 +319,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pretty-avatar-maker/cover/pretty-avatar-maker.png?w=320",
     "description": "Start your adventure journey in Pretty Avatar Maker! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67532468,
-    "popularity": 17
+    "popularity": 35
   },
   {
     "title": "Slime Simulator",
@@ -332,7 +332,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/slime-simulator/cover/slime-simulator.png?w=320",
     "description": "Ready to experience the endless fun that Slime Simulator brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66666667,
-    "popularity": 19
+    "popularity": 53
   },
   {
     "title": "Doll House Design Doll Games",
@@ -345,7 +345,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/doll-house-design-doll-games/cover/doll-house-design-doll-games.png?w=320",
     "description": "Ready to experience the endless fun that Doll House Design Doll Games brings? Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65753425,
-    "popularity": 16
+    "popularity": 21
   },
   {
     "title": "ASMR Beauty Japanese Spa",
@@ -358,7 +358,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/asmr-beauty-japanese-spa/cover/asmr-beauty-japanese-spa.png?w=320",
     "description": "Ready to experience the endless fun that ASMR Beauty Japanese Spa brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.63768116,
-    "popularity": 35
+    "popularity": 29
   },
   {
     "title": "TikTok Dance",
@@ -370,7 +370,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/tiktok-dance/cover/tiktok-dance.png?w=320",
     "description": "Start your adventure journey in TikTok Dance! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.63695069,
-    "popularity": 73
+    "popularity": 64
   },
   {
     "title": "Pictures by Numbers - Nubik and Mobs Mine",
@@ -386,7 +386,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pictures-by-numbers-minecraft/cover/pictures-by-numbers-minecraft.png?w=320",
     "description": "🏆 Pictures by Numbers - Nubik and Mobs Mine brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.79967615,
-    "popularity": 35
+    "popularity": 29
   },
   {
     "title": "Sprunki Coloring Book",
@@ -411,7 +411,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/sprunki-coloring-books/cover/sprunki-coloring-books.png?w=320",
     "description": "🏆 Sprunki Coloring Books brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71367919,
-    "popularity": 49
+    "popularity": 70
   },
   {
     "title": "Italian Brainrot Coloring",
@@ -424,7 +424,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/italian-brainrot-coloring/cover/italian-brainrot-coloring.png?w=320",
     "description": "🚀 Experience the stunning sensations of Italian Brainrot Coloring! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70077405,
-    "popularity": 43
+    "popularity": 69
   },
   {
     "title": "Monster Sketch Drawing Game",
@@ -436,7 +436,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/monster-sketch-drawing-game/cover/monster-sketch-drawing-game.png?w=320",
     "description": "Welcome to the amazing world of Monster Sketch Drawing Game! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.63768116,
-    "popularity": 50
+    "popularity": 37
   },
   {
     "title": "Tomb of the Cat Color",
@@ -452,7 +452,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/tomb-of-the-cat-color/cover/tomb-of-the-cat-color.png?w=320",
     "description": "Ready to experience the endless fun that Tomb of the Cat Color brings? Whether you're a beginner or experienced player, you can find your own happiness in great choice for brain training. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6045084,
-    "popularity": 87
+    "popularity": 20
   },
   {
     "title": "Red Riding Hood Run",
@@ -465,7 +465,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/red-riding-hood-run/cover/red-riding-hood-run.png?w=320",
     "description": "Start your adventure journey in Red Riding Hood Run! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6735310492980208,
-    "popularity": 50
+    "popularity": 10
   },
   {
     "title": "Sweet Princess Makeup Party",
@@ -477,7 +477,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/sweet-princess-makeup-party/cover/sweet-princess-makeup-party.png?w=320",
     "description": "Welcome to the amazing world of Sweet Princess Makeup Party! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.61538462,
-    "popularity": 52
+    "popularity": 41
   },
   {
     "title": "Shining Princess Fashion Makeover",
@@ -489,7 +489,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/shining-princess-fashion-makeover/cover/shining-princess-fashion-makeover.png?w=320",
     "description": "Ready to experience the endless fun that Shining Princess Fashion Makeover brings? This game will bring you a unique experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.60144286,
-    "popularity": 27
+    "popularity": 91
   },
   {
     "title": "Kobadoo Emojis",
@@ -502,7 +502,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/kobadoo-emojis/cover/kobadoo-emojis.png?w=320",
     "description": "🚀 Experience the stunning sensations of Kobadoo Emojis! Through excellent game design and beautiful graphics, you can perfect for family play, educational and entertaining learning experience and great choice for brain training and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.90322289,
-    "popularity": 93
+    "popularity": 35
   },
   {
     "title": "Royal Couple Halloween Party",
@@ -515,7 +515,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/royal-couple-halloween-party/cover/royal-couple-halloween-party.png?w=320",
     "description": "✨ Explore the amazing world of Royal Couple Halloween Party! Through excellent game design and beautiful graphics, you can perfect for family play, develop children's creativity and imagination and safe and friendly gaming environment and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.8947657,
-    "popularity": 71
+    "popularity": 97
   },
   {
     "title": "Yummy Toast",
@@ -528,7 +528,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/yummy-toast/cover/yummy-toast.png?w=320",
     "description": "🎮 Yummy Toast - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.88869722,
-    "popularity": 80
+    "popularity": 29
   },
   {
     "title": "LOL Surprise Insta Party Divas",
@@ -541,7 +541,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/lol-surprise-insta-party-divas/cover/lol-surprise-insta-party-divas.png?w=320",
     "description": "⭐ Discover the true charm of gaming in LOL Surprise Insta Party Divas! This meticulously crafted game will bring you a premium experience of safe and friendly gaming environment, develop children's creativity and imagination and educational and entertaining learning experience. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.88869691,
-    "popularity": 55
+    "popularity": 48
   },
   {
     "title": "LOL Surprise Fresh Spring Look",
@@ -554,7 +554,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/lol-surprise-fresh-spring-look/cover/lol-surprise-fresh-spring-look.png?w=320",
     "description": "🚀 Experience the stunning sensations of LOL Surprise Fresh Spring Look! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.88619824,
-    "popularity": 44
+    "popularity": 32
   },
   {
     "title": "Robot Police Iron Panther",
@@ -566,7 +566,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/robot-police-iron-panther/cover/robot-police-iron-panther.png?w=320",
     "description": "🎮 Robot Police Iron Panther - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of educational and entertaining learning experience, safe and friendly gaming environment and perfect for family play. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.88121608,
-    "popularity": 76
+    "popularity": 22
   },
   {
     "title": "Bff Christmas Cookie Challenge",
@@ -579,7 +579,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bff-christmas-cookie-challeng/cover/bff-christmas-cookie-challeng.png?w=320",
     "description": "✨ Explore the amazing world of Bff Christmas Cookie Challenge! This meticulously crafted game will bring you a premium experience of safe and friendly gaming environment, develop children's creativity and imagination and perfect for family play. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.87533669,
-    "popularity": 28
+    "popularity": 39
   },
   {
     "title": "Lovely Virtual Cat",
@@ -592,7 +592,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/lovely-virtual-cat/cover/lovely-virtual-cat.png?w=320",
     "description": "🏆 Lovely Virtual Cat brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.87066597,
-    "popularity": 66
+    "popularity": 82
   },
   {
     "title": "Anime Couple Dress Up",
@@ -606,7 +606,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/anime-couple-dress-up/cover/anime-couple-dress-up.png?w=320",
     "description": "🚀 Experience the stunning sensations of Anime Couple Dress Up! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of educational and entertaining learning experience, safe and friendly gaming environment and perfect for family play. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.86644762,
-    "popularity": 87
+    "popularity": 63
   },
   {
     "title": "Superstar Family Dress Up Game",
@@ -618,7 +618,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/superstar-family-dress-up-game/cover/superstar-family-dress-up-game.png?w=320",
     "description": "🏆 Superstar Family Dress Up Game brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of perfect for family play, educational and entertaining learning experience and develop children's creativity and imagination. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.86115023,
-    "popularity": 11
+    "popularity": 12
   },
   {
     "title": "My Sweet Candy Outfits",
@@ -631,7 +631,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/my-sweet-candy-outfits/cover/my-sweet-candy-outfits.png?w=320",
     "description": "✨ Explore the amazing world of My Sweet Candy Outfits! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of develop children's creativity and imagination, safe and friendly gaming environment and perfect for family play. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.86107265,
-    "popularity": 19
+    "popularity": 1
   },
   {
     "title": "Funny Throat Surgery",
@@ -644,7 +644,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-throat-surgery/cover/funny-throat-surgery.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Funny Throat Surgery! Every detail is carefully polished to ensure you can perfect for family play, safe and friendly gaming environment and educational and entertaining learning experience and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.85918611,
-    "popularity": 73
+    "popularity": 94
   },
   {
     "title": "Little Cute Summer Fairies Puzzle",
@@ -658,7 +658,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/little-cute-summer-fairies-puzzle/cover/little-cute-summer-fairies-puzzle.png?w=320",
     "description": "🚀 Experience the stunning sensations of Little Cute Summer Fairies Puzzle! Every detail is carefully polished to ensure you can safe and friendly gaming environment, educational and entertaining learning experience and great choice for brain training and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.85778151,
-    "popularity": 94
+    "popularity": 90
   },
   {
     "title": "Funny Food Duel",
@@ -670,7 +670,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-food-duel/cover/funny-food-duel.png?w=320",
     "description": "✨ Explore the amazing world of Funny Food Duel! Through excellent game design and beautiful graphics, you can safe and friendly gaming environment, develop children's creativity and imagination and educational and entertaining learning experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.85699442,
-    "popularity": 43
+    "popularity": 51
   },
   {
     "title": "Princess Girls Spring Blossoms",
@@ -683,7 +683,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/disney-girls-spring-blossoms/cover/disney-girls-spring-blossoms.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Princess Girls Spring Blossoms! Every detail is carefully polished to ensure you can perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.85237133,
-    "popularity": 57
+    "popularity": 93
   },
   {
     "title": "Head Puzzle Shooter",
@@ -696,7 +696,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/head-puzzle-shooter/cover/head-puzzle-shooter.png?w=320",
     "description": "🎮 Head Puzzle Shooter - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.85049491,
-    "popularity": 17
+    "popularity": 88
   },
   {
     "title": "Funny Rescue Pet",
@@ -709,7 +709,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-rescue-pet/cover/funny-rescue-pet.png?w=320",
     "description": "✨ Explore the amazing world of Funny Rescue Pet! Through excellent game design and beautiful graphics, you can perfect for family play, develop children's creativity and imagination and educational and entertaining learning experience and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.84111165,
-    "popularity": 82
+    "popularity": 25
   },
   {
     "title": "Bff Stylish Off Shoulder Outfits",
@@ -721,7 +721,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bff-stylish-off-shoulder-outfits/cover/bff-stylish-off-shoulder-outfits.png?w=320",
     "description": "🚀 Experience the stunning sensations of Bff Stylish Off Shoulder Outfits! This meticulously crafted game will bring you a premium experience of perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.83930695,
-    "popularity": 50
+    "popularity": 56
   },
   {
     "title": "Baby Hazel Backyard Party",
@@ -733,7 +733,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-backyard-party/cover/baby-hazel-backyard-party.png?w=320",
     "description": "🏆 Baby Hazel Backyard Party brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.83833439,
-    "popularity": 28
+    "popularity": 46
   },
   {
     "title": "Baby Panda Care",
@@ -746,7 +746,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-panda-care/cover/baby-panda-care.png?w=320",
     "description": "🏆 Baby Panda Care brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of educational and entertaining learning experience, perfect for family play and develop children's creativity and imagination. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.8353956,
-    "popularity": 47
+    "popularity": 78
   },
   {
     "title": "LOL Surprise Preppy Fashion",
@@ -759,7 +759,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/lol-surprise-preppy-fashion/cover/lol-surprise-preppy-fashion.png?w=320",
     "description": "🚀 Experience the stunning sensations of LOL Surprise Preppy Fashion! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.83254206,
-    "popularity": 85
+    "popularity": 27
   },
   {
     "title": "Baby Hazel Bed Time",
@@ -771,7 +771,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-bed-time/cover/baby-hazel-bed-time.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Baby Hazel Bed Time! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.83054554,
-    "popularity": 56
+    "popularity": 60
   },
   {
     "title": "Cooking Match",
@@ -785,7 +785,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cooking-match/cover/cooking-match.png?w=320",
     "description": "✨ Explore the amazing world of Cooking Match! Through excellent game design and beautiful graphics, you can develop children's creativity and imagination, safe and friendly gaming environment and educational and entertaining learning experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.82470523,
-    "popularity": 33
+    "popularity": 66
   },
   {
     "title": "Baby Hazel Annual Day",
@@ -798,7 +798,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-annual-day/cover/baby-hazel-annual-day.png?w=320",
     "description": "🎮 Baby Hazel Annual Day - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.82411397,
-    "popularity": 72
+    "popularity": 2
   },
   {
     "title": "Cute Pet Friends",
@@ -811,7 +811,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cute-pet-friends/cover/cute-pet-friends.png?w=320",
     "description": "✨ Explore the amazing world of Cute Pet Friends! This meticulously crafted game will bring you a premium experience of perfect for family play, develop children's creativity and imagination and safe and friendly gaming environment. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.82219317,
-    "popularity": 72
+    "popularity": 92
   },
   {
     "title": "Yarn Untangled",
@@ -824,7 +824,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/yarn-untangled/cover/yarn-untangled.png?w=320",
     "description": "🚀 Experience the stunning sensations of Yarn Untangled! This meticulously crafted game will bring you a premium experience of great choice for brain training, safe and friendly gaming environment and educational and entertaining learning experience. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.81880127,
-    "popularity": 54
+    "popularity": 45
   },
   {
     "title": "Frozen Princess Christmas Celebration",
@@ -837,7 +837,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/frozen-princess-christmas-celebration/cover/frozen-princess-christmas-celebration.png?w=320",
     "description": "🏆 Frozen Princess Christmas Celebration brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.8147842,
-    "popularity": 37
+    "popularity": 19
   },
   {
     "title": "Cute Little Dragon Creator",
@@ -851,7 +851,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cute-little-dragon-creator/cover/cute-little-dragon-creator.png?w=320",
     "description": "✨ Explore the amazing world of Cute Little Dragon Creator! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.81439401,
-    "popularity": 96
+    "popularity": 60
   },
   {
     "title": "Baby Bear",
@@ -864,7 +864,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-bear/cover/baby-bear.png?w=320",
     "description": "🚀 Experience the stunning sensations of Baby Bear! This meticulously crafted game will bring you a premium experience of safe and friendly gaming environment, develop children's creativity and imagination and educational and entertaining learning experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.81299221,
-    "popularity": 99
+    "popularity": 26
   },
   {
     "title": "Princess Nail Art",
@@ -877,7 +877,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/princess-nail-art/cover/princess-nail-art.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Princess Nail Art! Every detail is carefully polished to ensure you can educational and entertaining learning experience, develop children's creativity and imagination and perfect for family play and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.80954928,
-    "popularity": 37
+    "popularity": 71
   },
   {
     "title": "Baby Hazel At Beach",
@@ -889,7 +889,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-at-beach/cover/baby-hazel-at-beach.png?w=320",
     "description": "🚀 Experience the stunning sensations of Baby Hazel At Beach! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of develop children's creativity and imagination, perfect for family play and educational and entertaining learning experience. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80918103,
-    "popularity": 13
+    "popularity": 73
   },
   {
     "title": "Baby Hazel Ballerina Dance",
@@ -901,7 +901,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-ballerina-dance/cover/baby-hazel-ballerina-dance.png?w=320",
     "description": "✨ Explore the amazing world of Baby Hazel Ballerina Dance! Every detail is carefully polished to ensure you can safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80877451,
-    "popularity": 96
+    "popularity": 76
   },
   {
     "title": "Funny Bone Surgery",
@@ -913,7 +913,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-bone-surgery/cover/funny-bone-surgery.png?w=320",
     "description": "🏆 Funny Bone Surgery brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of educational and entertaining learning experience, develop children's creativity and imagination and perfect for family play. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80722968,
-    "popularity": 72
+    "popularity": 98
   },
   {
     "title": "Baby Hazel Fun Time",
@@ -925,7 +925,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-fun-time/cover/baby-hazel-fun-time.png?w=320",
     "description": "✨ Explore the amazing world of Baby Hazel Fun Time! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, educational and entertaining learning experience and perfect for family play. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80637834,
-    "popularity": 6
+    "popularity": 61
   },
   {
     "title": "Princess Hair Spa Salon",
@@ -938,7 +938,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/princess-hair-spa-salon/cover/princess-hair-spa-salon.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Princess Hair Spa Salon! This meticulously crafted game will bring you a premium experience of perfect for family play, safe and friendly gaming environment and educational and entertaining learning experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.80466384,
-    "popularity": 20
+    "popularity": 16
   },
   {
     "title": "Tiger Run",
@@ -951,7 +951,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/tiger-run/cover/tiger-run.png?w=320",
     "description": "🎮 Tiger Run - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect for family play, develop children's creativity and imagination and educational and entertaining learning experience. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.80347842,
-    "popularity": 77
+    "popularity": 14
   },
   {
     "title": "Funny Hair Salon",
@@ -963,7 +963,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-hair-salon/cover/funny-hair-salon.png?w=320",
     "description": "🏆 Funny Hair Salon brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of perfect for family play, educational and entertaining learning experience and develop children's creativity and imagination. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.80180233,
-    "popularity": 48
+    "popularity": 20
   },
   {
     "title": "Funny Rescue Gardener",
@@ -975,7 +975,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-rescue-gardener/cover/funny-rescue-gardener.png?w=320",
     "description": "🏆 Funny Rescue Gardener brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of safe and friendly gaming environment, educational and entertaining learning experience and perfect for family play. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.80045807,
-    "popularity": 26
+    "popularity": 58
   },
   {
     "title": "Creative Puzzle",
@@ -988,7 +988,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/creative-puzzle/cover/creative-puzzle.png?w=320",
     "description": "🎮 Creative Puzzle - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can great choice for brain training, develop children's creativity and imagination and educational and entertaining learning experience and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.79826815,
-    "popularity": 34
+    "popularity": 82
   },
   {
     "title": "Mary Run",
@@ -1000,7 +1000,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mary-run/cover/mary-run.png?w=320",
     "description": "🎮 Mary Run - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can develop children's creativity and imagination, safe and friendly gaming environment and educational and entertaining learning experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.79623774,
-    "popularity": 56
+    "popularity": 76
   },
   {
     "title": "Mahjong Sweet Connection",
@@ -1013,7 +1013,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mahjong-sweet-connection/cover/mahjong-sweet-connection.png?w=320",
     "description": "🏆 Mahjong Sweet Connection brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can educational and entertaining learning experience, perfect for family play and develop children's creativity and imagination and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.79593146,
-    "popularity": 3
+    "popularity": 19
   },
   {
     "title": "Monster Popsy Dolls",
@@ -1026,7 +1026,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/monster-popsy-dolls/cover/monster-popsy-dolls.png?w=320",
     "description": "🚀 Experience the stunning sensations of Monster Popsy Dolls! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, educational and entertaining learning experience and perfect for family play. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.79354855,
-    "popularity": 75
+    "popularity": 62
   },
   {
     "title": " A & B Kids",
@@ -1039,7 +1039,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/a-and-b-kids/cover/a-and-b-kids.png?w=320",
     "description": "🎮  A & B Kids - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.79328813,
-    "popularity": 81
+    "popularity": 11
   },
   {
     "title": "Princess Curse",
@@ -1052,7 +1052,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/princess-curse/cover/princess-curse.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Princess Curse! Every detail is carefully polished to ensure you can safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.79222754,
-    "popularity": 4
+    "popularity": 6
   },
   {
     "title": "Red Coloring Book",
@@ -1065,7 +1065,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/red-coloring-book/cover/red-coloring-book.png?w=320",
     "description": "🎮 Red Coloring Book - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can develop children's creativity and imagination, safe and friendly gaming environment and educational and entertaining learning experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.79028245,
-    "popularity": 11
+    "popularity": 69
   },
   {
     "title": "Your Queen Destiny",
@@ -1078,7 +1078,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/your-queen-destiny/cover/your-queen-destiny.png?w=320",
     "description": "✨ Explore the amazing world of Your Queen Destiny! This meticulously crafted game will bring you a premium experience of educational and entertaining learning experience, perfect for family play and safe and friendly gaming environment. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.78845749,
-    "popularity": 69
+    "popularity": 59
   },
   {
     "title": "Super Pop It",
@@ -1092,7 +1092,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/super-pop-it/cover/super-pop-it.png?w=320",
     "description": "🏆 Super Pop It brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.78738529,
-    "popularity": 28
+    "popularity": 99
   },
   {
     "title": "Candy Sweet",
@@ -1106,7 +1106,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/candy-sweet/cover/candy-sweet.png?w=320",
     "description": "✨ Explore the amazing world of Candy Sweet! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect for family play, safe and friendly gaming environment and great choice for brain training. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7865219476610287,
-    "popularity": 35
+    "popularity": 57
   },
   {
     "title": "Model Wedding - Girl Games",
@@ -1118,7 +1118,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/model-wedding-girl-games/cover/model-wedding-girl-games.png?w=320",
     "description": "🏆 Model Wedding - Girl Games brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can educational and entertaining learning experience, develop children's creativity and imagination and safe and friendly gaming environment and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78640323,
-    "popularity": 71
+    "popularity": 41
   },
   {
     "title": "Kids Flurry Educational Puzzle Game",
@@ -1131,7 +1131,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/kids-flurry-educational-puzzle-game/cover/kids-flurry-educational-puzzle-game.png?w=320",
     "description": "🎮 Kids Flurry Educational Puzzle Game - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of perfect for family play, educational and entertaining learning experience and safe and friendly gaming environment. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.78632479,
-    "popularity": 86
+    "popularity": 19
   },
   {
     "title": "Funny Pet Haircut",
@@ -1144,7 +1144,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-pet-haircut/cover/funny-pet-haircut.png?w=320",
     "description": "🏆 Funny Pet Haircut brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.78506566,
-    "popularity": 44
+    "popularity": 67
   },
   {
     "title": "Daddy Rabbit",
@@ -1158,7 +1158,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/daddy-rabbit/cover/daddy-rabbit.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Daddy Rabbit! Through excellent game design and beautiful graphics, you can perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.78345096,
-    "popularity": 3
+    "popularity": 42
   },
   {
     "title": "Rainbow Friends Coloring Book",
@@ -1171,7 +1171,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/rainbow-friends-coloring-book/cover/rainbow-friends-coloring-book.png?w=320",
     "description": "🏆 Rainbow Friends Coloring Book brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, perfect for family play and educational and entertaining learning experience. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.78311374,
-    "popularity": 18
+    "popularity": 88
   },
   {
     "title": "Math Battle",
@@ -1184,7 +1184,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/math-battle/cover/math-battle.png?w=320",
     "description": "🚀 Experience the stunning sensations of Math Battle! Every detail is carefully polished to ensure you can develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.78279348,
-    "popularity": 58
+    "popularity": 72
   },
   {
     "title": "Baby Hazel Bathroom Hygiene",
@@ -1196,7 +1196,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-bathroom-hygiene/cover/baby-hazel-bathroom-hygiene.png?w=320",
     "description": "🚀 Experience the stunning sensations of Baby Hazel Bathroom Hygiene! Through excellent game design and beautiful graphics, you can develop children's creativity and imagination, safe and friendly gaming environment and perfect for family play and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7827789,
-    "popularity": 84
+    "popularity": 65
   },
   {
     "title": "Baby Hazel Birthday Party",
@@ -1210,7 +1210,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-birthday-party/cover/baby-hazel-birthday-party.png?w=320",
     "description": "🏆 Baby Hazel Birthday Party brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of educational and entertaining learning experience, develop children's creativity and imagination and safe and friendly gaming environment. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.77988931,
-    "popularity": 4
+    "popularity": 78
   },
   {
     "title": "Superstar Kitty Fashion Award",
@@ -1222,7 +1222,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/superstar-kitty-fashion-award/cover/superstar-kitty-fashion-award.png?w=320",
     "description": "✨ Explore the amazing world of Superstar Kitty Fashion Award! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.77901104,
-    "popularity": 62
+    "popularity": 18
   },
   {
     "title": "Butterfly Coloring Pages Kids",
@@ -1234,7 +1234,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/butterfly-coloring-pages-kids/cover/butterfly-coloring-pages-kids.png?w=320",
     "description": "✨ Explore the amazing world of Butterfly Coloring Pages Kids! Every detail is carefully polished to ensure you can educational and entertaining learning experience, perfect for family play and develop children's creativity and imagination and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.77813034,
-    "popularity": 57
+    "popularity": 87
   },
   {
     "title": "Funny Rescue Carpenter",
@@ -1246,7 +1246,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-rescue-carpenter/cover/funny-rescue-carpenter.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Funny Rescue Carpenter! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of develop children's creativity and imagination, safe and friendly gaming environment and perfect for family play. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.77741672,
-    "popularity": 68
+    "popularity": 49
   },
   {
     "title": "Aidol K-pop Adventure",
@@ -1259,7 +1259,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/aidol-k-pop-adventure/cover/aidol-k-pop-adventure.png?w=320",
     "description": "🏆 Aidol K-pop Adventure brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can perfect for family play, develop children's creativity and imagination and safe and friendly gaming environment and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.774949,
-    "popularity": 99
+    "popularity": 34
   },
   {
     "title": "Doctor Teeth",
@@ -1272,7 +1272,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/doctor-teeth/cover/doctor-teeth.png?w=320",
     "description": "🎮 Doctor Teeth - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can develop children's creativity and imagination, educational and entertaining learning experience and great choice for brain training and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.77358068,
-    "popularity": 32
+    "popularity": 63
   },
   {
     "title": "Princess Ready For Christmas",
@@ -1286,7 +1286,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/princess-ready-for-christmas/cover/princess-ready-for-christmas.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Princess Ready For Christmas! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of educational and entertaining learning experience, develop children's creativity and imagination and safe and friendly gaming environment. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.7724976042273655,
-    "popularity": 4
+    "popularity": 42
   },
   {
     "title": "Cooking Korean Lesson",
@@ -1298,7 +1298,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cooking-korean-lesson/cover/cooking-korean-lesson.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Cooking Korean Lesson! Every detail is carefully polished to ensure you can perfect for family play, educational and entertaining learning experience and safe and friendly gaming environment and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.77249035,
-    "popularity": 59
+    "popularity": 78
   },
   {
     "title": "Funny Nose Surgery",
@@ -1311,7 +1311,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-nose-surgery/cover/funny-nose-surgery.png?w=320",
     "description": "✨ Explore the amazing world of Funny Nose Surgery! Through excellent game design and beautiful graphics, you can safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77206351,
-    "popularity": 31
+    "popularity": 92
   },
   {
     "title": "Collect the Gift",
@@ -1328,7 +1328,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/collect-the-gift/cover/collect-the-gift.png?w=320",
     "description": "🚀 Experience the stunning sensations of Collect the Gift! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, develop children's creativity and imagination and educational and entertaining learning experience. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77165648,
-    "popularity": 54
+    "popularity": 60
   },
   {
     "title": "Hungry Rabbit",
@@ -1340,7 +1340,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/hungry-rabbit/cover/hungry-rabbit.png?w=320",
     "description": "🏆 Hungry Rabbit brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, educational and entertaining learning experience and perfect for family play. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7706422,
-    "popularity": 2
+    "popularity": 4
   },
   {
     "title": "Yummy Churros Ice Cream",
@@ -1353,7 +1353,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/yummy-churros-ice-cream/cover/yummy-churros-ice-cream.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Yummy Churros Ice Cream! Every detail is carefully polished to ensure you can educational and entertaining learning experience, develop children's creativity and imagination and safe and friendly gaming environment and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.76859791,
-    "popularity": 65
+    "popularity": 74
   },
   {
     "title": "Esther the Penguin - Return to Antartica",
@@ -1366,7 +1366,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/esther-the-penguin-return-to-antarctica/cover/esther-the-penguin-return-to-antarctica.png?w=320",
     "description": "✨ Explore the amazing world of Esther the Penguin - Return to Antartica! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, great choice for brain training and safe and friendly gaming environment. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.7619047619047619,
-    "popularity": 56
+    "popularity": 16
   },
   {
     "title": "Street Food - Cooking Game",
@@ -1378,7 +1378,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/street-food-cooking-game/cover/street-food-cooking-game.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Street Food - Cooking Game! This meticulously crafted game will bring you a premium experience of safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.76084398,
-    "popularity": 61
+    "popularity": 34
   },
   {
     "title": "Panda Hair-do",
@@ -1391,7 +1391,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/panda-hairdo/cover/panda-hairdo.png?w=320",
     "description": "🚀 Experience the stunning sensations of Panda Hair-do! Every detail is carefully polished to ensure you can develop children's creativity and imagination, educational and entertaining learning experience and perfect for family play and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.76036609,
-    "popularity": 60
+    "popularity": 90
   },
   {
     "title": "Fun Summer Holiday",
@@ -1405,7 +1405,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/fun-summer-holiday/cover/fun-summer-holiday.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Fun Summer Holiday! Every detail is carefully polished to ensure you can develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.75863957,
-    "popularity": 79
+    "popularity": 54
   },
   {
     "title": "Water Me Please!",
@@ -1418,7 +1418,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/water-me-please/cover/water-me-please.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Water Me Please!! Through excellent game design and beautiful graphics, you can great choice for brain training, perfect for family play and educational and entertaining learning experience and feel the artistic charm of gaming. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.75783576,
-    "popularity": 20
+    "popularity": 67
   },
   {
     "title": "Yummy Waffle Ice Cream",
@@ -1431,7 +1431,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/yummy-waffle-ice-cream/cover/yummy-waffle-ice-cream.png?w=320",
     "description": "🎮 Yummy Waffle Ice Cream - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of educational and entertaining learning experience, perfect for family play and develop children's creativity and imagination. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.75738935,
-    "popularity": 28
+    "popularity": 79
   },
   {
     "title": "Princess Kawaii Swimwear",
@@ -1444,7 +1444,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/princess-kawaii-swimwear/cover/princess-kawaii-swimwear.png?w=320",
     "description": "🏆 Princess Kawaii Swimwear brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of educational and entertaining learning experience, safe and friendly gaming environment and perfect for family play. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.75738935,
-    "popularity": 18
+    "popularity": 3
   },
   {
     "title": "Anime Girl Fashion Make Up",
@@ -1458,7 +1458,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/anime-girl-fashion-make-up/cover/anime-girl-fashion-make-up.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Anime Girl Fashion Make Up! Through excellent game design and beautiful graphics, you can develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.7572607,
-    "popularity": 67
+    "popularity": 95
   },
   {
     "title": "Ocean Kids Back to School",
@@ -1470,7 +1470,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/ocean-kids-back-to-school/cover/ocean-kids-back-to-school.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Ocean Kids Back to School! Every detail is carefully polished to ensure you can safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.75689381,
-    "popularity": 39
+    "popularity": 86
   },
   {
     "title": "Hipsters vs Rockers",
@@ -1482,7 +1482,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/hipsters-vs-rockers/cover/hipsters-vs-rockers.png?w=320",
     "description": "🏆 Hipsters vs Rockers brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can safe and friendly gaming environment, educational and entertaining learning experience and perfect for family play and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.75404009,
-    "popularity": 77
+    "popularity": 19
   },
   {
     "title": "Yummy Hotdog",
@@ -1494,7 +1494,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/yummy-hotdog/cover/yummy-hotdog.png?w=320",
     "description": "✨ Explore the amazing world of Yummy Hotdog! Through excellent game design and beautiful graphics, you can safe and friendly gaming environment, perfect for family play and educational and entertaining learning experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.75126937,
-    "popularity": 39
+    "popularity": 50
   },
   {
     "title": "Makeup Studio - Halloween",
@@ -1507,7 +1507,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/makeup-studio-halloween/cover/makeup-studio-halloween.png?w=320",
     "description": "🏆 Makeup Studio - Halloween brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can educational and entertaining learning experience, develop children's creativity and imagination and safe and friendly gaming environment and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74965298,
-    "popularity": 88
+    "popularity": 27
   },
   {
     "title": "Doctor Teeth 2",
@@ -1520,7 +1520,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/doctor-teeth-2/cover/doctor-teeth-2.png?w=320",
     "description": "✨ Explore the amazing world of Doctor Teeth 2! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training, perfect for family play and safe and friendly gaming environment. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74727914,
-    "popularity": 60
+    "popularity": 91
   },
   {
     "title": "Barbiecore",
@@ -1533,7 +1533,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/barbiecore/cover/barbiecore.png?w=320",
     "description": "🚀 Experience the stunning sensations of Barbiecore! Every detail is carefully polished to ensure you can perfect for family play, develop children's creativity and imagination and educational and entertaining learning experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.74689932,
-    "popularity": 51
+    "popularity": 94
   },
   {
     "title": "Funny Kitty Care",
@@ -1547,7 +1547,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-kitty-care/cover/funny-kitty-care.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Funny Kitty Care! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, educational and entertaining learning experience and perfect for family play. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.74483336,
-    "popularity": 60
+    "popularity": 87
   },
   {
     "title": "Swimming Pool Romance",
@@ -1560,7 +1560,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/swimming-pool-romance/cover/swimming-pool-romance.png?w=320",
     "description": "🚀 Experience the stunning sensations of Swimming Pool Romance! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of develop children's creativity and imagination, perfect for family play and educational and entertaining learning experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74289857,
-    "popularity": 0
+    "popularity": 4
   },
   {
     "title": "Cookie Maker for Kids",
@@ -1572,7 +1572,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cookie-maker-for-kids/cover/cookie-maker-for-kids.png?w=320",
     "description": "🎮 Cookie Maker for Kids - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can safe and friendly gaming environment, develop children's creativity and imagination and perfect for family play and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74043228,
-    "popularity": 60
+    "popularity": 62
   },
   {
     "title": "Bunny Quest",
@@ -1586,7 +1586,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bunny-quest/cover/bunny-quest.png?w=320",
     "description": "🏆 Bunny Quest brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73962334,
-    "popularity": 49
+    "popularity": 68
   },
   {
     "title": "The Best Pizza",
@@ -1598,7 +1598,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/the-best-pizza/cover/the-best-pizza.png?w=320",
     "description": "✨ Explore the amazing world of The Best Pizza! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73845026,
-    "popularity": 58
+    "popularity": 5
   },
   {
     "title": "NYFW Street Style",
@@ -1611,7 +1611,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/nyfw-street-style/cover/nyfw-street-style.png?w=320",
     "description": "🎮 NYFW Street Style - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can educational and entertaining learning experience, perfect for family play and safe and friendly gaming environment and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73805625,
-    "popularity": 1
+    "popularity": 26
   },
   {
     "title": "Yummy Cupcake",
@@ -1624,7 +1624,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/yummy-cupcake/cover/yummy-cupcake.png?w=320",
     "description": "✨ Explore the amazing world of Yummy Cupcake! This meticulously crafted game will bring you a premium experience of safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.73707375,
-    "popularity": 43
+    "popularity": 79
   },
   {
     "title": "Alphabet Writing for Kids",
@@ -1637,7 +1637,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/alphabet-writing-for-kids/cover/alphabet-writing-for-kids.png?w=320",
     "description": "🏆 Alphabet Writing for Kids brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can safe and friendly gaming environment, educational and entertaining learning experience and perfect for family play and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73707375,
-    "popularity": 57
+    "popularity": 53
   },
   {
     "title": "Kids Kitchen",
@@ -1649,7 +1649,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/kids-kitchen/cover/kids-kitchen.png?w=320",
     "description": "🎮 Kids Kitchen - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can educational and entertaining learning experience, perfect for family play and safe and friendly gaming environment and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73512234,
-    "popularity": 90
+    "popularity": 12
   },
   {
     "title": "Pop it Infinity",
@@ -1664,7 +1664,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pop-it-infinity/cover/pop-it-infinity.png?w=320",
     "description": "🚀 Experience the stunning sensations of Pop it Infinity! Every detail is carefully polished to ensure you can educational and entertaining learning experience, perfect for family play and develop children's creativity and imagination and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.73431635,
-    "popularity": 34
+    "popularity": 61
   },
   {
     "title": "Pizza Maker food Cooking Games",
@@ -1676,7 +1676,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pizza-maker-food-cooking-games/cover/pizza-maker-food-cooking-games.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Pizza Maker food Cooking Games! Every detail is carefully polished to ensure you can perfect for family play, develop children's creativity and imagination and educational and entertaining learning experience and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73387788,
-    "popularity": 40
+    "popularity": 9
   },
   {
     "title": "BFF Summer Shine Look",
@@ -1689,7 +1689,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bff-summer-shine-look/cover/bff-summer-shine-look.png?w=320",
     "description": "🚀 Experience the stunning sensations of BFF Summer Shine Look! Every detail is carefully polished to ensure you can safe and friendly gaming environment, educational and entertaining learning experience and perfect for family play and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73242039,
-    "popularity": 94
+    "popularity": 84
   },
   {
     "title": "Princess Magic Gradient",
@@ -1702,7 +1702,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/princess-magic-gradient/cover/princess-magic-gradient.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Princess Magic Gradient! This meticulously crafted game will bring you a premium experience of educational and entertaining learning experience, safe and friendly gaming environment and perfect for family play. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7303639019754812,
-    "popularity": 11
+    "popularity": 90
   },
   {
     "title": "Funny Shopping Supermarket",
@@ -1714,7 +1714,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-shopping-supermarket/cover/funny-shopping-supermarket.png?w=320",
     "description": "✨ Explore the amazing world of Funny Shopping Supermarket! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment. Carefully designed levels bring continuous challenges and fun. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7303639,
-    "popularity": 87
+    "popularity": 36
   },
   {
     "title": "Coloring Dinosaurs for Kids",
@@ -1726,7 +1726,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/coloring-dinosaurs-for-kids/cover/coloring-dinosaurs-for-kids.png?w=320",
     "description": "🏆 Coloring Dinosaurs for Kids brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, educational and entertaining learning experience and perfect for family play. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.73021395,
-    "popularity": 77
+    "popularity": 45
   },
   {
     "title": "My Hospital Doctor",
@@ -1738,7 +1738,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/my-hospital-doctor/cover/my-hospital-doctor.png?w=320",
     "description": "🏆 My Hospital Doctor brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can safe and friendly gaming environment, perfect for family play and develop children's creativity and imagination and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72505788,
-    "popularity": 62
+    "popularity": 98
   },
   {
     "title": "Monster Hospital",
@@ -1751,7 +1751,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/monster-hospital/cover/monster-hospital.png?w=320",
     "description": "✨ Explore the amazing world of Monster Hospital! Through excellent game design and beautiful graphics, you can develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72504055,
-    "popularity": 71
+    "popularity": 6
   },
   {
     "title": "Test Love",
@@ -1764,7 +1764,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/test-love/cover/test-love.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Test Love! Every detail is carefully polished to ensure you can perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72431328,
-    "popularity": 12
+    "popularity": 1
   },
   {
     "title": "BFF Summer Vibes",
@@ -1776,7 +1776,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bff-summer-vibes/cover/bff-summer-vibes.png?w=320",
     "description": "⭐ Discover the true charm of gaming in BFF Summer Vibes! Through excellent game design and beautiful graphics, you can educational and entertaining learning experience, perfect for family play and safe and friendly gaming environment and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.7233646,
-    "popularity": 38
+    "popularity": 9
   },
   {
     "title": "Baby Hazel African Safari",
@@ -1790,7 +1790,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-hazel-african-safari/cover/baby-hazel-african-safari.png?w=320",
     "description": "✨ Explore the amazing world of Baby Hazel African Safari! Through excellent game design and beautiful graphics, you can educational and entertaining learning experience, great choice for brain training and perfect for family play and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72209763,
-    "popularity": 43
+    "popularity": 76
   },
   {
     "title": "X O Tic Tac Toe",
@@ -1803,7 +1803,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/x-o-tic-tac-toe/cover/x-o-tic-tac-toe.png?w=320",
     "description": "🏆 X O Tic Tac Toe brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.72120147,
-    "popularity": 62
+    "popularity": 31
   },
   {
     "title": "Max Mixed Cuisine",
@@ -1815,7 +1815,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/max-mixed-cuisine/cover/max-mixed-cuisine.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Max Mixed Cuisine! Every detail is carefully polished to ensure you can perfect for family play, develop children's creativity and imagination and safe and friendly gaming environment and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71910112,
-    "popularity": 33
+    "popularity": 44
   },
   {
     "title": "App For Kids - Edu games",
@@ -1829,7 +1829,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/app-for-kids/cover/app-for-kids.png?w=320",
     "description": "✨ Explore the amazing world of App For Kids - Edu games! This meticulously crafted game will bring you a premium experience of educational and entertaining learning experience, perfect for family play and develop children's creativity and imagination. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.71910112,
-    "popularity": 21
+    "popularity": 64
   },
   {
     "title": "Karate King",
@@ -1841,7 +1841,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/karate-king/cover/karate-king.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Karate King! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment. Innovative game mechanics bring fresh excitement. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7189046,
-    "popularity": 22
+    "popularity": 68
   },
   {
     "title": "Monster Nail Doctor",
@@ -1853,7 +1853,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/monster-nail-doctor/cover/monster-nail-doctor.png?w=320",
     "description": "🚀 Experience the stunning sensations of Monster Nail Doctor! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, educational and entertaining learning experience and perfect for family play. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71870691,
-    "popularity": 1
+    "popularity": 11
   },
   {
     "title": "Mini Heads Party",
@@ -1865,7 +1865,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mini-heads-party/cover/mini-heads-party.png?w=320",
     "description": "🏆 Mini Heads Party brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, safe and friendly gaming environment and educational and entertaining learning experience. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.7171459004400568,
-    "popularity": 28
+    "popularity": 5
   },
   {
     "title": "Nastya Cute Blogger",
@@ -1878,7 +1878,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/nastya-cute-blogger/cover/nastya-cute-blogger.png?w=320",
     "description": "🏆 Nastya Cute Blogger brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.71650101,
-    "popularity": 66
+    "popularity": 42
   },
   {
     "title": "Pomni Coloring Book",
@@ -1891,7 +1891,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pomni-coloring-book/cover/pomni-coloring-book.png?w=320",
     "description": "🚀 Experience the stunning sensations of Pomni Coloring Book! Through excellent game design and beautiful graphics, you can educational and entertaining learning experience, perfect for family play and safe and friendly gaming environment and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71358231,
-    "popularity": 79
+    "popularity": 6
   },
   {
     "title": "BTS Signature Fashion Style",
@@ -1904,7 +1904,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bts-signature-fashion-style/cover/bts-signature-fashion-style.png?w=320",
     "description": "🎮 BTS Signature Fashion Style - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, educational and entertaining learning experience and perfect for family play. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.71358231,
-    "popularity": 93
+    "popularity": 49
   },
   {
     "title": "Funny Eye Surgery",
@@ -1917,7 +1917,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-eye-surgery/cover/funny-eye-surgery.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Funny Eye Surgery! This meticulously crafted game will bring you a premium experience of perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.70675763,
-    "popularity": 89
+    "popularity": 77
   },
   {
     "title": "Christmas Girl Dressup",
@@ -1931,7 +1931,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/christmas-girl-dressup/cover/christmas-girl-dressup.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Christmas Girl Dressup! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of safe and friendly gaming environment, perfect for family play and educational and entertaining learning experience. Balanced game difficulty suits players of all levels. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.70648256,
-    "popularity": 20
+    "popularity": 70
   },
   {
     "title": "Art Jumble",
@@ -1946,7 +1946,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/art-jumble/cover/art-jumble.png?w=320",
     "description": "🚀 Experience the stunning sensations of Art Jumble! Every detail is carefully polished to ensure you can safe and friendly gaming environment, educational and entertaining learning experience and great choice for brain training and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.70588235,
-    "popularity": 61
+    "popularity": 90
   },
   {
     "title": "Funny Dentist Surgery",
@@ -1958,7 +1958,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/funny-dentist-surgery/cover/funny-dentist-surgery.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Funny Dentist Surgery! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of educational and entertaining learning experience, perfect for family play and develop children's creativity and imagination. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.70505288,
-    "popularity": 92
+    "popularity": 28
   },
   {
     "title": "BFFs Pinafore Fashion",
@@ -1971,7 +1971,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bffs-pinafore-fashion/cover/bffs-pinafore-fashion.png?w=320",
     "description": "🚀 Experience the stunning sensations of BFFs Pinafore Fashion! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7046328,
-    "popularity": 95
+    "popularity": 69
   },
   {
     "title": "Pug Love",
@@ -1984,7 +1984,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pug-love/cover/pug-love.png?w=320",
     "description": "🎮 Pug Love - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can perfect for family play, safe and friendly gaming environment and educational and entertaining learning experience and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.7031581,
-    "popularity": 16
+    "popularity": 60
   },
   {
     "title": "Doggy Dive",
@@ -1997,7 +1997,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/doggy-dive/cover/doggy-dive.png?w=320",
     "description": "✨ Explore the amazing world of Doggy Dive! This meticulously crafted game will bring you a premium experience of educational and entertaining learning experience, develop children's creativity and imagination and perfect for family play. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7020507926911476,
-    "popularity": 99
+    "popularity": 89
   },
   {
     "title": "Coloring Alphabet Lore",
@@ -2010,7 +2010,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/coloring-alphabet-lore/cover/coloring-alphabet-lore.png?w=320",
     "description": "🚀 Experience the stunning sensations of Coloring Alphabet Lore! This meticulously crafted game will bring you a premium experience of safe and friendly gaming environment, develop children's creativity and imagination and educational and entertaining learning experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.70175414,
-    "popularity": 62
+    "popularity": 30
   },
   {
     "title": "Squid Dentist Game",
@@ -2022,7 +2022,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/squid-dentist-game/cover/squid-dentist-game.png?w=320",
     "description": "Squid Dentist Game offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in develop children's creativity and imagination, safe and friendly gaming environment and perfect for family play. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6985008626186539,
-    "popularity": 17
+    "popularity": 28
   },
   {
     "title": "Kids: Cute Pairs",
@@ -2035,7 +2035,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/kids-cute-pairs/cover/kids-cute-pairs.png?w=320",
     "description": "Kids: Cute Pairs offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in educational and entertaining learning experience, safe and friendly gaming environment and perfect for family play. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69749633,
-    "popularity": 70
+    "popularity": 21
   },
   {
     "title": "Tora Boy Adventure",
@@ -2048,7 +2048,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/tora-boy-adventure/cover/tora-boy-adventure.png?w=320",
     "description": "Ready to experience the endless fun that Tora Boy Adventure brings? Here, you can develop children's creativity and imagination, educational and entertaining learning experience and perfect for family play and enjoy the endless charm of gaming. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.69648932,
-    "popularity": 9
+    "popularity": 75
   },
   {
     "title": "All Seasons Nail Salon",
@@ -2061,7 +2061,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/all-seasons-nail-salon/cover/all-seasons-nail-salon.png?w=320",
     "description": "Welcome to the amazing world of All Seasons Nail Salon! Here, you can develop children's creativity and imagination, educational and entertaining learning experience and safe and friendly gaming environment and enjoy the endless charm of gaming. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.6918965,
-    "popularity": 9
+    "popularity": 60
   },
   {
     "title": "Theme Words",
@@ -2075,7 +2075,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/theme-words/cover/theme-words.png?w=320",
     "description": "Welcome to the amazing world of Theme Words! Here, you can perfect for family play, great choice for brain training and educational and entertaining learning experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6918965,
-    "popularity": 98
+    "popularity": 64
   },
   {
     "title": "Rainbow Girls Christmas Party",
@@ -2089,7 +2089,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/rainbow-girls-christmas-party/cover/rainbow-girls-christmas-party.png?w=320",
     "description": "Rainbow Girls Christmas Party offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.69135802,
-    "popularity": 32
+    "popularity": 18
   },
   {
     "title": "Find the Missing Letter",
@@ -2101,7 +2101,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/find-the-missing-letter/cover/find-the-missing-letter.png?w=320",
     "description": "Start your adventure journey in Find the Missing Letter! Through carefully designed game mechanics, you can educational and entertaining learning experience, develop children's creativity and imagination and safe and friendly gaming environment and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6886494977788788,
-    "popularity": 82
+    "popularity": 99
   },
   {
     "title": "Kitty Take Care New Born Baby",
@@ -2114,7 +2114,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/kitty-take-care-new-born-baby/cover/kitty-take-care-new-born-baby.png?w=320",
     "description": "Kitty Take Care New Born Baby offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can perfect for family play, safe and friendly gaming environment and educational and entertaining learning experience and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.68801856,
-    "popularity": 31
+    "popularity": 38
   },
   {
     "title": "Yummy Taco",
@@ -2126,7 +2126,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/yummy-taco/cover/yummy-taco.png?w=320",
     "description": "Yummy Taco offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in develop children's creativity and imagination, educational and entertaining learning experience and perfect for family play. Carefully designed levels bring continuous challenges and fun. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.68733689,
-    "popularity": 11
+    "popularity": 47
   },
   {
     "title": "Oomee Rush",
@@ -2138,7 +2138,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/oomee-rush/cover/oomee-rush.png?w=320",
     "description": "Welcome to the amazing world of Oomee Rush! Whether you're a beginner or experienced player, you can find your own happiness in safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6826767406995375,
-    "popularity": 78
+    "popularity": 74
   },
   {
     "title": "Princess Happy Halloween Party",
@@ -2151,7 +2151,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bff-s-happy-halloween-party/cover/bff-s-happy-halloween-party.png?w=320",
     "description": "Explore the infinite possibilities hidden in Princess Happy Halloween Party! This game will bring you a unique experience of perfect for family play, develop children's creativity and imagination and safe and friendly gaming environment. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67977659,
-    "popularity": 81
+    "popularity": 11
   },
   {
     "title": "Animals Memory",
@@ -2163,7 +2163,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/animals-memory/cover/animals-memory.png?w=320",
     "description": "Ready to experience the endless fun that Animals Memory brings? This game will bring you a unique experience of educational and entertaining learning experience, perfect for family play and safe and friendly gaming environment. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67898265,
-    "popularity": 81
+    "popularity": 58
   },
   {
     "title": "Tower Mania",
@@ -2175,7 +2175,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/tower-mania/cover/tower-mania.png?w=320",
     "description": "Ready to experience the endless fun that Tower Mania brings? Through carefully designed game mechanics, you can educational and entertaining learning experience, develop children's creativity and imagination and perfect for family play and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.67627374,
-    "popularity": 81
+    "popularity": 15
   },
   {
     "title": "Frog Jump",
@@ -2187,7 +2187,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/frog-jump-online-game/cover/frog-jump-online-game.png?w=320",
     "description": "Start your adventure journey in Frog Jump! This game will bring you a unique experience of educational and entertaining learning experience, perfect for family play and develop children's creativity and imagination. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67532468,
-    "popularity": 65
+    "popularity": 72
   },
   {
     "title": "Iceberg",
@@ -2200,7 +2200,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/iceberg/cover/iceberg.png?w=320",
     "description": "Welcome to the amazing world of Iceberg! This game will bring you a unique experience of great choice for brain training, educational and entertaining learning experience and perfect for family play. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.67424823,
-    "popularity": 29
+    "popularity": 90
   },
   {
     "title": "Alphabet for Child",
@@ -2213,7 +2213,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/alphabet-for-child/cover/alphabet-for-child.png?w=320",
     "description": "Welcome to the amazing world of Alphabet for Child! Here, you can perfect for family play, safe and friendly gaming environment and educational and entertaining learning experience and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67189145,
-    "popularity": 59
+    "popularity": 90
   },
   {
     "title": "Mahjong Sweet Easter",
@@ -2226,7 +2226,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mahjong-sweet-easter/cover/mahjong-sweet-easter.png?w=320",
     "description": "Mahjong Sweet Easter offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in safe and friendly gaming environment, develop children's creativity and imagination and perfect for family play. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6697067878032053,
-    "popularity": 78
+    "popularity": 37
   },
   {
     "title": "Yummy Donut Factory",
@@ -2238,7 +2238,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/yummy-donut-factory/cover/yummy-donut-factory.png?w=320",
     "description": "Ready to experience the endless fun that Yummy Donut Factory brings? Here, you can develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66952463,
-    "popularity": 8
+    "popularity": 95
   },
   {
     "title": "Cannon Ball & Pop It Fidget",
@@ -2251,7 +2251,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cannon-ball-pop-it-fidget/cover/cannon-ball-pop-it-fidget.png?w=320",
     "description": "Ready to experience the endless fun that Cannon Ball & Pop It Fidget brings? Through carefully designed game mechanics, you can educational and entertaining learning experience, great choice for brain training and develop children's creativity and imagination and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6694674267649813,
-    "popularity": 44
+    "popularity": 81
   },
   {
     "title": "Cat Girl Valentine Story Deep Water",
@@ -2265,7 +2265,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cat-girl-valentine-story-deep-water/cover/cat-girl-valentine-story-deep-water.png?w=320",
     "description": "Ready to experience the endless fun that Cat Girl Valentine Story Deep Water brings? This game will bring you a unique experience of great choice for brain training, develop children's creativity and imagination and educational and entertaining learning experience. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66745201,
-    "popularity": 31
+    "popularity": 41
   },
   {
     "title": "Baby Ava Daily Activities",
@@ -2277,7 +2277,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-ava-daily-activities/cover/baby-ava-daily-activities.png?w=320",
     "description": "Welcome to the amazing world of Baby Ava Daily Activities! This game will bring you a unique experience of educational and entertaining learning experience, perfect for family play and safe and friendly gaming environment. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.66566835,
-    "popularity": 61
+    "popularity": 60
   },
   {
     "title": "DOP Rainbow Friends",
@@ -2290,7 +2290,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/dop-rainbow-friends/cover/dop-rainbow-friends.png?w=320",
     "description": "Ready to experience the endless fun that DOP Rainbow Friends brings? Here, you can perfect for family play, develop children's creativity and imagination and safe and friendly gaming environment and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.66358292,
-    "popularity": 71
+    "popularity": 11
   },
   {
     "title": "Celebrity E-Girl Fashion",
@@ -2303,7 +2303,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/celebrity-e-girl-fashion/cover/celebrity-e-girl-fashion.png?w=320",
     "description": "Ready to experience the endless fun that Celebrity E-Girl Fashion brings? Through carefully designed game mechanics, you can develop children's creativity and imagination, perfect for family play and safe and friendly gaming environment and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66358292,
-    "popularity": 63
+    "popularity": 15
   },
   {
     "title": "Barbiemania",
@@ -2316,7 +2316,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/barbiemania/cover/barbiemania.png?w=320",
     "description": "Barbiemania offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.66317936,
-    "popularity": 42
+    "popularity": 19
   },
   {
     "title": "CraneItUp",
@@ -2330,7 +2330,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/craneitup/cover/craneitup.png?w=320",
     "description": "Welcome to the amazing world of CraneItUp! Here, you can safe and friendly gaming environment, educational and entertaining learning experience and develop children's creativity and imagination and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.66305077,
-    "popularity": 37
+    "popularity": 82
   },
   {
     "title": "POP it Plus",
@@ -2344,7 +2344,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pop-it-plus/cover/pop-it-plus.png?w=320",
     "description": "Welcome to the amazing world of POP it Plus! Whether you're a beginner or experienced player, you can find your own happiness in educational and entertaining learning experience, safe and friendly gaming environment and develop children's creativity and imagination. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.66219728,
-    "popularity": 87
+    "popularity": 21
   },
   {
     "title": "My Perfect Halloween Costume",
@@ -2358,7 +2358,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/my-perfect-halloween-costume/cover/my-perfect-halloween-costume.png?w=320",
     "description": "Ready to experience the endless fun that My Perfect Halloween Costume brings? Whether you're a beginner or experienced player, you can find your own happiness in perfect for family play, develop children's creativity and imagination and educational and entertaining learning experience. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65753425,
-    "popularity": 12
+    "popularity": 15
   },
   {
     "title": "Little Mermaid",
@@ -2371,7 +2371,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/little-mermaid/cover/little-mermaid.png?w=320",
     "description": "Explore the infinite possibilities hidden in Little Mermaid! Through carefully designed game mechanics, you can perfect for family play, educational and entertaining learning experience and develop children's creativity and imagination and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65753425,
-    "popularity": 67
+    "popularity": 92
   },
   {
     "title": "Pet&Pics Meowconnect",
@@ -2385,7 +2385,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/petandpics-meowconnect/cover/petandpics-meowconnect.png?w=320",
     "description": "Explore the infinite possibilities hidden in Pet&Pics Meowconnect! Through carefully designed game mechanics, you can perfect for family play, safe and friendly gaming environment and develop children's creativity and imagination and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.65753425,
-    "popularity": 83
+    "popularity": 55
   },
   {
     "title": "BFF Math Class",
@@ -2398,7 +2398,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bff-math-class/cover/bff-math-class.png?w=320",
     "description": "Ready to experience the endless fun that BFF Math Class brings? This game will bring you a unique experience of develop children's creativity and imagination, safe and friendly gaming environment and perfect for family play. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65753425,
-    "popularity": 39
+    "popularity": 62
   },
   {
     "title": "Animal Explorer Puzzle",
@@ -2412,7 +2412,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/animal-explorer-puzzle/cover/animal-explorer-puzzle.png?w=320",
     "description": "Animal Explorer Puzzle offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in educational and entertaining learning experience, develop children's creativity and imagination and great choice for brain training. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.65753425,
-    "popularity": 84
+    "popularity": 27
   },
   {
     "title": "Barbie Match Master",
@@ -2425,7 +2425,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/barbie-match-master/cover/barbie-match-master.png?w=320",
     "description": "Start your adventure journey in Barbie Match Master! Through carefully designed game mechanics, you can safe and friendly gaming environment, great choice for brain training and perfect for family play and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.65753425,
-    "popularity": 72
+    "popularity": 89
   },
   {
     "title": "Stacky Dash Nail",
@@ -2438,7 +2438,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/stacky-dash-nail/cover/stacky-dash-nail.png?w=320",
     "description": "🏆 Stacky Dash Nail brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.82410759,
-    "popularity": 99
+    "popularity": 13
   },
   {
     "title": "Phone Case DIY 5",
@@ -2451,7 +2451,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/phone-case-diy-5/cover/phone-case-diy-5.png?w=320",
     "description": "Explore the infinite possibilities hidden in Phone Case DIY 5! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.66666667,
-    "popularity": 3
+    "popularity": 23
   },
   {
     "title": "K-Pop Stars Inspired Look",
@@ -2463,7 +2463,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/k-pop-stars-inspired-look/cover/k-pop-stars-inspired-look.png?w=320",
     "description": "Ready to experience the endless fun that K-Pop Stars Inspired Look brings? This game will bring you a unique experience of exciting and fun gaming experience. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.65244075,
-    "popularity": 44
+    "popularity": 21
   },
   {
     "title": "Left or Right Women Fashions",
@@ -2475,7 +2475,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/left-or-right-women-fashions/cover/left-or-right-women-fashions.png?w=320",
     "description": "Ready to experience the endless fun that Left or Right Women Fashions brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.64674997,
-    "popularity": 95
+    "popularity": 61
   },
   {
     "title": "Your Dream Room",
@@ -2488,7 +2488,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/your-dream-room/cover/your-dream-room.png?w=320",
     "description": "Your Dream Room offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.63695069,
-    "popularity": 53
+    "popularity": 23
   },
   {
     "title": "Fruit Merger",
@@ -2503,7 +2503,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/fruit-merger/cover/fruit-merger.png?w=320",
     "description": "Start your adventure journey in Fruit Merger! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61538462,
-    "popularity": 49
+    "popularity": 89
   },
   {
     "title": "Hair Do Design",
@@ -2515,7 +2515,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/hair-do-design/cover/hair-do-design.png?w=320",
     "description": "🎮 Hair Do Design - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.74323386,
-    "popularity": 87
+    "popularity": 35
   },
   {
     "title": "Guard The Baby",
@@ -2539,7 +2539,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/dino-squad-battle-mission-1/cover/dino-squad-battle-mission-1.png?w=320",
     "description": "🎮 Dino Squad Battle Mission - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.86582362,
-    "popularity": 3
+    "popularity": 33
   },
   {
     "title": "Dino Game",
@@ -2552,7 +2552,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/dino-game-chrome/cover/dino-game-chrome.png?w=320",
     "description": "🏆 Dino Game brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.82057537,
-    "popularity": 27
+    "popularity": 82
   },
   {
     "title": "Niko and Dino Run",
@@ -2565,7 +2565,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/niko-and-dino-run/cover/niko-and-dino-run.png?w=320",
     "description": "🏆 Niko and Dino Run brings you top-tier gaming enjoyment! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.78998737,
-    "popularity": 25
+    "popularity": 46
   },
   {
     "title": "Jurassic Run",
@@ -2578,7 +2578,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/jurassic-run/cover/jurassic-run.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Jurassic Run! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.77992563,
-    "popularity": 20
+    "popularity": 3
   },
   {
     "title": "Donutosaur 2",
@@ -2592,7 +2592,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/donutosaur-2/cover/donutosaur-2.png?w=320",
     "description": "🎮 Donutosaur 2 - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.77969551,
-    "popularity": 41
+    "popularity": 97
   },
   {
     "title": "Dino Dash",
@@ -2605,7 +2605,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/dino-dash/cover/dino-dash.png?w=320",
     "description": "🎮 Dino Dash - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.77876106,
-    "popularity": 78
+    "popularity": 19
   },
   {
     "title": "Dinosaur Runner 3D",
@@ -2619,7 +2619,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/dinosaur-runner-3d/cover/dinosaur-runner-3d.png?w=320",
     "description": "✨ Explore the amazing world of Dinosaur Runner 3D! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.7645073,
-    "popularity": 27
+    "popularity": 18
   },
   {
     "title": "Donutosaur",
@@ -2633,7 +2633,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/donutosaur/cover/donutosaur.png?w=320",
     "description": "✨ Explore the amazing world of Donutosaur! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7612268,
-    "popularity": 72
+    "popularity": 73
   },
   {
     "title": "Glauron: dragon tales",
@@ -2645,7 +2645,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/glauron-dragon-tales/cover/glauron-dragon-tales.png?w=320",
     "description": "✨ Explore the amazing world of Glauron: dragon tales! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.75830052,
-    "popularity": 88
+    "popularity": 94
   },
   {
     "title": "MechDinosaur",
@@ -2658,7 +2658,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mechdinosaur/cover/mechdinosaur.png?w=320",
     "description": "⭐ Discover the true charm of gaming in MechDinosaur! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.72190698,
-    "popularity": 57
+    "popularity": 10
   },
   {
     "title": "Stickman. Dinosaur arena",
@@ -2672,7 +2672,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/stickman-dinosaur-arena/cover/stickman-dinosaur-arena.png?w=320",
     "description": "Start your adventure journey in Stickman. Dinosaur arena! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.67977659,
-    "popularity": 53
+    "popularity": 54
   },
   {
     "title": "Dino Fusion Bubble Evolution",
@@ -2686,7 +2686,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/dino-fusion-bubble-evolution/cover/dino-fusion-bubble-evolution.png?w=320",
     "description": "Start your adventure journey in Dino Fusion Bubble Evolution! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67532468,
-    "popularity": 44
+    "popularity": 38
   },
   {
     "title": "Hunter Willie",
@@ -2698,7 +2698,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/hunter-willie/cover/hunter-willie.png?w=320",
     "description": "Start your adventure journey in Hunter Willie! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6558227930912255,
-    "popularity": 64
+    "popularity": 45
   },
   {
     "title": "Going Right",
@@ -2712,7 +2712,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/going-right/cover/going-right.png?w=320",
     "description": "🚀 Experience the stunning sensations of Going Right! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.89622367,
-    "popularity": 53
+    "popularity": 35
   },
   {
     "title": "Cat Clicker",
@@ -2739,7 +2739,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bouncing-bug/cover/bouncing-bug.png?w=320",
     "description": "🎮 Bouncing Bug - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.87937835,
-    "popularity": 38
+    "popularity": 57
   },
   {
     "title": "Hungry Squirrel",
@@ -2751,7 +2751,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/hungry-squirrel/cover/hungry-squirrel.png?w=320",
     "description": "✨ Explore the amazing world of Hungry Squirrel! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.87046632,
-    "popularity": 82
+    "popularity": 94
   },
   {
     "title": "Going up",
@@ -2766,7 +2766,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/going-up/cover/going-up.png?w=320",
     "description": "🏆 Going up brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.86664964,
-    "popularity": 64
+    "popularity": 51
   },
   {
     "title": "Shadobirds",
@@ -2779,7 +2779,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/shadobirds/cover/shadobirds.png?w=320",
     "description": "✨ Explore the amazing world of Shadobirds! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.86600504,
-    "popularity": 37
+    "popularity": 62
   },
   {
     "title": "Egg Fry",
@@ -2793,7 +2793,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/egg-fry/cover/egg-fry.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Egg Fry! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.86187845,
-    "popularity": 96
+    "popularity": 83
   },
   {
     "title": "Drag me-ow",
@@ -2807,7 +2807,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/drag-me-ow/cover/drag-me-ow.png?w=320",
     "description": "🏆 Drag me-ow brings you top-tier gaming enjoyment! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.86028404,
-    "popularity": 72
+    "popularity": 15
   },
   {
     "title": "Bunny Stack Jump",
@@ -2824,7 +2824,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bunny-stack-jump/cover/bunny-stack-jump.png?w=320",
     "description": "🏆 Bunny Stack Jump brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.84983094,
-    "popularity": 40
+    "popularity": 26
   },
   {
     "title": "Super Cute Cat",
@@ -2838,7 +2838,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/super-cute-cat/cover/super-cute-cat.png?w=320",
     "description": "🎮 Super Cute Cat - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Innovative game mechanics bring fresh excitement. Start your gaming journey and create your own legend!",
     "quality_score": 0.83659026,
-    "popularity": 67
+    "popularity": 73
   },
   {
     "title": "Bee Careful",
@@ -2852,7 +2852,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bee-careful/cover/bee-careful.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Bee Careful! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.82423602,
-    "popularity": 15
+    "popularity": 1
   },
   {
     "title": "Eatable Birds",
@@ -2865,7 +2865,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/eatable-birds/cover/eatable-birds.png?w=320",
     "description": "🏆 Eatable Birds brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.81271383,
-    "popularity": 42
+    "popularity": 61
   },
   {
     "title": "A Mole in a Hole",
@@ -2878,7 +2878,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/a-mole-in-a-hole/cover/a-mole-in-a-hole.png?w=320",
     "description": "⭐ Discover the true charm of gaming in A Mole in a Hole! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.80769074,
-    "popularity": 59
+    "popularity": 19
   },
   {
     "title": "Noob Huggy Kissiy",
@@ -2892,7 +2892,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/noob-huggy-kissiy/cover/noob-huggy-kissiy.png?w=320",
     "description": "🎮 Noob Huggy Kissiy - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.80288302,
-    "popularity": 45
+    "popularity": 54
   },
   {
     "title": "Big Shark",
@@ -2905,7 +2905,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/big-shark/cover/big-shark.png?w=320",
     "description": "🚀 Experience the stunning sensations of Big Shark! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.80082827,
-    "popularity": 85
+    "popularity": 73
   },
   {
     "title": "Panda Fight",
@@ -2918,7 +2918,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/panda-fight/cover/panda-fight.png?w=320",
     "description": "🎮 Panda Fight - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.79748719,
-    "popularity": 55
+    "popularity": 29
   },
   {
     "title": "Idle Zoo",
@@ -2931,7 +2931,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/idle-zoo/cover/idle-zoo.png?w=320",
     "description": "🏆 Idle Zoo brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Start your gaming journey and create your own legend!",
     "quality_score": 0.79628954,
-    "popularity": 52
+    "popularity": 23
   },
   {
     "title": "Tiny Chick",
@@ -2945,7 +2945,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/tiny-chick/cover/tiny-chick.png?w=320",
     "description": "🚀 Experience the stunning sensations of Tiny Chick! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.79475485,
-    "popularity": 73
+    "popularity": 48
   },
   {
     "title": "Save kitten",
@@ -2957,7 +2957,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/save-kitten/cover/save-kitten.png?w=320",
     "description": "✨ Explore the amazing world of Save kitten! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.78684562,
-    "popularity": 91
+    "popularity": 99
   },
   {
     "title": "Runaway Toad",
@@ -2969,7 +2969,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/runaway-toad/cover/runaway-toad.png?w=320",
     "description": "🚀 Experience the stunning sensations of Runaway Toad! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.7818616,
-    "popularity": 54
+    "popularity": 16
   },
   {
     "title": "Run Fish Run",
@@ -2982,7 +2982,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/run-fish-run/cover/run-fish-run.png?w=320",
     "description": "✨ Explore the amazing world of Run Fish Run! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.77876106,
-    "popularity": 10
+    "popularity": 9
   },
   {
     "title": "Slime Clicker",
@@ -2996,7 +2996,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/slime-clicker/cover/slime-clicker.png?w=320",
     "description": "✨ Explore the amazing world of Slime Clicker! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Start your gaming journey and create your own legend!",
     "quality_score": 0.77807502,
-    "popularity": 0
+    "popularity": 25
   },
   {
     "title": "Island Puzzle",
@@ -3009,7 +3009,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/island-puzzle/cover/island-puzzle.png?w=320",
     "description": "🎮 Island Puzzle - A meticulously crafted premium gaming experience! Whether it's game mechanics or visual effects, we are committed to providing you with a perfect experience of great choice for brain training. Rich game content ensures you'll never get bored. Start your gaming journey and create your own legend!",
     "quality_score": 0.77345662,
-    "popularity": 66
+    "popularity": 30
   },
   {
     "title": "Jungle Bricks Breaker",
@@ -3023,7 +3023,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/jungle-bricks-breaker/cover/jungle-bricks-breaker.png?w=320",
     "description": "🚀 Experience the stunning sensations of Jungle Bricks Breaker! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.7706422,
-    "popularity": 88
+    "popularity": 42
   },
   {
     "title": "Baby Monster Jump",
@@ -3037,7 +3037,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/baby-monster-jump/cover/baby-monster-jump.png?w=320",
     "description": "🎮 Baby Monster Jump - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.76876974,
-    "popularity": 67
+    "popularity": 30
   },
   {
     "title": "Red and Blue Cat",
@@ -3050,7 +3050,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/red-and-blue-cat/cover/red-and-blue-cat.png?w=320",
     "description": "🎮 Red and Blue Cat - A meticulously crafted premium gaming experience! This meticulously crafted game will bring you a premium experience of great choice for brain training. Beautiful game graphics enhance visual enjoyment. Start your gaming journey and create your own legend!",
     "quality_score": 0.7645073,
-    "popularity": 73
+    "popularity": 88
   },
   {
     "title": "Froggy Tower",
@@ -3065,7 +3065,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/froggy-tower/cover/froggy-tower.png?w=320",
     "description": "🎮 Froggy Tower - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.75645334,
-    "popularity": 2
+    "popularity": 36
   },
   {
     "title": "Raccoon Retail",
@@ -3077,7 +3077,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/raccoon-retail/cover/raccoon-retail.png?w=320",
     "description": "🎮 Raccoon Retail - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.75302118,
-    "popularity": 27
+    "popularity": 45
   },
   {
     "title": "Stacky Bird",
@@ -3091,7 +3091,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/stacky-bird/cover/stacky-bird.png?w=320",
     "description": "✨ Explore the amazing world of Stacky Bird! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.74805807,
-    "popularity": 61
+    "popularity": 91
   },
   {
     "title": "Crab Shooter",
@@ -3103,7 +3103,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/crab-shooter/cover/crab-shooter.png?w=320",
     "description": "✨ Explore the amazing world of Crab Shooter! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.74226804,
-    "popularity": 95
+    "popularity": 37
   },
   {
     "title": "Tactical Penguin",
@@ -3116,7 +3116,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/tactical-penguin/cover/tactical-penguin.png?w=320",
     "description": "🎮 Tactical Penguin - A meticulously crafted premium gaming experience! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73691281,
-    "popularity": 92
+    "popularity": 50
   },
   {
     "title": "Find the Fish",
@@ -3128,7 +3128,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/find-the-fish/cover/find-the-fish.png?w=320",
     "description": "✨ Explore the amazing world of Find the Fish! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.73663465,
-    "popularity": 95
+    "popularity": 51
   },
   {
     "title": "Animal Match Master",
@@ -3143,7 +3143,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/animal-match-master/cover/animal-match-master.png?w=320",
     "description": "🎮 Animal Match Master - A meticulously crafted premium gaming experience! Every detail is carefully polished to ensure you can great choice for brain training and enjoy gaming fun with friends and enjoy unparalleled game quality. Diverse game modes meet the needs of different players. Come challenge yourself and experience the stunning impact of top-tier games!",
     "quality_score": 0.7311828,
-    "popularity": 23
+    "popularity": 42
   },
   {
     "title": "Idle Cat Town Clicker",
@@ -3157,7 +3157,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/idle-cat-town-clicker/cover/idle-cat-town-clicker.png?w=320",
     "description": "✨ Explore the amazing world of Idle Cat Town Clicker! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.72887516,
-    "popularity": 62
+    "popularity": 43
   },
   {
     "title": "Tap the Frog",
@@ -3171,7 +3171,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/tap-the-frog/cover/tap-the-frog.png?w=320",
     "description": "🏆 Tap the Frog brings you top-tier gaming enjoyment! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.72840542,
-    "popularity": 18
+    "popularity": 67
   },
   {
     "title": "Angry Tower",
@@ -3185,7 +3185,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/angry-tower/cover/angry-tower.png?w=320",
     "description": "✨ Explore the amazing world of Angry Tower! Through excellent game design and beautiful graphics, you can exciting and fun gaming experience and feel the artistic charm of gaming. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72495497,
-    "popularity": 85
+    "popularity": 83
   },
   {
     "title": "Jump Sheep Game",
@@ -3198,7 +3198,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/jump-sheep-game/cover/jump-sheep-game.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Jump Sheep Game! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72332114,
-    "popularity": 85
+    "popularity": 54
   },
   {
     "title": "Flappy Bird 3D",
@@ -3213,7 +3213,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/flappy-bird-3d/cover/flappy-bird-3d.png?w=320",
     "description": "🏆 Flappy Bird 3D brings you top-tier gaming enjoyment! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.72097986,
-    "popularity": 6
+    "popularity": 34
   },
   {
     "title": "Squicky",
@@ -3225,7 +3225,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/squicky/cover/squicky.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Squicky! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71974606,
-    "popularity": 50
+    "popularity": 9
   },
   {
     "title": "Help The Cat",
@@ -3239,7 +3239,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/help-the-cat/cover/help-the-cat.png?w=320",
     "description": "⭐ Discover the true charm of gaming in Help The Cat! Every detail is carefully polished to ensure you can great choice for brain training and enjoy unparalleled game quality. Carefully designed levels bring continuous challenges and fun. Start your gaming journey and create your own legend!",
     "quality_score": 0.71910112,
-    "popularity": 46
+    "popularity": 89
   },
   {
     "title": "Honey Collector Bee Game",
@@ -3251,7 +3251,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/honey-collector-bee-game/cover/honey-collector-bee-game.png?w=320",
     "description": "🚀 Experience the stunning sensations of Honey Collector Bee Game! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Smooth gaming experience keeps you immersed. Start your gaming journey and create your own legend!",
     "quality_score": 0.71538484,
-    "popularity": 47
+    "popularity": 34
   },
   {
     "title": "Pet Drive In",
@@ -3264,7 +3264,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pet-drive-in/cover/pet-drive-in.png?w=320",
     "description": "✨ Explore the amazing world of Pet Drive In! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Download and experience the charm of high-quality gaming right now!",
     "quality_score": 0.71017717,
-    "popularity": 46
+    "popularity": 2
   },
   {
     "title": "Mango Mania",
@@ -3277,7 +3277,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mango-mania/cover/mango-mania.png?w=320",
     "description": "🚀 Experience the stunning sensations of Mango Mania! Every detail is carefully polished to ensure you can exciting and fun gaming experience and enjoy unparalleled game quality. Rich game content ensures you'll never get bored. Ready to take on the challenge? The premium gaming world awaits you!",
     "quality_score": 0.71001541,
-    "popularity": 62
+    "popularity": 14
   },
   {
     "title": "Birdy Bird Floppy",
@@ -3289,7 +3289,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/birdy-bird-floppy/cover/birdy-bird-floppy.png?w=320",
     "description": "✨ Explore the amazing world of Birdy Bird Floppy! This meticulously crafted game will bring you a premium experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Start your gaming journey and create your own legend!",
     "quality_score": 0.70588235,
-    "popularity": 77
+    "popularity": 35
   },
   {
     "title": "SnakeBit 3310",
@@ -3303,7 +3303,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/snakebit-3310/cover/snakebit-3310.png?w=320",
     "description": "SnakeBit 3310 offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.69492739,
-    "popularity": 96
+    "popularity": 94
   },
   {
     "title": "Angry Goat Simulator 3D",
@@ -3316,7 +3316,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/angry-goat-simulator-3d/cover/angry-goat-simulator-3d.png?w=320",
     "description": "Start your adventure journey in Angry Goat Simulator 3D! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Smooth gaming experience keeps you immersed. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6931184,
-    "popularity": 47
+    "popularity": 33
   },
   {
     "title": "Jungle Runner",
@@ -3329,7 +3329,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/jungle-runner/cover/jungle-runner.png?w=320",
     "description": "Start your adventure journey in Jungle Runner! This game will bring you a unique experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69275084,
-    "popularity": 69
+    "popularity": 92
   },
   {
     "title": "Catch the Fly",
@@ -3343,7 +3343,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/catch-the-fly/cover/catch-the-fly.png?w=320",
     "description": "Catch the Fly offers you an unprecedented gaming experience! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69135802,
-    "popularity": 48
+    "popularity": 61
   },
   {
     "title": "Eggs Breaker Game",
@@ -3356,7 +3356,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/eggs-breaker-game/cover/eggs-breaker-game.png?w=320",
     "description": "Ready to experience the endless fun that Eggs Breaker Game brings? Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69135802,
-    "popularity": 89
+    "popularity": 52
   },
   {
     "title": "Cow Cow Run",
@@ -3369,7 +3369,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/cow-cow-run/cover/cow-cow-run.png?w=320",
     "description": "Welcome to the amazing world of Cow Cow Run! This game will bring you a unique experience of exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.69115776,
-    "popularity": 76
+    "popularity": 30
   },
   {
     "title": "Clouds and Sheep 2",
@@ -3381,7 +3381,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/clouds-and-sheep-2/cover/clouds-and-sheep-2.png?w=320",
     "description": "Explore the infinite possibilities hidden in Clouds and Sheep 2! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.68599796,
-    "popularity": 34
+    "popularity": 82
   },
   {
     "title": "Flappy Bird Classic",
@@ -3395,7 +3395,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/flappy-bird-classic/cover/flappy-bird-classic.png?w=320",
     "description": "Explore the infinite possibilities hidden in Flappy Bird Classic! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.68330701,
-    "popularity": 41
+    "popularity": 30
   },
   {
     "title": "Angry Flocks",
@@ -3408,7 +3408,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/angry-flocks/cover/angry-flocks.png?w=320",
     "description": "Angry Flocks offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Balanced game difficulty suits players of all levels. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.683080378474316,
-    "popularity": 73
+    "popularity": 93
   },
   {
     "title": "Eat To Evolve",
@@ -3420,7 +3420,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/eat-to-evolve/cover/eat-to-evolve.png?w=320",
     "description": "Eat To Evolve offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Rich game content ensures you'll never get bored. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.68282444,
-    "popularity": 49
+    "popularity": 67
   },
   {
     "title": "Snake Escape",
@@ -3434,7 +3434,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/snake-escape/cover/snake-escape.png?w=320",
     "description": "Explore the infinite possibilities hidden in Snake Escape! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6812335051015215,
-    "popularity": 13
+    "popularity": 40
   },
   {
     "title": "Angry Monsters",
@@ -3447,7 +3447,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/angry-monsters/cover/angry-monsters.png?w=320",
     "description": "Angry Monsters offers you an unprecedented gaming experience! This game will bring you a unique experience of great choice for brain training. Diverse game modes meet the needs of different players. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.679519332222378,
-    "popularity": 30
+    "popularity": 36
   },
   {
     "title": "Puppy Battle",
@@ -3460,7 +3460,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/puppy-battle/cover/puppy-battle.png?w=320",
     "description": "Explore the infinite possibilities hidden in Puppy Battle! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6767452012936469,
-    "popularity": 10
+    "popularity": 70
   },
   {
     "title": "Feeding Fish",
@@ -3473,7 +3473,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/feeding-fish/cover/feeding-fish.png?w=320",
     "description": "Welcome to the amazing world of Feeding Fish! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.67532468,
-    "popularity": 21
+    "popularity": 87
   },
   {
     "title": "Pet Salon Simulator",
@@ -3485,7 +3485,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/pet-salon-simulator/cover/pet-salon-simulator.png?w=320",
     "description": "Explore the infinite possibilities hidden in Pet Salon Simulator! This game will bring you a unique experience of exciting and fun gaming experience. Diverse game modes meet the needs of different players. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.67532468,
-    "popularity": 46
+    "popularity": 14
   },
   {
     "title": "Ninja Pig",
@@ -3497,7 +3497,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/ninja-pig/cover/ninja-pig.png?w=320",
     "description": "Ninja Pig offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.66905126,
-    "popularity": 6
+    "popularity": 28
   },
   {
     "title": "Save the Crumb",
@@ -3509,7 +3509,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/save-the-crumb/cover/save-the-crumb.png?w=320",
     "description": "Welcome to the amazing world of Save the Crumb! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Beautiful game graphics enhance visual enjoyment. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.6645244585332913,
-    "popularity": 16
+    "popularity": 22
   },
   {
     "title": "Panda Escape with Piggy 2",
@@ -3522,7 +3522,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/panda-escape-with-piggy-2/cover/panda-escape-with-piggy-2.png?w=320",
     "description": "Explore the infinite possibilities hidden in Panda Escape with Piggy 2! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.66317936,
-    "popularity": 18
+    "popularity": 39
   },
   {
     "title": "Jumping Raccoon",
@@ -3535,7 +3535,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/jumping-raccoon/cover/jumping-raccoon.png?w=320",
     "description": "Start your adventure journey in Jumping Raccoon! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Beautiful game graphics enhance visual enjoyment. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.65753425,
-    "popularity": 92
+    "popularity": 29
   },
   {
     "title": "Beenvaders",
@@ -3550,7 +3550,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/beenvaders/cover/beenvaders.png?w=320",
     "description": "Start your adventure journey in Beenvaders! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6506722812573791,
-    "popularity": 11
+    "popularity": 95
   },
   {
     "title": "Color Snake DX",
@@ -3564,7 +3564,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/color-snake-dx/cover/color-snake-dx.png?w=320",
     "description": "Color Snake DX offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Carefully designed levels bring continuous challenges and fun. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.64754532,
-    "popularity": 54
+    "popularity": 81
   },
   {
     "title": "Bunny Jump Plus",
@@ -3578,7 +3578,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/bunny-jump-plus/cover/bunny-jump-plus.png?w=320",
     "description": "Bunny Jump Plus offers you an unprecedented gaming experience! This game will bring you a unique experience of exciting and fun gaming experience. Balanced game difficulty suits players of all levels. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.63768116,
-    "popularity": 78
+    "popularity": 73
   },
   {
     "title": "No Mice in the Kitchen",
@@ -3591,7 +3591,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/no-mice-in-the-kitchen/cover/no-mice-in-the-kitchen.png?w=320",
     "description": "Start your adventure journey in No Mice in the Kitchen! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.63768116,
-    "popularity": 60
+    "popularity": 10
   },
   {
     "title": "Classic Snake HTML5",
@@ -3604,7 +3604,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/classic-snake-html5/cover/classic-snake-html5.png?w=320",
     "description": "Explore the infinite possibilities hidden in Classic Snake HTML5! Through carefully designed game mechanics, you can exciting and fun gaming experience and immerse yourself in gaming fun. Innovative game mechanics bring fresh excitement. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.63376559,
-    "popularity": 41
+    "popularity": 94
   },
   {
     "title": "Animal Cells",
@@ -3617,7 +3617,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/animal-cells/cover/animal-cells.png?w=320",
     "description": "Animal Cells offers you an unprecedented gaming experience! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.63244156,
-    "popularity": 31
+    "popularity": 55
   },
   {
     "title": "Johnny the Worm",
@@ -3630,7 +3630,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/johnny-the-worm/cover/johnny-the-worm.png?w=320",
     "description": "Start your adventure journey in Johnny the Worm! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Rich game content ensures you'll never get bored. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.62086063,
-    "popularity": 67
+    "popularity": 17
   },
   {
     "title": "Mr Flap",
@@ -3645,7 +3645,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mr-flap/cover/mr-flap.png?w=320",
     "description": "Mr Flap offers you an unprecedented gaming experience! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Join the game now and enjoy an unparalleled gaming experience!",
     "quality_score": 0.6166451630338214,
-    "popularity": 16
+    "popularity": 29
   },
   {
     "title": "Animal Puzzle",
@@ -3658,7 +3658,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/animal-puzzle-jungle/cover/animal-puzzle-jungle.png?w=320",
     "description": "Welcome to the amazing world of Animal Puzzle! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Balanced game difficulty suits players of all levels. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.61538462,
-    "popularity": 44
+    "popularity": 95
   },
   {
     "title": "Mole a Whack",
@@ -3672,7 +3672,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/mole-a-whack/cover/mole-a-whack.png?w=320",
     "description": "Start your adventure journey in Mole a Whack! Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Beautiful game graphics enhance visual enjoyment. Come challenge yourself and see how high you can reach!",
     "quality_score": 0.61538462,
-    "popularity": 89
+    "popularity": 24
   },
   {
     "title": "Frog Match Master",
@@ -3684,7 +3684,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/frog-match-master/cover/frog-match-master.png?w=320",
     "description": "Welcome to the amazing world of Frog Match Master! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.61538462,
-    "popularity": 51
+    "popularity": 63
   },
   {
     "title": "Froggee",
@@ -3696,7 +3696,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/froggee/cover/froggee.png?w=320",
     "description": "Ready to experience the endless fun that Froggee brings? Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Game controls are simple and intuitive, perfect for beginners to get started quickly. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.6092850748883851,
-    "popularity": 40
+    "popularity": 54
   },
   {
     "title": "Happy Kittens Puzzle",
@@ -3709,7 +3709,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/happy-kittens-puzzle/cover/happy-kittens-puzzle.png?w=320",
     "description": "Ready to experience the endless fun that Happy Kittens Puzzle brings? This game will bring you a unique experience of great choice for brain training. Smooth gaming experience keeps you immersed. Ready to take on the challenge? The gaming world awaits you!",
     "quality_score": 0.607863112213577,
-    "popularity": 69
+    "popularity": 95
   },
   {
     "title": "Flying Gorilla 3D",
@@ -3723,7 +3723,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/flying-gorilla-3d/cover/flying-gorilla-3d.png?w=320",
     "description": "Ready to experience the endless fun that Flying Gorilla 3D brings? Here, you can exciting and fun gaming experience and enjoy the endless charm of gaming. Diverse game modes meet the needs of different players. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.6066503,
-    "popularity": 43
+    "popularity": 66
   },
   {
     "title": "Animal Circle",
@@ -3737,7 +3737,7 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/animal-circle/cover/animal-circle.png?w=320",
     "description": "Explore the infinite possibilities hidden in Animal Circle! Through carefully designed game mechanics, you can great choice for brain training and immerse yourself in gaming fun. Game controls are simple and intuitive, perfect for beginners to get started quickly. Begin your gaming adventure and create your own legendary story!",
     "quality_score": 0.60144286,
-    "popularity": 54
+    "popularity": 56
   },
   {
     "title": "Blow Fish",
@@ -3750,6 +3750,6 @@ export const search_kids = [
     "image": "https://img.gamepix.com/games/blow-fish/cover/blow-fish.png?w=320",
     "description": "Start your adventure journey in Blow Fish! Whether you're a beginner or experienced player, you can find your own happiness in exciting and fun gaming experience. Innovative game mechanics bring fresh excitement. Start your gaming journey right now and experience amazing excitement!",
     "quality_score": 0.60092466,
-    "popularity": 97
+    "popularity": 53
   }
 ];
